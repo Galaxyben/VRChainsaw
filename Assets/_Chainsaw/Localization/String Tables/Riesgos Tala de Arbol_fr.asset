@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Riesgos Tala de Arbol_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 579c64b0ac5981c4e9f5ad9e5b34b06c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38855860224
+    m_Localized: "Prenez la tron\xE7onneuse du sol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637440
+    m_Localized: "Effectuez un D\xC9MARRAGE \xC0 CHAUD (la POSITION DU STARTER n'est
+      pas n\xE9cessaire)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637441
+    m_Localized: "FA\xC7ON CORRECTE DE TENIR LA TRON\xC7ONNEUSE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637442
+    m_Localized: "ATTENTION!. Tenez la tron\xE7onneuse avec la poign\xE9e gauche
+      de la poign\xE9e avant (pour cela, appuyez sur la g\xE2chette et la poign\xE9e
+      gauche et maintenez-les enfonc\xE9s pour tenir la poign\xE9e). IL EST ESSENTIEL
+      DE PASSER LE POUCE DE LA MAIN GAUCHE SOUS LA POIGN\xC9E POUR FERMER COMPL\xC8TEMENT
+      LA MAIN GAUCHE AUTOUR DE LA POIGN\xC9E AVANT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637443
+    m_Localized: "ATTENTION!. Avec la poign\xE9e droite, tenez la poign\xE9e arri\xE8re
+      (pour cela, appuyez sur la poign\xE9e droite et maintenez-la, la g\xE2chette
+      de la poign\xE9e droite sera utilis\xE9e comme acc\xE9l\xE9rateur de la tron\xE7onneuse)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637444
+    m_Localized: "INTERDIT DE TENIR LA TRON\xC7ONNEUSE AVEC UNE SEULE MAIN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637445
+    m_Localized: "INTERDIT DE FAIRE DES COUPES AVEC DES PERSONNES \xC0 MOINS DE 2
+      M\xC8TRES EN CERCLE DE LA ZONE DE COUPE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637446
+    m_Localized: "INTERDIT DE COUPER AVEC UNE TRON\xC7ONNEUSE \xC0 UNE HAUTEUR AU-DESSUS
+      DE NOS \xC9PAULES."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637447
+    m_Localized: "ATTENTION!: NE FAITES PAS DE MOUVEMENTS DE SCIAGE. SI LA MACHINE
+      S'ARR\xCATE AU MILIEU DE LA COUPE, RETIREZ LA TRON\xC7ONNEUSE \xC0 L'ARR\xCAT
+      ET ESSAYEZ DE NOUVEAU. NE LA D\xC9MARREZ PAS AU MILIEU DE LA COUPE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637448
+    m_Localized: "La planification lors de l'abattage est essentielle ; nous devons
+      prendre en compte les facteurs et \xE9l\xE9ments qui peuvent constituer un
+      risque pour abattre les arbres de mani\xE8re s\xFBre et contr\xF4l\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637449
+    m_Localized: "Nous devons observer la pr\xE9sence proche de lignes \xE9lectriques
+      dans la zone o\xF9 nous voulons abattre l'arbre. Il doit y avoir une distance
+      ad\xE9quate entre l'abattage de l'arbre et les lignes \xE9lectriques. Consultez
+      la r\xE9glementation de votre pays pour conna\xEEtre les d\xE9tails des distances
+      de s\xE9curit\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637450
+    m_Localized: "De plus, nous prendrons en compte d'autres \xE9l\xE9ments o\xF9
+      l'arbre abattu pourrait tomber, comme les routes et les b\xE2timents. Si ces
+      \xE9l\xE9ments se trouvent dans la zone d'abattage, des mesures sp\xE9ciales
+      devront \xEAtre prises."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637451
+    m_Localized: "Dans des conditions normales, il est totalement d\xE9conseill\xE9
+      d'abattre des arbres par des conditions m\xE9t\xE9orologiques d\xE9favorables,
+      telles que de fortes chutes de neige, des pluies ou des orages avec des composants
+      \xE9lectriques, ainsi que des brouillards denses. Une attention particuli\xE8re
+      doit \xEAtre port\xE9e au vent : il ne faut pas abattre d'arbres avec des vents
+      sup\xE9rieurs \xE0 40 kilom\xE8tres par heure."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637452
+    m_Localized: "Pour cr\xE9er un p\xE9rim\xE8tre de s\xE9curit\xE9 autour de l'arbre
+      \xE0 abattre, nous devons d'abord conna\xEEtre sa hauteur. Il existe plusieurs
+      m\xE9thodes pour la mesurer, plus ou moins complexes. Nous allons vous expliquer
+      une m\xE9thode tr\xE8s simple et facile qui vous permettra d'estimer la hauteur
+      de l'arbre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831744
+    m_Localized: "Tenez un b\xE2ton avec le bras tendu droit devant vous de sorte
+      que la longueur du b\xE2ton soit \xE9gale \xE0 la distance entre votre \u0153il
+      et votre main. Ensuite, placez le b\xE2ton en position verticale de mani\xE8re
+      \xE0 former un triangle rectangle entre votre \u0153il, votre main et le sommet
+      du b\xE2ton."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831745
+    m_Localized: "Visez l'arbre et placez-vous \xE0 une distance o\xF9 l'arbre semble
+      aussi haut que la longueur du b\xE2ton. Si l'arbre est pench\xE9, vous obtiendrez
+      des r\xE9sultats plus pr\xE9cis en effectuant la mesure de c\xF4t\xE9, de sorte
+      que l'arbre ne soit pas inclin\xE9 vers vous ni dans la direction oppos\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831746
+    m_Localized: "La distance entre l'endroit o\xF9 vous vous trouvez et l'arbre
+      sera \xE9gale \xE0 sa hauteur. Comptez les pas ou mesurez avec un m\xE8tre
+      ruban. Ajoutez toujours une large marge d'erreur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831747
+    m_Localized: "Une fois que nous connaissons la hauteur de l\u2019arbre, nous
+      allons cr\xE9er un p\xE9rim\xE8tre de s\xE9curit\xE9. Ce p\xE9rim\xE8tre de
+      s\xE9curit\xE9 doit avoir un rayon d\u2019au moins deux fois la hauteur de
+      l\u2019arbre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831748
+    m_Localized: "Pointez avec le pointeur vers les arbres d\xE9sign\xE9s pour cr\xE9er
+      le p\xE9rim\xE8tre de s\xE9curit\xE9 avec du ruban de signalisation. Maintenez
+      le bouton de d\xE9clenchement enfonc\xE9 entre un arbre et un autre pour cr\xE9er
+      le p\xE9rim\xE8tre avec le ruban de signalisation."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831749
+    m_Localized: "Nous nous assurerons que l'arbre est en bon \xE9tat et ne pr\xE9sente
+      pas de signes de pourriture \xE0 sa base, car cela pourrait entra\xEEner son
+      effondrement sur nous une fois que nous commen\xE7ons l\u2019abattage, ne tombant
+      pas sur un c\xF4t\xE9, mais sur lui-m\xEAme."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831750
+    m_Localized: "Nous prendrons \xE9galement en compte l\u2019\xE9tat des branches,
+      avec une pr\xE9caution particuli\xE8re pour celles qui pourraient \xEAtre cass\xE9es
+      et tomber pendant le processus d\u2019abattage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831751
+    m_Localized: "Tout arbre a une orientation naturelle de chute, qui peut \xEAtre
+      d\xE9termin\xE9e par son inclinaison, la forme et l\u2019emplacement de ses
+      branches, l\u2019accumulation de neige, etc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831752
+    m_Localized: "Dans la mesure du possible, nous devons abattre l\u2019arbre de
+      mani\xE8re \xE0 ce qu\u2019il tombe dans sa direction naturelle de chute. Si
+      cela n\u2019est pas viable, nous devrons utiliser des techniques sp\xE9ciales
+      pour le faire tomber dans une direction diff\xE9rente de son inclinaison naturelle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831753
+    m_Localized: "Cr\xE9ez une zone d'\xE9vacuation en supprimant les buissons et
+      obstacles proches \xE0 l'aide du pointeur de la commande sous un angle d'environ
+      45 degr\xE9s des deux c\xF4t\xE9s derri\xE8re l'arbre \xE0 abattre. Pointez
+      le pointeur sur le buisson que vous souhaitez \xE9liminer et appuyez sur le
+      bouton de d\xE9clenchement pour le retirer."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

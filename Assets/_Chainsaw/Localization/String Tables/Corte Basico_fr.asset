@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corte Basico_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: dc4a69a5d6334a34caffa8972b72c4a9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 19964715008
+    m_Localized: "Prenez la tron\xE7onneuse du sol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492224
+    m_Localized: "Effectuez un D\xC9MARRAGE \xC0 CHAUD (la POSITION DU STARTER n'est
+      pas n\xE9cessaire)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492225
+    m_Localized: "FA\xC7ON CORRECTE DE TENIR LA TRON\xC7ONNEUSE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492226
+    m_Localized: "ATTENTION!. Tenez la tron\xE7onneuse avec la poign\xE9e gauche
+      de la poign\xE9e avant (pour cela, appuyez sur la g\xE2chette et la poign\xE9e
+      gauche et maintenez-les enfonc\xE9s pour tenir la poign\xE9e). IL EST ESSENTIEL
+      DE PASSER LE POUCE DE LA MAIN GAUCHE SOUS LA POIGN\xC9E POUR FERMER COMPL\xC8TEMENT
+      LA MAIN GAUCHE AUTOUR DE LA POIGN\xC9E AVANT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492227
+    m_Localized: "ATTENTION!. Avec la poign\xE9e droite, tenez la poign\xE9e arri\xE8re
+      (pour cela, appuyez sur la poign\xE9e droite et maintenez-la, la g\xE2chette
+      de la poign\xE9e droite sera utilis\xE9e comme acc\xE9l\xE9rateur de la tron\xE7onneuse)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492228
+    m_Localized: "INTERDIT DE TENIR LA TRON\xC7ONNEUSE AVEC UNE SEULE MAIN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492229
+    m_Localized: "INTERDIT DE FAIRE DES COUPES AVEC DES PERSONNES \xC0 MOINS DE 2
+      M\xC8TRES EN CERCLE DE LA ZONE DE COUPE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492230
+    m_Localized: "INTERDIT DE COUPER AVEC UNE TRON\xC7ONNEUSE \xC0 UNE HAUTEUR AU-DESSUS
+      DE NOS \xC9PAULES."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492231
+    m_Localized: "Placez-vous en face de la b\xFBche marqu\xE9e pour commencer la
+      coupe \xE0 mi-hauteur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492232
+    m_Localized: "ATTENTION!: Gardez le dos droit, pliez l\xE9g\xE8rement les genoux
+      et avancez votre jambe gauche. Placez la tron\xE7onneuse pr\xE8s de votre corps
+      \xE0 la hauteur du c\xF4t\xE9 droit de votre taille."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686528
+    m_Localized: "ATTENTION!: LA TRON\xC7ONNEUSE ALLUM\xC9E DOIT TOUJOURS \xCATRE
+      HORS DE LA TRAJECTOIRE DE COUPE DE NOTRE PROPRE CORPS."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686529
+    m_Localized: "INTERDIT DE PLACER LA TRON\xC7ONNEUSE ALLUM\xC9E DEVANT NOUS."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686530
+    m_Localized: "Maintenant, acc\xE9l\xE9rez la tron\xE7onneuse avec la g\xE2chette
+      du bouton droit et appuyez la base de la lame sur la b\xFBche, en utilisant
+      le BUT\xC9E \xC0 GRIFFES. Le mouvement de coupe sera de haut en bas en utilisant
+      les poignets et les avant-bras avec le BUT\xC9E \xC0 GRIFFES appuy\xE9 sur
+      la b\xFBche."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686531
+    m_Localized: "ATTENTION!: NE FAITES PAS DE MOUVEMENTS DE SCIAGE. SI LA MACHINE
+      S'ARR\xCATE AU MILIEU DE LA COUPE, RETIREZ LA TRON\xC7ONNEUSE \xC0 L'ARR\xCAT
+      ET ESSAYEZ DE NOUVEAU. NE LA D\xC9MARREZ PAS AU MILIEU DE LA COUPE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686532
+    m_Localized: "Placez-vous en face de la b\xFBche marqu\xE9e pour commencer la
+      coupe \xE0 basse hauteur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686533
+    m_Localized: "ATTENTION!: Gardez le dos droit, pliez compl\xE8tement les genoux
+      et avancez votre jambe gauche. Placez la tron\xE7onneuse pr\xE8s de votre corps
+      \xE0 la hauteur du c\xF4t\xE9 droit de votre taille."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686534
+    m_Localized: "ATTENTION: NE VOUS PENCHER PAS LE DOS POUR FAIRE DES COUPES \xC0
+      BASSE HAUTEUR, CAR CELA PEUT CAUSER DES BLESSURES LOMBAIRES."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686535
+    m_Localized: "Maintenant, acc\xE9l\xE9rez la tron\xE7onneuse avec la g\xE2chette
+      du bouton droit et appuyez la base de la lame sur la b\xFBche, en utilisant
+      le BUT\xC9E \xC0 GRIFFES. Le mouvement de coupe sera de haut en bas en utilisant
+      les poignets et les avant-bras avec le BUT\xC9E \xC0 GRIFFES appuy\xE9 sur
+      la b\xFBche."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

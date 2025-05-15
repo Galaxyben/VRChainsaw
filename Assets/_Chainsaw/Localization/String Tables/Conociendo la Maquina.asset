@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Conociendo la Maquina
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: afb138397c98a9b43b6d2fba1835219d, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: d6e9d770d72b85e479e1cc862f63583f, type: 2}
+  - {fileID: 11400000, guid: eb130a74b0c99914594cf30bf4db8c9a, type: 2}
+  - {fileID: 11400000, guid: 608b3a5aeff0dda4a8687f0102a36132, type: 2}
+  - {fileID: 11400000, guid: 9f3f858c9fce31543bf27140abd93427, type: 2}
+  - {fileID: 11400000, guid: c126010139ceebb4f98a6f8e06ef555d, type: 2}
+  - {fileID: 11400000, guid: 99819263c15cec94cad4794ae551c46d, type: 2}
+  - {fileID: 11400000, guid: 556f65fde86bdd4459c3fd6b32c36bb2, type: 2}
+  - {fileID: 11400000, guid: cc6e28fce8723414b96ed073c4e0d8f9, type: 2}
+  - {fileID: 11400000, guid: b12ab4ff626e8e447a4f63c0a696386a, type: 2}
+  - {fileID: 11400000, guid: c460c0ad63d996d49b3fc89079faaf1a, type: 2}
+  - {fileID: 11400000, guid: f6318768a9834a54c8401f3c09db6d6c, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

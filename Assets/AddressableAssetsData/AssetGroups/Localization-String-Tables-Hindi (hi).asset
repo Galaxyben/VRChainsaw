@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Hindi (hi)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Hindi (hi)
+  m_GUID: d3a050a0d956b9446ad153986062523e
+  m_SerializeEntries:
+  - m_GUID: 3aebea7b6a3451748bc4313d09b3ddae
+    m_Address: Revision de seguridad_hi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4644dc177f68eeb4d8d1721e2ea1eaba
+    m_Address: Commons_hi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bf1428d0c38a274681618dd9ecb933a
+    m_Address: Arranque en frio_hi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d39335c1c95cfb42b2be1b464efddc2
+    m_Address: TEMP Aprendiendo a usar la maquina_hi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b305880ee4f9d448b04df71a3d88006
+    m_Address: Riesgos Tala de Arbol_hi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5e40fbdf9a057842afb09a0153e62f3
+    m_Address: Riesgo de retroceso_hi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c04c1baf17e2c704cade5765f71144f4
+    m_Address: Corte Derribo de Arbol_hi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c460c0ad63d996d49b3fc89079faaf1a
+    m_Address: Conociendo la Maquina_hi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0111977670dc974c9ca95eca73e1f9f
+    m_Address: Corte Basico_hi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hi
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 471f7e7c326f2684f9123aa6e76f82f3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6afcea98edbc2ba4b9ed6efb36d02802, type: 2}
+    - {fileID: 11400000, guid: 00ad9fdd26cac174d8a7c37e84148270, type: 2}

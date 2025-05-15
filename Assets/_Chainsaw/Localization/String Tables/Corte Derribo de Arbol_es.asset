@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corte Derribo de Arbol_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 637ef3ff49c818c43941cb2c3426a8e7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20975542272
+    m_Localized: Coge la motosierra del suelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319488
+    m_Localized: Realiza un ARRANQUE EN CALIENTE (no es necesario el ESTRANGULADOR
+      POSICION ON)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319489
+    m_Localized: FORMA CORRECTA DE COGER LA MOTOSIERRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319490
+    m_Localized: "ATENCI\xD3N!. Coge la motosierra con el mando izquierdo de la empu\xF1adura
+      delantera (para ello, pulsa el trigger y grip de mando izquierdo y mantenlos
+      pulsados para coger la empu\xF1adura). FUNDAMENTAL PASAR EL PULGAR DE LA MANO
+      IZQUIERDA POR DEBAJO DE LA EMPU\xD1ADURA PARA CERRAR LA MANO IZQUIERDA POR
+      COMPLETO ALREDEDOR DE LA EMPU\xD1ADURA DELANTERA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319491
+    m_Localized: "ATENCI\xD3N!. Con el mando derecho, coge la empu\xF1adura trasera
+      (para ello, pulsa el grip del mando derecho y mantenlo, el trigger del mando
+      derecho lo utilizaremos como acelerador de la motosierra)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319492
+    m_Localized: PROHIBIDO COGER LA MOTOSIERRA SOLO CON UNA MANO.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319493
+    m_Localized: PROHIBIDO REALIZAR CORTES CON PERSONAS ALREDEDOR AL MENOS 2 METROS
+      EN CIRCULO A LA ZONA DE CORTE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319494
+    m_Localized: PROHIBIDO CORTAR CON UNA MOTOSIERRA A UNA ALTURA POR ENCIMA DE NUESTROS
+      HOMBROS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319495
+    m_Localized: "ATENCI\xD3N!: NO HACER MOVIMIENTOS DE SERRADO. SI LA M\xC1QUINA
+      SE PARA EN MEDIO DEL CORTE, SACAR LA MOTOSIERRA PARADA E INTENTARLO DE NUEVO.
+      NO ARRANCARLA EN MEDIO DEL CORTE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319496
+    m_Localized: "Cuando queramos realizar el derribo de un \xE1rbol, deberemos realizar
+      dos tipos de corte b\xE1sicos: el direccional y el de tala. Entre ambos deberemos
+      de dejar un espacio de madera intacta que llamaremos bisagra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319497
+    m_Localized: "El corte direccional m\xE1s com\xFAn es el de apertura en \xE1ngulo.
+      Es el m\xE1s recomendable porque se puede utilizar en la mayor\xEDa de los
+      casos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319498
+    m_Localized: "El corte direccional tiene dos etapas, un corte superior en \xE1ngulo,
+      y un corte inferior en recto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319499
+    m_Localized: "Col\xF3cate apoyado en tu rodilla y realiza un primer corte en
+      la zona marcada con la parte inferior de la espada y un \xE1ngulo de ataque
+      de 45 grados. El corte debe estar entre un 15 y 20% del di\xE1metro del tronco."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513792
+    m_Localized: "Ahora, mientras te mantienes con la rodilla en el suelo, realizaremos
+      el corte inferior con la parte inferior de la espada y de forma recta. El corte
+      se completa cuando coincida con el corte en \xE1ngulo, obteniendo una cu\xF1a
+      de madera."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513793
+    m_Localized: "Para que el corte direccional sea correcto, debe hacerse lo m\xE1s
+      cerca posible de la base del \xE1rbol, para aportar estabilidad y control al
+      derribo del \xE1rbol."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513794
+    m_Localized: El corte de tala se realiza una vez realizado el corte direccional
+      y justo en el lado contrario donde se ha realizado este.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513795
+    m_Localized: "Ahora, col\xF3cate en la parte contraria y, mientras te mantienes
+      con la rodilla en el suelo, realizaremos el corte con la parte inferior de
+      la espada y de forma recta en la zona marcada. Este corte se realiza al mismo
+      nivel o un poco por encima del corte direccional."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513796
+    m_Localized: Es muy importante detener el corte de tala antes de alcanzar el
+      corte direccional, para formar lo que se conoce como bisagra.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513797
+    m_Localized: "La bisagra es un elemento clave a la hora de garantizar un derribo
+      del \xE1rbol seguro y limpio. La madera que queda intacta entre los dos cortes,
+      realiza la funci\xF3n de apoyo y dirige al \xE1rbol en su derribo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513798
+    m_Localized: "La bisagra debe de tener una longitud y grosor uniforme. Su longitud
+      tendr\xE1 que ser de al menos el 80% y su grosor al menos de un 10% del di\xE1metro
+      del \xE1rbol."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513799
+    m_Localized: "El \xE1ngulo del corte direccional determinar\xE1 el tiempo en
+      el cual la bisagra se mantendr\xE1 intacta. \xC1ngulos por debajo de 45 grados
+      acelerar\xE1n el derribo del \xE1rbol."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513800
+    m_Localized: "Una vez realizados ambos cortes, el \xE1rbol se derribar\xE1 en
+      la direcci\xF3n donde realizamos el corte direccional."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

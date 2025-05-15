@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Revision de seguridad_sv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv
+  m_SharedData: {fileID: 11400000, guid: 7e86d7cdd9c6efd40b3fb64245898586, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7304535273725952
+    m_Localized: "Nu ska vi genomf\xF6ra s\xE4kerhetsprotokollet f\xF6r arbete med
+      motors\xE5gen. G\xE5 till den gr\xF6na cirkeln framf\xF6r bordet d\xE4r skyddsutrustningen
+      finns."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086080
+    m_Localized: "Skogshj\xE4lm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086081
+    m_Localized: "Skogshj\xE4lmen \xE4r en viktig skyddsutrustning f\xF6r arbete
+      i skogsmilj\xF6er. Den inkluderar vanligtvis en h\xE5llbar hj\xE4lm som skyddar
+      huvudet mot st\xF6tar, en visir eller metallsk\xE4rm f\xF6r att skydda ansiktet
+      fr\xE5n flisor och skr\xE4p, samt h\xF6rselskydd som minskar bullret fr\xE5n
+      verktyg som motors\xE5gar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086082
+    m_Localized: "Skyddsst\xF6vlar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086083
+    m_Localized: "Skyddsst\xF6vlar f\xF6r motors\xE5g \xE4r en viktig utrustning
+      f\xF6r dem som arbetar i skogsmilj\xF6er eller utf\xF6r tr\xE4dg\xE5rds- och
+      avverkningsarbete. Dessa st\xF6vlar \xE4r utformade f\xF6r att erbjuda h\xF6g
+      motst\xE5ndskraft mot sk\xE4rskador, tack vare sitt speciella material som
+      kan stoppa motors\xE5gskedjan vid en olycka. Dessutom \xE4r de vanligtvis vattent\xE4ta
+      och har halkfria sulor f\xF6r \xF6kad s\xE4kerhet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086084
+    m_Localized: "Sk\xE4rskyddskl\xE4der"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280384
+    m_Localized: "Sk\xE4rskyddskl\xE4der f\xF6r motors\xE5g \xE4r utformade f\xF6r
+      att skydda anv\xE4ndaren fr\xE5n oavsiktliga sk\xE4rskador. De tillverkas med
+      specialmaterial, s\xE5som motst\xE5ndskraftiga fibrer, som stoppar kedjan vid
+      kontakt och f\xF6rhindrar allvarliga skador. De \xE4r oumb\xE4rliga f\xF6r
+      skogs- eller tr\xE4dg\xE5rdsarbete som involverar anv\xE4ndning av motors\xE5gar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280385
+    m_Localized: "Du har redan din skyddsutrustning p\xE5 dig, g\xE5 nu till den
+      gr\xF6na cirkeln d\xE4r motors\xE5gen och de andra verktygen finns f\xF6r att
+      b\xF6rja f\xF6rbereda den innan du startar den."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280386
+    m_Localized: "Ta bensindunken och h\xE4ll den i tanken f\xF6r att fylla motors\xE5gen
+      med br\xE4nsle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280387
+    m_Localized: "Den ideala blandningen f\xF6r en motors\xE5g \xE4r vanligtvis blyfri
+      bensin och tv\xE5taktsolja i f\xF6rh\xE5llandet 50:1 (50 delar bensin till
+      1 del olja). Det \xE4r avg\xF6rande att anv\xE4nda specifik olja f\xF6r tv\xE5taktsmotorer
+      och blanda v\xE4l innan du fyller tanken. Detta s\xE4kerst\xE4ller optimal
+      prestanda och skyddar motorn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280388
+    m_Localized: "Br\xE4nsle har spillts p\xE5 bordet och \xF6ver motors\xE5gen.
+      Vi m\xE5ste vara f\xF6rsiktiga eftersom det kan orsaka br\xE4nder n\xE4r motors\xE5gen
+      \xE4r ig\xE5ng p\xE5 grund av motorns v\xE4rme."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280389
+    m_Localized: "Ta trasan och torka upp br\xE4nslespillet fr\xE5n bordet och motors\xE5gen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280390
+    m_Localized: "Ta motors\xE5gen och \xF6ppna sm\xF6rjtanken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280391
+    m_Localized: "Sm\xF6rjning av kedjan \xE4r viktigt n\xE4r du anv\xE4nder en motors\xE5g
+      f\xF6r att undvika \xF6verhettning under s\xE5gning och f\xF6r att s\xE4kerst\xE4lla
+      att den roterar runt sv\xE4rdet utan friktion. Detta f\xF6rl\xE4nger sv\xE4rdets
+      och kedjans livsl\xE4ngd."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280392
+    m_Localized: "Klart. Sm\xF6rjoljetanken \xE4r fylld."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280393
+    m_Localized: "Nu ska vi kontrollera kedjesp\xE4nningen p\xE5 motors\xE5gen. H\xE5ll
+      motors\xE5gen med en hand och ta tag i kedjans undersida med den andra handen
+      och dra ner\xE5t."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474688
+    m_Localized: "Kedjan str\xE4cks med anv\xE4ndning. En kedja utan tillr\xE4cklig
+      sp\xE4nning kan lossna och orsaka allvarliga, till och med d\xF6dliga, olyckor.
+      D\xE4rf\xF6r \xE4r det viktigt att justera den ofta f\xF6r att kompensera f\xF6r
+      denna f\xF6r\xE4ndring. Kedjesp\xE4nningen b\xF6r kontrolleras varje g\xE5ng
+      br\xE4nslet fylls p\xE5. Nya kedjor kr\xE4ver en ink\xF6rningsperiod under
+      vilken sp\xE4nningen b\xF6r kontrolleras oftare."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474689
+    m_Localized: "Anv\xE4nd kombinyckeln f\xF6r att lossa muttrarna p\xE5 sv\xE4rdet
+      som h\xE5ller kopplingsk\xE5pan. Sp\xE4nn kedjan med spetsen p\xE5 sv\xE4rdet
+      upp\xE5t. F\xF6r att g\xF6ra detta, anv\xE4nd kombinyckeln f\xF6r att dra \xE5t
+      sp\xE4nnskruven genom att vrida den \xE5t h\xF6ger. Sp\xE4nn kedjan tills den
+      slutar h\xE4nga p\xE5 undersidan av sv\xE4rdet. Kontrollera att kedjan l\xE4tt
+      kan roteras f\xF6r hand och att den inte h\xE4nger under sv\xE4rdet. Anv\xE4nd
+      kombinyckeln f\xF6r att dra \xE5t muttrarna p\xE5 sv\xE4rdet igen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474690
+    m_Localized: "Vi har avslutat den grundl\xE4ggande kontrollen innan vi b\xF6rjar
+      arbeta med motors\xE5gen. Ut\xF6ver denna kontroll b\xF6r du utf\xF6ra regelbundet
+      underh\xE5ll, inklusive reng\xF6ring av filter, slipning av kedjan och kontroll
+      av t\xE4ndstiftet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474691
+    m_Localized: "Ta motors\xE5gens sv\xE4rdsskydd och s\xE4tt det p\xE5 sv\xE4rdet.
+      Kom ih\xE5g att alltid transportera motors\xE5gen avst\xE4ngd och med sv\xE4rdsskyddet
+      p\xE5 plats."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474692
+    m_Localized: "Teleportera dig till motors\xE5gens startomr\xE5de."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

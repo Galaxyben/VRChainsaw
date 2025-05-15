@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Chinese (Simplified) (zh)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Chinese (Simplified) (zh)
+  m_GUID: d426393aa42432446bdd502b4f7dbc62
+  m_SerializeEntries:
+  - m_GUID: 0ab1553a6a0750240894e93fe9998cdd
+    m_Address: TEMP Aprendiendo a usar la maquina_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4de8e8d1b2efdbb4490ec35045bd0954
+    m_Address: Revision de seguridad_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53ae2659e080c3a4e91a4c6d456c79f5
+    m_Address: Corte Basico_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bfb9502f5d5858489fdc5c47456ae09
+    m_Address: Corte Derribo de Arbol_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7344a568e787c5843a43eeaef3b42251
+    m_Address: Arranque en frio_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8379d000a7af6944091ec7f89cab2aca
+    m_Address: Riesgos Tala de Arbol_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9dbead37afb48f42b4fb3a582098229
+    m_Address: Commons_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6318768a9834a54c8401f3c09db6d6c
+    m_Address: Conociendo la Maquina_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffdc5ccbc62da2944a812b77cc84b52d
+    m_Address: Riesgo de retroceso_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 471f7e7c326f2684f9123aa6e76f82f3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 85931aaf5a4b0cf4fb45e230351d5a9e, type: 2}
+    - {fileID: 11400000, guid: 3f5b2afa4ced51f42813dfe98662a812, type: 2}

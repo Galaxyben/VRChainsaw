@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Revision de seguridad_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 7e86d7cdd9c6efd40b3fb64245898586, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7304535273725952
+    m_Localized: "Agora vamos realizar o protocolo de trabalho seguro com a motosserra,
+      dirija-se ao c\xEDrculo verde em frente \xE0 mesa onde est\xE3o os equipamentos
+      de prote\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086080
+    m_Localized: Capacete florestal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086081
+    m_Localized: "O capacete florestal \xE9 um equipamento de prote\xE7\xE3o essencial
+      para trabalhar em ambientes florestais. Normalmente, inclui um capacete resistente
+      que protege a cabe\xE7a contra impactos, uma viseira ou tela met\xE1lica para
+      proteger o rosto de lascas e detritos, e abafadores que reduzem o ru\xEDdo
+      de ferramentas como motosserras."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086082
+    m_Localized: "Botas de prote\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086083
+    m_Localized: "As botas de prote\xE7\xE3o para motosserra s\xE3o um equipamento
+      essencial para quem trabalha em ambientes florestais ou realiza tarefas de
+      jardinagem e corte de \xE1rvores. Essas botas s\xE3o projetadas para oferecer
+      alta resist\xEAncia a cortes, gra\xE7as ao seu material especial que pode parar
+      a corrente da motosserra em caso de acidente. Al\xE9m disso, geralmente s\xE3o
+      imperme\xE1veis e possuem solados antiderrapantes para maior seguran\xE7a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086084
+    m_Localized: Roupas anticut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280384
+    m_Localized: "As roupas anticut para motosserra s\xE3o projetadas para proteger
+      o usu\xE1rio de cortes acidentais. S\xE3o fabricadas com materiais especiais,
+      como fibras resistentes, que interrompem a corrente ao contato, evitando les\xF5es
+      graves. S\xE3o essenciais para trabalhos florestais ou de jardinagem que envolvam
+      o uso de motosserras."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280385
+    m_Localized: "J\xE1 est\xE1 com os seus equipamentos de prote\xE7\xE3o colocados,
+      agora dirija-se ao c\xEDrculo verde onde est\xE3o a motosserra e os outros
+      utens\xEDlios para come\xE7ar a sua prepara\xE7\xE3o antes de lig\xE1-la."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280386
+    m_Localized: "Pegue o gal\xE3o de gasolina e despeje-o no tanque para encher
+      a motosserra de combust\xEDvel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280387
+    m_Localized: "A mistura ideal para uma motosserra \xE9 geralmente gasolina sem
+      chumbo e \xF3leo dois tempos na propor\xE7\xE3o de 50:1 (50 partes de gasolina
+      para 1 de \xF3leo). \xC9 crucial usar \xF3leo espec\xEDfico para motores dois
+      tempos e misturar bem antes de encher o tanque. Isso garante um desempenho
+      ideal e protege o motor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280388
+    m_Localized: "Derramou-se combust\xEDvel na mesa e por cima da motosserra. Precisamos
+      ter cuidado, pois isso pode causar inc\xEAndios quando a motosserra estiver
+      em funcionamento devido ao calor do motor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280389
+    m_Localized: "Pegue o pano e limpe o derramamento de combust\xEDvel da mesa e
+      da motosserra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280390
+    m_Localized: Pegue a motosserra e abra o tanque de lubrificante.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280391
+    m_Localized: "A lubrifica\xE7\xE3o da corrente \xE9 importante ao usar uma motosserra
+      para evitar que ela superaque\xE7a durante o corte e para garantir que ela
+      gire em torno da barra guia sem atrito. Isso prolonga a vida \xFAtil da barra
+      guia e da corrente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280392
+    m_Localized: "Pronto. O tanque de \xF3leo lubrificante foi preenchido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280393
+    m_Localized: "Agora vamos verificar a tens\xE3o da corrente da motosserra. Segure
+      a motosserra com uma m\xE3o e, com a outra, pegue na parte inferior da corrente
+      e puxe-a para baixo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474688
+    m_Localized: "A corrente se estica com o uso. Uma corrente com tens\xE3o insuficiente
+      pode soltar-se e causar acidentes graves, at\xE9 mesmo fatais. Portanto, \xE9
+      importante ajust\xE1-la frequentemente para compensar essa mudan\xE7a. A tens\xE3o
+      da corrente deve ser verificada toda vez que o combust\xEDvel for reabastecido.
+      Correntes novas exigem um per\xEDodo de rodagem, durante o qual a tens\xE3o
+      deve ser monitorada com maior frequ\xEAncia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474689
+    m_Localized: "Com a chave combinada, afrouxe as porcas da barra que seguram a
+      tampa da embreagem. Estique a corrente com a ponta da barra apontada para cima.
+      Para isso, use a chave combinada para apertar o parafuso tensor girando-o para
+      a direita. Estique a corrente at\xE9 que ela n\xE3o fique mais pendurada na
+      parte inferior da barra. Verifique se a corrente pode ser girada facilmente
+      \xE0 m\xE3o e se n\xE3o est\xE1 pendurada na parte inferior da barra. Use a
+      chave combinada para apertar novamente as porcas da barra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474690
+    m_Localized: "Conclu\xEDmos a verifica\xE7\xE3o b\xE1sica antes de come\xE7ar
+      a trabalhar com a motosserra. Al\xE9m dessa verifica\xE7\xE3o, deve realizar
+      revis\xF5es peri\xF3dicas, incluindo limpeza dos filtros, afia\xE7\xE3o da
+      corrente e verifica\xE7\xE3o da vela de igni\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474691
+    m_Localized: Pegue a capa do sabre da motosserra e coloque-a no sabre. Lembre-se
+      de sempre transportar a motosserra desligada e com a capa do sabre colocada.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474692
+    m_Localized: "Teletransporte-se at\xE9 a \xE1rea de partida da motosserra."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

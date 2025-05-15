@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corte Derribo de Arbol_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 637ef3ff49c818c43941cb2c3426a8e7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20975542272
+    m_Localized: "Prenez la tron\xE7onneuse du sol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319488
+    m_Localized: "Effectuez un D\xC9MARRAGE \xC0 CHAUD (la POSITION DU STARTER n'est
+      pas n\xE9cessaire)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319489
+    m_Localized: "FA\xC7ON CORRECTE DE TENIR LA TRON\xC7ONNEUSE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319490
+    m_Localized: "ATTENTION!. Tenez la tron\xE7onneuse avec la poign\xE9e gauche
+      de la poign\xE9e avant (pour cela, appuyez sur la g\xE2chette et la poign\xE9e
+      gauche et maintenez-les enfonc\xE9s pour tenir la poign\xE9e). IL EST ESSENTIEL
+      DE PASSER LE POUCE DE LA MAIN GAUCHE SOUS LA POIGN\xC9E POUR FERMER COMPL\xC8TEMENT
+      LA MAIN GAUCHE AUTOUR DE LA POIGN\xC9E AVANT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319491
+    m_Localized: "ATTENTION!. Avec la poign\xE9e droite, tenez la poign\xE9e arri\xE8re
+      (pour cela, appuyez sur la poign\xE9e droite et maintenez-la, la g\xE2chette
+      de la poign\xE9e droite sera utilis\xE9e comme acc\xE9l\xE9rateur de la tron\xE7onneuse)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319492
+    m_Localized: "INTERDIT DE TENIR LA TRON\xC7ONNEUSE AVEC UNE SEULE MAIN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319493
+    m_Localized: "INTERDIT DE FAIRE DES COUPES AVEC DES PERSONNES \xC0 MOINS DE 2
+      M\xC8TRES EN CERCLE DE LA ZONE DE COUPE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319494
+    m_Localized: "INTERDIT DE COUPER AVEC UNE TRON\xC7ONNEUSE \xC0 UNE HAUTEUR AU-DESSUS
+      DE NOS \xC9PAULES."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319495
+    m_Localized: "ATTENTION!: NE FAITES PAS DE MOUVEMENTS DE SCIAGE. SI LA MACHINE
+      S'ARR\xCATE AU MILIEU DE LA COUPE, RETIREZ LA TRON\xC7ONNEUSE \xC0 L'ARR\xCAT
+      ET ESSAYEZ DE NOUVEAU. NE LA D\xC9MARREZ PAS AU MILIEU DE LA COUPE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319496
+    m_Localized: "Lorsque nous voulons abattre un arbre, nous devons r\xE9aliser
+      deux types de coupe de base : la coupe directionnelle et la coupe d\u2019abattage.
+      Entre les deux, nous devons laisser un espace de bois intact que nous appellerons
+      charni\xE8re."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319497
+    m_Localized: "La coupe directionnelle la plus courante est celle \xE0 ouverture
+      en angle. C'est la plus recommand\xE9e car elle peut \xEAtre utilis\xE9e dans
+      la plupart des cas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319498
+    m_Localized: "La coupe directionnelle comporte deux \xE9tapes : une coupe sup\xE9rieure
+      en angle et une coupe inf\xE9rieure droite."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319499
+    m_Localized: "Placez-vous appuy\xE9 sur votre genou et effectuez une premi\xE8re
+      coupe dans la zone marqu\xE9e avec la partie inf\xE9rieure de la lame et un
+      angle d\u2019attaque de 45 degr\xE9s. La coupe doit repr\xE9senter entre 15
+      et 20% du diam\xE8tre du tronc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513792
+    m_Localized: "Maintenant, tout en gardant le genou au sol, nous effectuerons
+      la coupe inf\xE9rieure avec la partie inf\xE9rieure de la lame et de mani\xE8re
+      droite. La coupe est compl\xE9t\xE9e lorsqu'elle rejoint la coupe en angle,
+      obtenant ainsi une cale en bois."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513793
+    m_Localized: "Pour que la coupe directionnelle soit correcte, elle doit \xEAtre
+      effectu\xE9e aussi pr\xE8s que possible de la base de l\u2019arbre afin d\u2019apporter
+      stabilit\xE9 et contr\xF4le \xE0 l\u2019abattage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513794
+    m_Localized: "La coupe d\u2019abattage est r\xE9alis\xE9e une fois la coupe directionnelle
+      effectu\xE9e, et elle est r\xE9alis\xE9e exactement du c\xF4t\xE9 oppos\xE9
+      \xE0 celui o\xF9 la coupe directionnelle a \xE9t\xE9 faite."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513795
+    m_Localized: "Maintenant, placez-vous du c\xF4t\xE9 oppos\xE9 et, tout en gardant
+      le genou au sol, nous effectuerons la coupe avec la partie inf\xE9rieure de
+      la lame et de mani\xE8re droite dans la zone marqu\xE9e. Cette coupe se r\xE9alise
+      au m\xEAme niveau ou l\xE9g\xE8rement au-dessus de la coupe directionnelle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513796
+    m_Localized: "Il est tr\xE8s important d\u2019arr\xEAter la coupe d\u2019abattage
+      avant d\u2019atteindre la coupe directionnelle afin de former ce que l\u2019on
+      appelle une charni\xE8re."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513797
+    m_Localized: "La charni\xE8re est un \xE9l\xE9ment cl\xE9 pour garantir un abattage
+      d\u2019arbre s\xFBr et propre. Le bois intact entre les deux coupes sert de
+      support et guide l\u2019arbre dans sa chute."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513798
+    m_Localized: "La charni\xE8re doit avoir une longueur et une \xE9paisseur uniformes.
+      Sa longueur doit \xEAtre d\u2019au moins 80 % et son \xE9paisseur d\u2019au
+      moins 10 % du diam\xE8tre de l\u2019arbre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513799
+    m_Localized: "L'angle de la coupe directionnelle d\xE9terminera le temps pendant
+      lequel la charni\xE8re restera intacte. Des angles inf\xE9rieurs \xE0 45 degr\xE9s
+      acc\xE9l\xE9reront la chute de l\u2019arbre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513800
+    m_Localized: "Une fois les deux coupes r\xE9alis\xE9es, l\u2019arbre tombera
+      dans la direction o\xF9 la coupe directionnelle a \xE9t\xE9 effectu\xE9e."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

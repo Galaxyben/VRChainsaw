@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corte Derribo de Arbol_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 637ef3ff49c818c43941cb2c3426a8e7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20975542272
+    m_Localized: Prendi la motosega da terra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319488
+    m_Localized: "Esegui un AVVIO A CALDO (non \xE8 necessaria la POSIZIONE DELL'ARIA)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319489
+    m_Localized: MODO CORRETTO DI TENERE LA MOTOSEGA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319490
+    m_Localized: "ATTENZIONE!. Tieni la motosega con la maniglia sinistra dell'impugnatura
+      anteriore (per farlo, premi il grilletto e la maniglia sinistra e tienili premuti
+      per afferrare l'impugnatura). \xC8 FONDAMENTALE PASSARE IL POLLICE DELLA MANO
+      SINISTRA SOTTO L'IMPUGNATURA PER CHIUDERE COMPLETAMENTE LA MANO SINISTRA INTORNO
+      ALL'IMPUGNATURA ANTERIORE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319491
+    m_Localized: "ATTENZIONE!. Con l'impugnatura destra, afferra l'impugnatura posteriore
+      (per fare ci\xF2, premi il grip dell'impugnatura destra e tienilo premuto,
+      il grilletto dell'impugnatura destra verr\xE0 utilizzato come acceleratore
+      della motosega)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319492
+    m_Localized: VIETATO TENERE LA MOTOSEGA CON UNA SOLA MANO.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319493
+    m_Localized: VIETATO EFFETTUARE TAGLI CON PERSONE A MENO DI 2 METRI IN CERCHIO
+      DALL'AREA DI TAGLIO.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319494
+    m_Localized: VIETATO TAGLIARE CON UNA MOTOSEGA A UN'ALTEZZA SOPRA LE NOSTRE SPALLE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319495
+    m_Localized: "ATTENZIONE!: NON FARE MOVIMENTI DI SEGA. SE LA MACCHINA SI FERMA
+      A MET\xC0 TAGLIO, RIMUOVERE LA MOTOSEGA SPENTA E RIPROVARCI. NON ACCENDERLA
+      A MET\xC0 TAGLIO."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319496
+    m_Localized: 'Quando vogliamo abbattere un albero, dobbiamo eseguire due tipi
+      di taglio di base: il taglio direzionale e il taglio di abbattimento. Tra i
+      due, dobbiamo lasciare uno spazio di legno intatto che chiameremo cerniera.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319497
+    m_Localized: "Il taglio direzionale pi\xF9 comune \xE8 quello con apertura angolata.
+      \xC8 il pi\xF9 consigliato perch\xE9 pu\xF2 essere utilizzato nella maggior
+      parte dei casi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319498
+    m_Localized: 'Il taglio direzionale ha due fasi: un taglio superiore angolato
+      e un taglio inferiore dritto.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319499
+    m_Localized: Posizionati appoggiato sul ginocchio e esegui il primo taglio nella
+      zona contrassegnata con la parte inferiore della lama e un angolo di attacco
+      di 45 gradi. Il taglio deve essere tra il 15 e il 20% del diametro del tronco.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513792
+    m_Localized: Ora, mentre tieni il ginocchio a terra, eseguiremo il taglio inferiore
+      con la parte inferiore della lama in modo dritto. Il taglio si completa quando
+      coincide con il taglio angolato, ottenendo un cuneo di legno.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513793
+    m_Localized: "Per garantire un corretto taglio direzionale, questo deve essere
+      effettuato il pi\xF9 vicino possibile alla base dell\u2019albero, per fornire
+      stabilit\xE0 e controllo durante l\u2019abbattimento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513794
+    m_Localized: "Il taglio di abbattimento viene eseguito una volta completato il
+      taglio direzionale e viene effettuato esattamente sul lato opposto rispetto
+      a dove \xE8 stato fatto il taglio direzionale."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513795
+    m_Localized: Ora, posizionati sul lato opposto e, mentre mantieni il ginocchio
+      a terra, eseguiremo il taglio con la parte inferiore della lama in modo dritto
+      nella zona segnata. Questo taglio viene effettuato allo stesso livello o leggermente
+      sopra il taglio direzionale.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513796
+    m_Localized: "\xC8 molto importante interrompere il taglio di abbattimento prima
+      di raggiungere il taglio direzionale, per formare quella che \xE8 conosciuta
+      come cerniera."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513797
+    m_Localized: "La cerniera \xE8 un elemento chiave per garantire un abbattimento
+      dell\u2019albero sicuro e pulito. Il legno intatto tra i due tagli funge da
+      supporto e guida l\u2019albero nella sua caduta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513798
+    m_Localized: "La cerniera deve avere una lunghezza e uno spessore uniforme. La
+      sua lunghezza deve essere di almeno l\u201980% e il suo spessore di almeno
+      il 10% del diametro dell\u2019albero."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513799
+    m_Localized: "L'angolo del taglio direzionale determiner\xE0 il tempo in cui
+      la cerniera rimarr\xE0 intatta. Angoli inferiori a 45 gradi accelereranno l'abbattimento
+      dell'albero."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513800
+    m_Localized: "Una volta effettuati entrambi i tagli, l\u2019albero cadr\xE0 nella
+      direzione in cui \xE8 stato eseguito il taglio direzionale."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

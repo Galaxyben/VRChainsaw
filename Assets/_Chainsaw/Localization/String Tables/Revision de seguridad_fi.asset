@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Revision de seguridad_fi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi
+  m_SharedData: {fileID: 11400000, guid: 7e86d7cdd9c6efd40b3fb64245898586, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7304535273725952
+    m_Localized: "Nyt suoritetaan turvallisen ty\xF6n protokolla moottorisahalla.
+      Mene vihre\xE4\xE4n ympyr\xE4\xE4n p\xF6yd\xE4n eteen, jossa suojausvarusteet
+      ovat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086080
+    m_Localized: "Mets\xE4kyp\xE4r\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086081
+    m_Localized: "Mets\xE4kyp\xE4r\xE4 on olennaisen t\xE4rke\xE4 suojavaruste mets\xE4nhoitot\xF6iss\xE4.
+      Se sis\xE4lt\xE4\xE4 yleens\xE4 kest\xE4v\xE4n kyp\xE4r\xE4n, joka suojaa p\xE4\xE4t\xE4
+      iskuilta, visiirin tai metalliverkon, joka suojaa kasvoja siruilta ja roskilta,
+      sek\xE4 kuulosuojaimet, jotka v\xE4hent\xE4v\xE4t esimerkiksi moottorisahojen
+      melua."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086082
+    m_Localized: "Suojakeng\xE4t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086083
+    m_Localized: "Moottorisahan suojakeng\xE4t ovat olennaisen t\xE4rke\xE4 varuste
+      niille, jotka ty\xF6skentelev\xE4t mets\xE4ymp\xE4rist\xF6iss\xE4 tai suorittavat
+      puutarha- ja kaatot\xF6it\xE4. N\xE4m\xE4 keng\xE4t on suunniteltu tarjoamaan
+      korkea leikkauskest\xE4vyys erityisen materiaalinsa ansiosta, joka voi pys\xE4ytt\xE4\xE4
+      moottorisahan ketjun onnettomuuden sattuessa. Lis\xE4ksi ne ovat yleens\xE4
+      vedenpit\xE4vi\xE4 ja niiss\xE4 on liukumattomat pohjat turvallisuuden lis\xE4\xE4miseksi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086084
+    m_Localized: Viiltosuojavaatteet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280384
+    m_Localized: "Moottorisahan viiltosuojavaatteet on suunniteltu suojaamaan k\xE4ytt\xE4j\xE4\xE4
+      tahattomilta viilloilta. Ne valmistetaan erityisist\xE4 materiaaleista, kuten
+      kest\xE4v\xE4st\xE4 kuidusta, joka pys\xE4ytt\xE4\xE4 ketjun kosketuksessa
+      est\xE4en vakavat vammat. Ne ovat v\xE4ltt\xE4m\xE4tt\xF6mi\xE4 mets\xE4t\xF6ihin
+      tai puutarhat\xF6ihin, joissa k\xE4ytet\xE4\xE4n moottorisahaa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280385
+    m_Localized: "Sinulla on jo suojausvarusteet p\xE4\xE4ll\xE4si, siirry nyt vihre\xE4\xE4n
+      ympyr\xE4\xE4n, jossa moottorisaha ja muut ty\xF6kalut ovat, aloittaaksesi
+      niiden valmistelun ennen k\xE4ynnist\xE4mist\xE4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280386
+    m_Localized: "Ota bensakanisteri ja kaada se s\xE4ili\xF6\xF6n t\xE4ytt\xE4\xE4ksesi
+      moottorisahan polttoaineella."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280387
+    m_Localized: "Moottorisahan ihanteellinen seos on yleens\xE4 lyijyt\xF6nt\xE4
+      bensiini\xE4 ja kaksitahti\xF6ljy\xE4 suhteessa 50:1 (50 osaa bensiini\xE4
+      ja 1 osa \xF6ljy\xE4). On t\xE4rke\xE4\xE4 k\xE4ytt\xE4\xE4 nimenomaan kaksitahtimoottoreille
+      tarkoitettua \xF6ljy\xE4 ja sekoittaa hyvin ennen s\xE4ili\xF6n t\xE4ytt\xE4mist\xE4.
+      T\xE4m\xE4 varmistaa optimaalisen suorituskyvyn ja suojaa moottoria."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280388
+    m_Localized: "Polttoainetta on l\xE4ikkynyt p\xF6yd\xE4lle ja moottorisahan p\xE4\xE4lle.
+      Meid\xE4n on oltava varovaisia, sill\xE4 moottorisahan moottorin l\xE4mp\xF6
+      voi aiheuttaa tulipaloja sen ollessa k\xE4ynniss\xE4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280389
+    m_Localized: "Ota r\xE4tti ja pyyhi polttoaineen l\xE4ikkym\xE4 p\xF6yd\xE4lt\xE4
+      ja moottorisahasta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280390
+    m_Localized: "Ota moottorisaha ja avaa voitelus\xE4ili\xF6."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280391
+    m_Localized: "Ketjun voitelu on t\xE4rke\xE4\xE4 moottorisahaa k\xE4ytett\xE4ess\xE4,
+      jotta se ei ylikuumene leikkaamisen aikana ja jotta se py\xF6rii ohjausvarren
+      ymp\xE4ri ilman kitkaa. T\xE4m\xE4 pident\xE4\xE4 ohjausvarren ja ketjun k\xE4ytt\xF6ik\xE4\xE4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280392
+    m_Localized: "Valmista. Voitelu\xF6ljys\xE4ili\xF6 on t\xE4ytetty."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280393
+    m_Localized: "Tarkistetaan nyt moottorisahan ketjun kireys. Pid\xE4 moottorisahaa
+      yhdell\xE4 k\xE4dell\xE4 ja ota toisella k\xE4dell\xE4 kiinni ketjun alaosasta
+      ja ved\xE4 sit\xE4 alasp\xE4in."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474688
+    m_Localized: "Ketju venyy k\xE4yt\xF6ss\xE4. Riitt\xE4m\xE4tt\xF6m\xE4sti kiristetty
+      ketju voi irrota ja aiheuttaa vakavia, jopa kuolemaan johtavia, onnettomuuksia.
+      Siksi on t\xE4rke\xE4\xE4 s\xE4\xE4t\xE4\xE4 sit\xE4 usein t\xE4m\xE4n muutoksen
+      kompensoimiseksi. Ketjun kireys on tarkistettava aina, kun polttoainetta lis\xE4t\xE4\xE4n.
+      Uudet ketjut vaativat sis\xE4\xE4najovaiheen, jonka aikana kireytt\xE4 on tarkkailtava
+      useammin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474689
+    m_Localized: "K\xE4yt\xE4 yhdistelm\xE4avainta ja l\xF6ys\xE4\xE4 ter\xE4n mutterit,
+      jotka pit\xE4v\xE4t kytkinkantta paikallaan. Kirist\xE4 ketju nostamalla ter\xE4n
+      k\xE4rke\xE4 yl\xF6sp\xE4in. Tee t\xE4m\xE4 kirist\xE4m\xE4ll\xE4 kiristysruuvia
+      yhdistelm\xE4avaimella kiert\xE4m\xE4ll\xE4 sit\xE4 my\xF6t\xE4p\xE4iv\xE4\xE4n.
+      Kirist\xE4 ketjua, kunnes se ei en\xE4\xE4 roiku ter\xE4n alapuolella. Varmista,
+      ett\xE4 ketju py\xF6rii helposti k\xE4sin ja ettei se roiku ter\xE4n alaosassa.
+      Kirist\xE4 lopuksi ter\xE4n mutterit uudelleen yhdistelm\xE4avaimella."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474690
+    m_Localized: "Olemme suorittaneet perus tarkistuksen ennen moottorisahan k\xE4ytt\xE4mist\xE4.
+      T\xE4m\xE4n tarkistuksen lis\xE4ksi sinun tulisi suorittaa s\xE4\xE4nn\xF6llinen
+      huolto, johon kuuluu suodattimien puhdistus, ketjun teroitus ja sytytystulpan
+      tarkistus."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474691
+    m_Localized: "Ota moottorisahan ter\xE4suojus ja aseta se ter\xE4n p\xE4\xE4lle.
+      Muista aina kuljettaa moottorisahaa sammutettuna ja ter\xE4suojus paikallaan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474692
+    m_Localized: "Teleportaa moottorisahan k\xE4ynnistysalueelle."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

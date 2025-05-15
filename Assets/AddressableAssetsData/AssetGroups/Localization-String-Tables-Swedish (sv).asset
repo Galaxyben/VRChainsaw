@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Swedish (sv)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Swedish (sv)
+  m_GUID: b52face372cf5cb48b41a9feec696690
+  m_SerializeEntries:
+  - m_GUID: 083708316bd47f146a9f7e9f5feffef9
+    m_Address: Corte Derribo de Arbol_sv
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sv
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 552cff6fee8cded4396eb4557fc3b512
+    m_Address: Corte Basico_sv
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sv
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b6b8ed9f14ee4e47bd17cae4666f87f
+    m_Address: Riesgo de retroceso_sv
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sv
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cfea571618d7074683ce9da71d736da
+    m_Address: Arranque en frio_sv
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sv
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b12ab4ff626e8e447a4f63c0a696386a
+    m_Address: Conociendo la Maquina_sv
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sv
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c30dac4edb6ff35468b8f1dc9a8c7176
+    m_Address: Revision de seguridad_sv
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sv
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f388f2ed6cce0274eb79a26f7beb9e1c
+    m_Address: TEMP Aprendiendo a usar la maquina_sv
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sv
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f86408104c0e49040b2454c429c4ed09
+    m_Address: Riesgos Tala de Arbol_sv
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sv
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd10581093d02e5449731abc02e04b1b
+    m_Address: Commons_sv
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sv
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 471f7e7c326f2684f9123aa6e76f82f3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6ec6682cedf9ea84b9b8a44f25222867, type: 2}
+    - {fileID: 11400000, guid: 6ae84953cd614b74889fac4a4560cf0b, type: 2}

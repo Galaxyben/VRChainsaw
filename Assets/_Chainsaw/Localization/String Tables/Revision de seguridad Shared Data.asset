@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Revision de seguridad Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Revision de seguridad
+  m_TableCollectionNameGuidString: 7e86d7cdd9c6efd40b3fb64245898586
+  m_Entries:
+  - m_Id: 7304535273725952
+    m_Key: REVISION. INTRO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086080
+    m_Key: REVISION. CASCO FORESTAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086081
+    m_Key: REVISION. CASCO FORESTAL. DESCRIPCION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086082
+    m_Key: REVISION. BOTAS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086083
+    m_Key: REVISION. BOTAS. DESCRIPCION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086084
+    m_Key: REVISION. ROPA ANTICORTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280384
+    m_Key: REVISION. ROPA ANTICORTE. DESCRIPCION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280385
+    m_Key: REVISION. SIERRA INTRO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280386
+    m_Key: REVISION. SIERRA COMBUSTIBLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280387
+    m_Key: REVISION. SIERRA COMBUSTIBE. EXPLICACION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280388
+    m_Key: REVISION. SIERRA. DERRAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280389
+    m_Key: REVISION. SIERRA DERRAME LIMPIAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280390
+    m_Key: REVISION. SIERRA LUBRICANTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280391
+    m_Key: REVISION. SIERRA LUBRICANTE. EXPLICACION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280392
+    m_Key: REVISION. SIERRA LUBRICANTE LISTO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280393
+    m_Key: REVISION. SIERRA CADENA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474688
+    m_Key: REVISION. SIERRA CADENA. EXPLICACION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474689
+    m_Key: REVISION. SIERRA CADENA AJUSTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474690
+    m_Key: REVISION. SIERRA TRANSPORTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474691
+    m_Key: REVISION. SIERRA TRANSPORTE. FUNDA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474692
+    m_Key: REVISION. SIERRA DESPLAZAMIENTO
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 339498795875172364
+  references:
+    version: 2
+    RefIds:
+    - rid: 339498795875172364
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1744873048696

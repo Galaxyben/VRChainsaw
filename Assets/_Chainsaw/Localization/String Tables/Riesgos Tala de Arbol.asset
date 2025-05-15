@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Riesgos Tala de Arbol
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 579c64b0ac5981c4e9f5ad9e5b34b06c, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 8379d000a7af6944091ec7f89cab2aca, type: 2}
+  - {fileID: 11400000, guid: 440433c12927e7e469f821c22c938376, type: 2}
+  - {fileID: 11400000, guid: 743e02cc746ca6b48ada43d2902d6821, type: 2}
+  - {fileID: 11400000, guid: 06255ca6e18ad354f88dc4a9de0cb698, type: 2}
+  - {fileID: 11400000, guid: 1165da6dee0dcb145803f85631caea0d, type: 2}
+  - {fileID: 11400000, guid: 9b305880ee4f9d448b04df71a3d88006, type: 2}
+  - {fileID: 11400000, guid: 79fe3558c80e5564c9304ed66035d002, type: 2}
+  - {fileID: 11400000, guid: abb520f00f67ce74a99acb673950442e, type: 2}
+  - {fileID: 11400000, guid: 0bd86c518e13a8443a7b0425fdb97eec, type: 2}
+  - {fileID: 11400000, guid: 179956a6076866a41b1705c52eec05d6, type: 2}
+  - {fileID: 11400000, guid: f86408104c0e49040b2454c429c4ed09, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

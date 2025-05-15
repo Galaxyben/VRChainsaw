@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Riesgos Tala de Arbol_sv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv
+  m_SharedData: {fileID: 11400000, guid: 579c64b0ac5981c4e9f5ad9e5b34b06c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38855860224
+    m_Localized: "Plocka upp motors\xE5gen fr\xE5n marken"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637440
+    m_Localized: "Utf\xF6r en VARMSTART (CHOKE POSITION ON \xE4r inte n\xF6dv\xE4ndig)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637441
+    m_Localized: "R\xC4TT S\xC4TT ATT H\xC5LLA MOTORS\xC5GEN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637442
+    m_Localized: "UPPM\xC4RKSAMHET!. H\xE5ll motors\xE5gen med det v\xE4nstra handtaget
+      p\xE5 det fr\xE4mre greppet (f\xF6r att g\xF6ra detta, tryck p\xE5 avtryckaren
+      och det v\xE4nstra handtaget och h\xE5ll dem nedtryckta f\xF6r att h\xE5lla
+      greppet). DET \xC4R VIKTIGT ATT PASSERA V\xC4NSTER HANDS TUMME UNDER GREPPET
+      F\xD6R ATT HELT ST\xC4NGA V\xC4NSTER HAND RUNT DET FR\xC4MRE GREPPET."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637443
+    m_Localized: "UPPM\xC4RKSAMHET!. Med det h\xF6gra handtaget, h\xE5ll det bakre
+      greppet (f\xF6r att g\xF6ra detta, tryck och h\xE5ll ned det h\xF6gra greppet,
+      det h\xF6gra handtagsutl\xF6saren anv\xE4nds som motors\xE5gens gas)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637444
+    m_Localized: "F\xD6RBJUDET ATT H\xC5LLA MOTORS\xC5GEN MED ENDAST EN HAND."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637445
+    m_Localized: "F\xD6RBJUDET ATT UTF\xD6RA SK\xC4RNINGAR MED PERSONER INOM MINST
+      2 METER I EN CIRKEL RUNT SK\xC4ROMR\xC5DET."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637446
+    m_Localized: "F\xD6RBJUDET ATT SK\xC4RA MED EN MOTORS\xC5G P\xC5 EN H\xD6JD \xD6VER
+      V\xC5RA AXLAR."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637447
+    m_Localized: "UPPM\xC4RKSAMHET!: G\xD6R INTE S\xC5GR\xD6RELSER. OM MASKINEN STANNAR
+      MITT I SK\xC4RET, TA BORT DEN STILLAST\xC5ENDE MOTORS\xC5GEN OCH F\xD6RS\xD6K
+      IGEN. STARTA DEN INTE MITT I SK\xC4RET."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637448
+    m_Localized: "Planering vid tr\xE4df\xE4llning \xE4r avg\xF6rande; vi m\xE5ste
+      ta h\xE4nsyn till de faktorer och element som kan utg\xF6ra en risk f\xF6r
+      att f\xE4lla tr\xE4d p\xE5 ett s\xE4kert och kontrollerat s\xE4tt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637449
+    m_Localized: "Vi m\xE5ste observera n\xE4rvaron av kraftledningar i omr\xE5det
+      d\xE4r vi vill f\xE4lla tr\xE4det. Det b\xF6r finnas ett l\xE4mpligt avst\xE5nd
+      mellan tr\xE4df\xE4llningen och kraftledningen. Kontrollera ditt lands regler
+      f\xF6r att f\xE5 mer information om s\xE4kerhetsavst\xE5nd."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637450
+    m_Localized: "Dessutom kommer vi att ta h\xE4nsyn till andra element d\xE4r det
+      f\xE4llda tr\xE4det kan falla, s\xE5som v\xE4gar och byggnader. Om dessa element
+      finns inom f\xE4llningsomr\xE5det m\xE5ste s\xE4rskilda \xE5tg\xE4rder vidtas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637451
+    m_Localized: "Under normala f\xF6rh\xE5llanden \xE4r det starkt avr\xE5tt att
+      genomf\xF6ra tr\xE4df\xE4llning i ogynnsamma v\xE4derf\xF6rh\xE5llanden, s\xE5som
+      kraftigt sn\xF6fall, regn eller \xE5skv\xE4der med elektriska komponenter,
+      samt t\xE4t dimma. S\xE4rskild h\xE4nsyn ska tas till vinden\u2014tr\xE4df\xE4llning
+      b\xF6r inte utf\xF6ras vid vindhastigheter \xF6ver 40 kilometer per timme."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637452
+    m_Localized: "F\xF6r att skapa en s\xE4kerhetszon runt tr\xE4det som ska f\xE4llas
+      beh\xF6ver vi f\xF6rst veta dess h\xF6jd. Det finns flera metoder f\xF6r att
+      m\xE4ta det, b\xE5de enklare och mer komplexa. H\xE4r \xE4r en mycket enkel
+      och l\xE4ttf\xF6rst\xE5elig metod som l\xE5ter dig uppskatta tr\xE4dets h\xF6jd."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831744
+    m_Localized: "H\xE5ll en pinne med armen utstr\xE4ckt rakt framf\xF6r dig s\xE5
+      att pinnen \xE4r lika l\xE5ng som avst\xE5ndet mellan ditt \xF6ga och din hand.
+      Placera sedan pinnen i vertikalt l\xE4ge s\xE5 att en r\xE4tvinklig triangel
+      bildas mellan ditt \xF6ga, din hand och toppen av pinnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831745
+    m_Localized: "Sikta mot tr\xE4det och st\xE5 p\xE5 ett avst\xE5nd d\xE4r tr\xE4det
+      verkar vara lika h\xF6gt som l\xE4ngden p\xE5 pinnen. Om tr\xE4det lutar f\xE5r
+      du mer exakta resultat om du g\xF6r m\xE4tningen fr\xE5n sidan, s\xE5 att tr\xE4det
+      varken lutar mot dig eller \xE5t motsatt h\xE5ll."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831746
+    m_Localized: "Avst\xE5ndet mellan d\xE4r du befinner dig och tr\xE4det kommer
+      att vara lika med dess h\xF6jd. R\xE4kna stegen eller m\xE4t med ett m\xE5ttband.
+      L\xE4gg alltid till en bred felmarginal."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831747
+    m_Localized: "N\xE4r vi vet tr\xE4dets h\xF6jd ska vi skapa en s\xE4kerhetszon.
+      Denna s\xE4kerhetszon b\xF6r ha en radie som \xE4r minst dubbelt s\xE5 stor
+      som tr\xE4dets h\xF6jd."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831748
+    m_Localized: "Rikta pekaren mot de markerade tr\xE4den f\xF6r att skapa s\xE4kerhetsperimetern
+      med avgr\xE4nsningstejp. H\xE5ll ned avtryckarknappen mellan ett tr\xE4d och
+      ett annat f\xF6r att skapa perimetern med avgr\xE4nsningstejpen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831749
+    m_Localized: "Vi kommer att s\xE4kerst\xE4lla att tr\xE4det \xE4r i gott skick
+      och inte visar tecken p\xE5 r\xF6ta vid basen, eftersom detta kan f\xE5 tr\xE4det
+      att rasa \xF6ver oss n\xE4r vi b\xF6rjar f\xE4llningen, inte falla \xE5t sidan
+      utan p\xE5 sig sj\xE4lv."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831750
+    m_Localized: "Vi kommer ocks\xE5 att beakta grenarnas skick, med s\xE4rskild
+      uppm\xE4rksamhet p\xE5 brutna grenar som kan falla under f\xE4llningsprocessen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831751
+    m_Localized: "Varje tr\xE4d har en naturlig fallriktning, som kan p\xE5verkas
+      av dess lutning, formen och placeringen av dess grenar, sn\xF6ansamlingar etc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831752
+    m_Localized: "N\xE4r det \xE4r m\xF6jligt b\xF6r vi f\xE4lla tr\xE4det s\xE5
+      att det faller i sin naturliga fallriktning. Om detta inte \xE4r genomf\xF6rbart
+      m\xE5ste vi anv\xE4nda speciella tekniker f\xF6r att f\xE4lla tr\xE4det i en
+      annan riktning \xE4n dess naturliga lutning."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831753
+    m_Localized: "Skapa en flyktzon genom att ta bort buskar och hinder i n\xE4rheten
+      med kontrollerns pekare i en vinkel p\xE5 cirka 45 grader p\xE5 b\xE5da sidor
+      bakom tr\xE4det som ska f\xE4llas. Rikta pekaren mot den buske du vill ta bort
+      och tryck p\xE5 avtryckarknappen f\xF6r att eliminera den."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

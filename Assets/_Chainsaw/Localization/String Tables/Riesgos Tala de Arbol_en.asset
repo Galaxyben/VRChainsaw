@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Riesgos Tala de Arbol_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 579c64b0ac5981c4e9f5ad9e5b34b06c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38855860224
+    m_Localized: Pick up the chainsaw from the ground
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637440
+    m_Localized: Perform a HOT START (the CHOKE POSITION ON is not necessary)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637441
+    m_Localized: CORRECT WAY TO HOLD THE CHAINSAW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637442
+    m_Localized: ATTENTION!. Hold the chainsaw with the left handle of the front
+      grip (to do this, press the trigger and left handle grip and keep them pressed
+      to hold the grip). IT IS ESSENTIAL TO PASS THE LEFT HAND THUMB UNDER THE GRIP
+      TO COMPLETELY CLOSE THE LEFT HAND AROUND THE FRONT GRIP.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637443
+    m_Localized: ATTENTION!. With the right handle, hold the rear grip (to do this,
+      press the right handle grip and hold it, the right handle trigger will be used
+      as the chainsaw accelerator).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637444
+    m_Localized: PROHIBITED TO HOLD THE CHAINSAW WITH ONLY ONE HAND.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637445
+    m_Localized: PROHIBITED TO MAKE CUTS WITH PEOPLE AROUND AT LEAST 2 METERS IN
+      A CIRCLE FROM THE CUTTING AREA.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637446
+    m_Localized: PROHIBITED TO CUT WITH A CHAINSAW AT A HEIGHT ABOVE OUR SHOULDERS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637447
+    m_Localized: 'ATTENTION!: DO NOT MAKE SAWING MOVEMENTS. IF THE MACHINE STOPS
+      MID-CUT, REMOVE THE STOPPED CHAINSAW AND TRY AGAIN. DO NOT START IT IN THE
+      MIDDLE OF THE CUT.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637448
+    m_Localized: Planning when carrying out logging is vital; we must consider those
+      factors and elements that may pose a risk to safely and controlledly felling
+      trees.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637449
+    m_Localized: We must observe the proximity of power lines in the area where we
+      want to fell the tree. There should be an adequate distance between the tree
+      felling and the power lines. Check your country's regulations for more details
+      on safety distances.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637450
+    m_Localized: Additionally, we will consider other elements where the felled tree
+      may fall, such as roads and buildings. If these elements are within the felling
+      area, special measures will need to be taken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637451
+    m_Localized: "Under normal circumstances, it is strongly discouraged to carry
+      out tree felling in adverse weather conditions, such as heavy snowfalls, rain,
+      or thunderstorms with electrical components, as well as dense fog. Special
+      consideration should be given to the wind\u2014tree felling should not be performed
+      with winds exceeding 40 kilometers per hour."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637452
+    m_Localized: To create a safety perimeter around the tree to be felled, we first
+      need to determine its height. There are several methods to measure it, ranging
+      from simple to complex. Here is a very easy and straightforward method that
+      will allow you to estimate the height of the tree.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831744
+    m_Localized: Hold a stick with your arm extended straight in front of you so
+      that the length of the stick is equal to the distance between your eye and
+      your hand. Then, place the stick in a vertical position so that a right triangle
+      is formed between your eye, hand, and the top of the stick.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831745
+    m_Localized: Aim at the tree and stand at a distance where the tree appears as
+      tall as the length of the stick. If the tree is leaning, you will get more
+      accurate results if you take the measurement from the side so that the tree
+      is not leaning towards you or away from you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831746
+    m_Localized: The distance between where you are and the tree will be equal to
+      its height. Count the steps or measure with a tape measure. Always add a wide
+      margin of error.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831747
+    m_Localized: Once we know the height of the tree, we will create a safety perimeter.
+      This safety perimeter should have a radius from the tree of at least twice
+      its height.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831748
+    m_Localized: Point with the pointer at the designated trees to create the safety
+      perimeter with marking tape. Hold down the trigger button between one tree
+      and another to create the perimeter with the marking tape.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831749
+    m_Localized: We will ensure that the tree is in good condition and does not show
+      signs of decay at its base, as this could cause the tree to collapse on us
+      once we start felling it, not falling to one side but onto itself.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831750
+    m_Localized: We will also take into account the condition of the branches, paying
+      special attention to any broken branches that could fall during the felling
+      process.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831751
+    m_Localized: Every tree has a natural falling direction, which may be influenced
+      by its inclination, the shape and location of its branches, accumulation of
+      snow, etc.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831752
+    m_Localized: Whenever possible, we should fell the tree so that it falls in its
+      natural falling direction. If this is not feasible, we must use special techniques
+      to make the tree fall in a direction different from its natural inclination.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831753
+    m_Localized: Create an escape zone by removing nearby bushes and obstacles using
+      the controller pointer at an angle of about 45 degrees on both sides behind
+      the tree to be felled. Point the pointer at the bush you want to remove and
+      press the trigger button to eliminate it.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

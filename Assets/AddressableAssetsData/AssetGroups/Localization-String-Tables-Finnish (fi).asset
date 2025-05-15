@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Finnish (fi)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Finnish (fi)
+  m_GUID: ee332823d2a717c478b8712c5c794d3b
+  m_SerializeEntries:
+  - m_GUID: 16005361e0255c04c8055eb2660f6346
+    m_Address: TEMP Aprendiendo a usar la maquina_fi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64870813ef2e70546a24858a1d1fddbc
+    m_Address: Riesgo de retroceso_fi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 743e02cc746ca6b48ada43d2902d6821
+    m_Address: Riesgos Tala de Arbol_fi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96fa842cb409ceb4a8a333c1248f0082
+    m_Address: Corte Basico_fi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9df7920afd86ab9428ead3b36b05edb9
+    m_Address: Commons_fi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f3f858c9fce31543bf27140abd93427
+    m_Address: Conociendo la Maquina_fi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a874de3f586f46147b5bd0eb81ce61ed
+    m_Address: Corte Derribo de Arbol_fi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d360456179db50549b9b142f217e6259
+    m_Address: Arranque en frio_fi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8d37965da4402e49bb9d7049ba903a5
+    m_Address: Revision de seguridad_fi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fi
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 471f7e7c326f2684f9123aa6e76f82f3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bb7d033be81735d45a0858ebe7bb9f59, type: 2}
+    - {fileID: 11400000, guid: d22d6aa7ffdb63c40903327992e90614, type: 2}

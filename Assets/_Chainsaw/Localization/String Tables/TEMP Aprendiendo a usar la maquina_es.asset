@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TEMP Aprendiendo a usar la maquina_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 40f428f848850a349872478ab3f9e64f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 337637105664
+    m_Localized: 'Reglas
+
+
+
+      - No agarrar la motosierra con una mano
+
+      -
+      Realizar cortes con personas alrededor de al menos 2m
+
+      - Prohibido cortar
+      con una motosierra a una altura por encima de nuestros hombros.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13194818838528
+    m_Localized: Sosten la motosierra del piso con la mano izquierda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18461174358016
+    m_Localized: Aprieta 3 veces el purgador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18865991802880
+    m_Localized: "Pon el estrangulador en posici\xF3n ON"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19247681855488
+    m_Localized: Pon la motosierra firmemente en el suelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355703201816576
+    m_Localized: "La motosierra debe estar sobre una superficie plana, y la cadena
+      no puede tener contacto con el suelo, ya que, de otra manera, al arrancarla
+      se da\xF1ar\xEDa el filo y se pondr\xEDa en peligro innecesariamente tu seguridad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703394414944256
+    m_Localized: "Hemos realizado la operaci\xF3n denominada ARRANQUE EN FRIO, se
+      utiliza para realizar el encendido de la motosierra cuando se inicia la jornada.
+      En caso de querer arrancarla de nuevo durante el mismo d\xEDa, NO ES NECESARIO
+      UTILIZAR EL ESTRANGULADOR EN POSICION ON. Arranca la motosierra con el mismo
+      proceso con el ESTRANGULADOR EN POSICION OFF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705693329743872
+    m_Localized: Pon la motosierra en el piso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705783830241280
+    m_Localized: Sosten firmemente la sierra con la mano derecha y usa el tirador
+      de arranque 3 veces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 706034335047680
+    m_Localized: Apaga el estrangulador y usa el tirador hasta que prenda la maquina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2484433449738240
+    m_Localized: 'Coge la motosierra del suelo
+
+      Realiza un ARRANQUE EN CALIENTE
+      (no es necesario el ESTRANGULADOR POSICION ON)
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2774882974523392
+    m_Localized: FORMA CORRECTA DE COGER LA MOTOSIERRA.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2774969221996544
+    m_Localized: "ATENCION!. Coge la motosierra con el mando izquierdo de la empu\xF1adura
+      delantera (para ello, pulsa el trigger y grip de mando izquierdo y mantenlos
+      pulsados para coger la empu\xF1adura). FUNDAMENTAL PASAR EL PULGAR DE LA MANO
+      IZQUIERDA POR DEBAJO DE LA EMPU\xD1ADURA PARA CERRAR LA MANO IZQUIERDA POR
+      COMPLETO ALREDEDOR DE LA EMPU\xD1ADURA DELANTERA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2775599063851008
+    m_Localized: "ATENCION!. Con el mando derecho, coje la empu\xF1adura trasera
+      (para ello, pulsa el grip del mando derecho y mantenlo, el trigger del mando
+      derecho lo utilizaremos como acelerador de la motosierra)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2777285006286848
+    m_Localized: 'PROHIBIDO COGER LA MOTOSIERRA SOLO CON UNA MANO.
+
+      PROHIBIDO
+      REALIZAR CORTES CON PERSONAS ALREDEDOR AL MENOS 2 METROS EN CIRCULO A LA ZONA
+      DE CORTE
+
+      PROHIBIDO CORTAR CON UNA MOTOSIERRA A UNA ALTURA POR ENCIMA
+      DE NUESTROS HOMBROS.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2777514946420736
+    m_Localized: 'FORMA CORRECTA DE COLOCAR EL CUERPO PARA CORTE FRONTAL MEDIA ALTURA
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2777594323623936
+    m_Localized: "Colocat\xE9 enfrente del tronco remarcado para iniciar el corte
+      a media altura\r\n\r\nATENCION!: Manten la espalda recta, flexiona ligeramente
+      las rodillas, y adelanta tu pierna izquierda. Coloca la motosierra cerca de
+      tu cuerpo a la altura de la parte derecha de tu cintura.\r\n\r\nATENCION!:
+      LA MOTOSIERRA ENCENDIDA SIEMPRE FUERA DE LA TRAYECTORIA DE CORTE DE NUESTRO
+      PROPIO CUERPO\r\n\r\nPROHIBIDO COLOCAR LA MOTOSIERRA ENCENDIDA ENFRENTE NUESTRO.\r\n\r\nAhora,
+      acelera la motosierra con el trigger del boton derecho y apoya la base de la
+      espada en el tronco, usando el TOPE DE GARRAS. El movimiento de corte ser\xE1
+      de arriba a abajo usando las mu\xF1ecas y antebrazos con el TOPE DE GARRAS
+      apoyado en el tronco \r\n\r\nATENCION!: NO HACER MOVIMIENTOS DE SERRADO. SI
+      LA MAQUINA SE PARA EN MEDIO DEL CORTE, SACAR LA MOTOSIERRA PARADA E INTENTARLO
+      DE NUEVO. NO ARRANCARLA EN MEDIO DEL CORTE.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2777792978444288
+    m_Localized: FORMA CORRECTA DE COLOCAR EL CUERPO PARA CORTE FRONTAL BAJA ALTURA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2777863748935680
+    m_Localized: "Colocat\xE9 enfrente del tronco remarcado para iniciar el corte
+      a baja altura\n\r\nATENCION!: Manten la espalda recta, flexiona totalmente
+      las rodillas, y adelanta tu pierna izquierda. Coloca la motosierra cerca de
+      tu cuerpo a la altura de la parte derecha de tu cintura.\r\n\r\nATENCION: NO
+      ENCORVAR LA ESPALDA PARA REALIZAR CORTES A BAJA ALTURA, PODEMOS SUFRIR LESIONES
+      LUMBARES.\r\n\r\nAhora, acelera la motosierra con el trigger del boton derecho
+      y apoya la base de la espada en el tronco, usando el TOPE DE GARRAS. El movimiento
+      de corte ser\xE1 de arriba a abajo usando las mu\xF1ecas y antebrazos con el
+      TOPE DE GARRAS apoyado en el tronco \r\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

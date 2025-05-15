@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6307bef14aca364d919b67c1dab12ae, type: 3}
+  m_Name: WaitStep 1s 1
+  m_EditorClassIdentifier: 
+  step:
+    message:
+      m_TableReference:
+        m_TableCollectionName: GUID:5ce9efc7543d4de45a0819e3370fb699
+      m_TableEntryReference:
+        m_KeyId: 49957160542208
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: this
+        variable:
+          rid: 1188670257934893217
+    waitTime: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 1188670257934893217
+      type: {class: ObjectVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: {fileID: 11400000}

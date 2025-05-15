@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Revision de seguridad_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7e86d7cdd9c6efd40b3fb64245898586, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7304535273725952
+    m_Localized: Now we are going to carry out the safe work protocol with the chainsaw,
+      go to the green circle in front of the table where the protective equipment
+      is located.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086080
+    m_Localized: Forestry helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086081
+    m_Localized: The forestry helmet is an essential piece of protective equipment
+      for working in forest environments. It typically includes a durable helmet
+      that protects the head from impacts, a visor or metal screen to protect the
+      face from splinters and debris, and earmuffs that reduce the noise from tools
+      like chainsaws.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086082
+    m_Localized: Protective boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086083
+    m_Localized: Chainsaw protective boots are an essential piece of equipment for
+      those who work in forest environments or perform gardening and logging tasks.
+      These boots are designed to provide high resistance to cuts, thanks to their
+      special material that can stop the chainsaw chain in case of an accident. Additionally,
+      they are usually waterproof and have non-slip soles for added safety.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086084
+    m_Localized: Cut-resistant clothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280384
+    m_Localized: Chainsaw cut-resistant clothing is designed to protect the user
+      from accidental cuts. It is made with special materials, such as resistant
+      fibers, that stop the chain upon contact, preventing serious injuries. It is
+      essential for forestry or gardening tasks involving the use of chainsaws.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280385
+    m_Localized: You already have your protective equipment on, now move to the green
+      circle where the chainsaw and other tools are located to start its setup before
+      starting it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280386
+    m_Localized: Take the fuel can and pour it into the tank to fill the chainsaw
+      with fuel.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280387
+    m_Localized: The ideal mixture for a chainsaw is usually unleaded gasoline and
+      two-stroke oil in a 50:1 ratio (50 parts gasoline to 1 part oil). It is crucial
+      to use oil specifically designed for two-stroke engines and mix well before
+      filling the tank. This ensures optimal performance and protects the engine.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280388
+    m_Localized: Fuel has spilled on the table and over the chainsaw. We need to
+      be careful as it could cause fires once the chainsaw is running due to the
+      heat of the engine.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280389
+    m_Localized: Take the cloth and clean up the fuel spill from the table and the
+      chainsaw.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280390
+    m_Localized: Take the chainsaw and open the lubricant tank.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280391
+    m_Localized: Chain lubrication is important when using a chainsaw to prevent
+      it from overheating during cutting and to ensure it rotates around the guide
+      bar without friction. This extends the lifespan of the guide bar and chain.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280392
+    m_Localized: All set. The lubricant oil tank has been filled.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280393
+    m_Localized: Now let's check the chainsaw chain tension. Hold the chainsaw with
+      one hand and with the other, grab the bottom of the chain and pull it downward.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474688
+    m_Localized: The chain stretches with use. A chain without enough tension can
+      come loose and cause serious, even fatal, accidents. Therefore, it is important
+      to adjust it frequently to compensate for this change. The chain tension should
+      be checked every time the fuel is refilled. New chains require a break-in period
+      during which tension should be monitored more frequently.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474689
+    m_Localized: With the combination wrench, loosen the nuts on the guide bar that
+      hold the clutch cover. Tighten the chain with the tip of the guide bar pointing
+      upward. To do this, use the combination wrench to tighten the tensioning screw
+      by turning it to the right. Tighten the chain until it no longer hangs from
+      the bottom of the guide bar. Check that the chain can be easily rotated by
+      hand and does not hang underneath the guide bar. Use the combination wrench
+      to retighten the nuts on the guide bar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474690
+    m_Localized: We have completed the basic check before starting to work with the
+      chainsaw. In addition to this check, you should perform regular maintenance,
+      including filter cleaning, chain sharpening, and spark plug inspection.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474691
+    m_Localized: Take the chainsaw bar cover and place it on the bar. Always remember
+      to transport the chainsaw with it turned off and the bar cover on.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474692
+    m_Localized: Teleport to the chainsaw starting area.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

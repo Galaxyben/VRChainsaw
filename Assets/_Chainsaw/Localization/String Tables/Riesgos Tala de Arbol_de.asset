@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Riesgos Tala de Arbol_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 579c64b0ac5981c4e9f5ad9e5b34b06c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38855860224
+    m_Localized: "Heben Sie die Kettens\xE4ge vom Boden auf"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637440
+    m_Localized: "F\xFChren Sie einen HEISSSTART durch (die STARTERPOSITION ist nicht
+      erforderlich)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637441
+    m_Localized: "RICHTIGE ART, DIE KETTENS\xC4GE ZU HALTEN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637442
+    m_Localized: "ACHTUNG!. Halten Sie die Kettens\xE4ge mit dem linken Griff des
+      vorderen Griffs (dr\xFCcken Sie dazu den Abzug und den linken Griff und halten
+      Sie sie gedr\xFCckt, um den Griff zu halten). ES IST WICHTIG, DEN DAUMEN DER
+      LINKEN HAND UNTER DEN GRIFF ZU F\xDCHREN, UM DIE LINKE HAND VOLLST\xC4NDIG
+      UM DEN VORDEREN GRIFF ZU SCHLIESSEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637443
+    m_Localized: "ACHTUNG!. Mit dem rechten Griff die hintere Griffstange greifen
+      (dr\xFCcken Sie dazu den rechten Griff und halten Sie ihn, der Abzug des rechten
+      Griffs wird als Kettens\xE4gen-Gasgeber verwendet)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637444
+    m_Localized: "VERBOTEN, DIE KETTENS\xC4GE NUR MIT EINER HAND ZU HALTEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637445
+    m_Localized: VERBOTEN, SCHNITTE VORZUNEHMEN, WENN SICH MENSCHEN IM UMKREIS VON
+      MINDESTENS 2 METERN UM DIE SCHNITTZONE BEFINDEN.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637446
+    m_Localized: "VERBOTEN, MIT EINER KETTENS\xC4GE IN EINER H\xD6HE \xDCBER UNSEREN
+      SCHULTERN ZU SCHNEIDEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637447
+    m_Localized: "ACHTUNG!: KEINE S\xC4GEBEWEGUNGEN MACHEN. WENN DIE MASCHINE MITTEN
+      IM SCHNITT STOPPT, NEHMEN SIE DIE ANGEHALTENE KETTENS\xC4GE HERAUS UND VERSUCHEN
+      SIE ES ERNEUT. STARTEN SIE SIE NICHT MITTEN IM SCHNITT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637448
+    m_Localized: "Die Planung bei der Durchf\xFChrung einer F\xE4llung ist entscheidend;
+      wir m\xFCssen jene Faktoren und Elemente ber\xFCcksichtigen, die ein Risiko
+      darstellen k\xF6nnten, um B\xE4ume sicher und kontrolliert zu f\xE4llen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637449
+    m_Localized: "Wir m\xFCssen die N\xE4he von Stromleitungen in dem Bereich beobachten,
+      in dem wir den Baum f\xE4llen m\xF6chten. Es sollte ein angemessener Abstand
+      zwischen dem Baumf\xE4llen und den Stromleitungen bestehen. Informieren Sie
+      sich \xFCber die Vorschriften Ihres Landes, um weitere Details zu Sicherheitsabst\xE4nden
+      zu erfahren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637450
+    m_Localized: "Au\xDFerdem werden wir andere Elemente ber\xFCcksichtigen, auf
+      die der gef\xE4llte Baum fallen k\xF6nnte, wie Stra\xDFen und Geb\xE4ude. Falls
+      sich diese Elemente innerhalb des F\xE4llbereichs befinden, m\xFCssen besondere
+      Ma\xDFnahmen ergriffen werden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637451
+    m_Localized: "Unter normalen Bedingungen ist es absolut nicht empfehlenswert,
+      B\xE4ume bei widrigen Wetterbedingungen zu f\xE4llen, wie starken Schneef\xE4llen,
+      Regen oder Gewittern mit elektrischer Komponente sowie bei dichtem Nebel. Besondere
+      Ber\xFCcksichtigung sollte dem Wind gelten\u2014das F\xE4llen von B\xE4umen
+      sollte nicht bei Windgeschwindigkeiten \xFCber 40 Kilometer pro Stunde erfolgen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637452
+    m_Localized: "Um einen Sicherheitsbereich um den zu f\xE4llenden Baum zu schaffen,
+      m\xFCssen wir vorher seine H\xF6he bestimmen. Es gibt verschiedene Methoden,
+      um sie zu messen, von einfach bis komplex. Hier ist eine sehr einfache und
+      unkomplizierte Methode, um die H\xF6he des Baumes zu sch\xE4tzen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831744
+    m_Localized: "Halten Sie einen Stock mit ausgestrecktem Arm gerade vor sich,
+      sodass die L\xE4nge des Stocks der Entfernung zwischen Ihrem Auge und Ihrer
+      Hand entspricht. Dann positionieren Sie den Stock vertikal, sodass ein rechtwinkliges
+      Dreieck zwischen Ihrem Auge, Ihrer Hand und der Spitze des Stocks entsteht."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831745
+    m_Localized: "Richten Sie sich auf den Baum und stellen Sie sich in eine Entfernung,
+      in der der Baum so hoch erscheint wie die L\xE4nge des Stocks. Wenn der Baum
+      geneigt ist, erhalten Sie genauere Ergebnisse, wenn Sie die Messung von der
+      Seite vornehmen, sodass der Baum weder zu Ihnen noch in die entgegengesetzte
+      Richtung geneigt ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831746
+    m_Localized: "Der Abstand zwischen Ihrem Standort und dem Baum entspricht dessen
+      H\xF6he. Z\xE4hlen Sie die Schritte oder messen Sie mit einem Ma\xDFband. F\xFCgen
+      Sie stets eine gro\xDFz\xFCgige Fehlermarge hinzu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831747
+    m_Localized: "Sobald wir die H\xF6he des Baums kennen, werden wir einen Sicherheitsbereich
+      erstellen. Dieser Sicherheitsbereich sollte einen Radius von mindestens der
+      doppelten H\xF6he des Baums haben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831748
+    m_Localized: "Zeigen Sie mit dem Zeiger auf die markierten B\xE4ume, um das Sicherheitsperimeter
+      mit Markierungsband zu erstellen. Halten Sie den Ausl\xF6seknopf zwischen einem
+      Baum und einem anderen gedr\xFCckt, um das Perimeter mit dem Markierungsband
+      zu erstellen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831749
+    m_Localized: "Wir werden sicherstellen, dass der Baum in gutem Zustand ist und
+      keine Anzeichen von F\xE4ulnis an seiner Basis aufweist, da dies dazu f\xFChren
+      k\xF6nnte, dass der Baum bei Beginn der F\xE4llung auf uns einst\xFCrzt, nicht
+      auf eine Seite f\xE4llt, sondern auf sich selbst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831750
+    m_Localized: "Wir werden auch den Zustand der \xC4ste ber\xFCcksichtigen, mit
+      besonderer Vorsicht bei \xC4sten, die gebrochen sein k\xF6nnten und w\xE4hrend
+      des F\xE4llprozesses herunterfallen k\xF6nnten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831751
+    m_Localized: "Jeder Baum hat eine nat\xFCrliche Fallrichtung, die durch seine
+      Neigung, die Form und Lage seiner \xC4ste, Schneelast usw. bestimmt sein kann."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831752
+    m_Localized: "Wann immer es m\xF6glich ist, sollten wir den Baum so f\xE4llen,
+      dass er in seine nat\xFCrliche Fallrichtung f\xE4llt. Falls dies nicht machbar
+      ist, m\xFCssen spezielle Techniken angewendet werden, um den Baum in eine andere
+      Richtung als seine nat\xFCrliche Neigung zu f\xFChren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831753
+    m_Localized: "Erstellen Sie eine Fluchtzone, indem Sie nahegelegene B\xFCsche
+      und Hindernisse mit dem Steuerungspointer in einem Winkel von etwa 45 Grad
+      auf beiden Seiten hinter dem zu f\xE4llenden Baum entfernen. Zeigen Sie mit
+      dem Pointer auf den Busch, den Sie entfernen m\xF6chten, und dr\xFCcken Sie
+      die Ausl\xF6setaste, um ihn zu beseitigen."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

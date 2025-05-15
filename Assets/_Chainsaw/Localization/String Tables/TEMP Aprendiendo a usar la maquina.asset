@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: TEMP Aprendiendo a usar la maquina
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 40f428f848850a349872478ab3f9e64f, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 0ab1553a6a0750240894e93fe9998cdd, type: 2}
+  - {fileID: 11400000, guid: ce08a004d407cc248be11c314a308b37, type: 2}
+  - {fileID: 11400000, guid: 16005361e0255c04c8055eb2660f6346, type: 2}
+  - {fileID: 11400000, guid: f794ded1ab7bd844e84090b41b686799, type: 2}
+  - {fileID: 11400000, guid: 9401389470574554589963db9a78a067, type: 2}
+  - {fileID: 11400000, guid: 7d39335c1c95cfb42b2be1b464efddc2, type: 2}
+  - {fileID: 11400000, guid: 3cabc156763fd114fafea99f3d1c3c50, type: 2}
+  - {fileID: 11400000, guid: 2ea181180de626b4cb8ae44fa48d0a02, type: 2}
+  - {fileID: 11400000, guid: cecddab9469b5e14b8923b0f1730c9ea, type: 2}
+  - {fileID: 11400000, guid: 88f72b76089d093469cd7b25f4a0a0ed, type: 2}
+  - {fileID: 11400000, guid: f388f2ed6cce0274eb79a26f7beb9e1c, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

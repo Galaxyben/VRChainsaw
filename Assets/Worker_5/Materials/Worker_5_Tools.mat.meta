@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d9aef3dd6cb17c47b42b39702559264
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 309620
+  packageName: Worker 5
+  packageVersion: 1.0
+  assetPath: Assets/Worker_5/Materials/Worker_5_Tools.mat
+  uploadId: 730804

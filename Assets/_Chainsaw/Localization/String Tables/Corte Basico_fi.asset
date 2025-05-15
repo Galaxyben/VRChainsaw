@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corte Basico_fi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi
+  m_SharedData: {fileID: 11400000, guid: dc4a69a5d6334a34caffa8972b72c4a9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 19964715008
+    m_Localized: Nosta moottorisaha maasta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492224
+    m_Localized: "Suorita KUUMAK\xC4YNNISTYS (KURISTIMEN ASENTO P\xC4\xC4LL\xC4 ei
+      ole tarpeen)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492225
+    m_Localized: "OIKEA TAPA PIT\xC4\xC4 MOOTTORISAHAA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492226
+    m_Localized: "HUOMIO!. Pid\xE4 moottorisahaa etukahvan vasemmalla kahvalla (paina
+      t\xE4t\xE4 varten liipaisinta ja vasenta kahvaa ja pid\xE4 niit\xE4 painettuna
+      kahvan pit\xE4miseksi). ON V\xC4LTT\xC4M\xC4T\xD6NT\xC4 SIIRT\xC4\xC4 VASEMMAN
+      K\xC4DEN PEUKALO KAHVAN ALLE, JOTTA VASEN K\xC4SI SULKEUTUU T\xC4YSIN ETUKAHVAN
+      YMP\xC4RILLE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492227
+    m_Localized: "HUOMIO!. Oikealla kahvalla pid\xE4 takakahvasta kiinni (paina t\xE4t\xE4
+      varten oikean kahvan kahvaa ja pid\xE4 sit\xE4 painettuna, oikean kahvan liipaisinta
+      k\xE4ytet\xE4\xE4n moottorisahan kiihdyttimen\xE4)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492229
+    m_Localized: "KIELLETTY LEIKATA, JOS ALUEELLA ON IHMISI\xC4 V\xC4HINT\xC4\xC4N
+      2 METRIN ET\xC4ISYYDELL\xC4 LEIKKAUSALUEELTA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492230
+    m_Localized: "KIELLETTY LEIKATA MOOTTORISAHALLA KORKEUDELLA OLKAP\xC4IDEN YL\xC4PUOLELLA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492231
+    m_Localized: Asetu merkityn rungon eteen aloittaaksesi leikkauksen keski korkeudelta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492232
+    m_Localized: "HUOMIO!: Pid\xE4 selk\xE4 suorana, taivuta polvia hieman ja vie
+      vasen jalkasi eteenp\xE4in. Aseta moottorisaha l\xE4helle kehoasi vy\xF6t\xE4r\xF6n
+      oikean puolen korkeudelle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686528
+    m_Localized: "HUOMIO!: K\xC4YNNISS\xC4 OLEVA MOOTTORISAHA ON AINA PIDETT\xC4V\xC4
+      POIS OMASSA KEHOSSA OLEVASTA LEIKKAUSLINJASTA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686529
+    m_Localized: "KIELLETTY ASETTAA K\xC4YNNISS\xC4 OLEVA MOOTTORISAHA MEID\xC4N
+      ETEEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686530
+    m_Localized: "Nyt kiihdyt\xE4 moottorisahaa oikean painikkeen liipaisimella ja
+      lep\xE4\xE4 ter\xE4n pohja rungon p\xE4\xE4ll\xE4 k\xE4ytt\xE4en KYN\xC4STOPPIA.
+      Leikkausliike on ylh\xE4\xE4lt\xE4 alas k\xE4ytt\xE4en ranteita ja k\xE4sivarsia,
+      KYN\xC4STOPPIA tukien runkoon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686531
+    m_Localized: "HUOMIO!: \xC4L\xC4 TEE SAHAUSLIIKKEIT\xC4. JOS KONE PYS\xC4HTYY
+      KESKEN LEIKKAUKSEN, POISTA PYS\xC4HTYNYT MOOTTORISAHA JA YRIT\xC4 UUDELLEEN.
+      \xC4L\xC4 K\xC4YNNIST\xC4 SIT\xC4 KESKEN LEIKKAUKSEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686532
+    m_Localized: Asetu merkityn rungon eteen aloittaaksesi leikkauksen matalalta
+      korkeudelta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686533
+    m_Localized: "HUOMIO!: Pid\xE4 selk\xE4 suorana, taivuta polvia t\xE4ysin ja
+      vie vasen jalkasi eteenp\xE4in. Aseta moottorisaha l\xE4helle kehoasi vy\xF6t\xE4r\xF6n
+      oikean puolen korkeudelle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686534
+    m_Localized: "HUOMIO: \xC4L\xC4 KUMARRA SELK\xC4\xC4SI TEHD\xC4KSESI LEIKKAUKSIA
+      MATALALLA KORKEUDELLA, SE VOI AIHEUTTAA SELK\xC4VAIVOJA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686535
+    m_Localized: "Nyt kiihdyt\xE4 moottorisahaa oikean painikkeen liipaisimella ja
+      lep\xE4\xE4 ter\xE4n pohja rungon p\xE4\xE4ll\xE4 k\xE4ytt\xE4en KYN\xC4STOPPIA.
+      Leikkausliike on ylh\xE4\xE4lt\xE4 alas k\xE4ytt\xE4en ranteita ja k\xE4sivarsia,
+      KYN\xC4STOPPIA tukien runkoon."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Riesgo de retroceso_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: abe4dbfee4e6c0c43aedcacbde478d35, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 481694670848
+    m_Localized: Pick up the chainsaw from the ground
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481724030976
+    m_Localized: Perform a HOT START (the CHOKE POSITION ON is not necessary)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481724030977
+    m_Localized: CORRECT WAY TO HOLD THE CHAINSAW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481724030978
+    m_Localized: ATTENTION!. Hold the chainsaw with the left handle of the front
+      grip (to do this, press the trigger and left handle grip and keep them pressed
+      to hold the grip). IT IS ESSENTIAL TO PASS THE LEFT HAND THUMB UNDER THE GRIP
+      TO COMPLETELY CLOSE THE LEFT HAND AROUND THE FRONT GRIP.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481724030979
+    m_Localized: PROHIBITED TO HOLD THE CHAINSAW WITH ONLY ONE HAND.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481724030980
+    m_Localized: PROHIBITED TO MAKE CUTS WITH PEOPLE AROUND AT LEAST 2 METERS IN
+      A CIRCLE FROM THE CUTTING AREA.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481728225280
+    m_Localized: PROHIBITED TO CUT WITH A CHAINSAW AT A HEIGHT ABOVE OUR SHOULDERS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481728225281
+    m_Localized: Stand in front of the marked log to start the cut at mid-height.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481728225282
+    m_Localized: 'ATTENTION!: Keep your back straight, slightly bend your knees,
+      and move your left leg forward. Place the chainsaw close to your body at the
+      height of the right side of your waist.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481728225283
+    m_Localized: 'ATTENTION!: THE CHAINSAW MUST ALWAYS BE KEPT OUT OF THE CUTTING
+      PATH OF OUR OWN BODY.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481728225284
+    m_Localized: PROHIBITED TO PLACE THE CHAINSAW TURNED ON IN FRONT OF US.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481728225285
+    m_Localized: Now, accelerate the chainsaw with the right button trigger and rest
+      the base of the blade on the log, using the SPIKE BUMPER. The cutting motion
+      will be from top to bottom using the wrists and forearms with the SPIKE BUMPER
+      resting on the log.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481728225286
+    m_Localized: 'ATTENTION!: A KICKBACK HAS OCCURRED UPWARDS. A GOOD GRIP ON THE
+      FRONT HANDLE (WITH THE THUMB UNDERNEATH IT) WOULD ACTIVATE THE FRONT BRAKE
+      WITH OUR WRIST.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481728225287
+    m_Localized: Now, accelerate the chainsaw with the right button trigger, move
+      the chainsaw forward and try to touch the log with the bottom of the blade.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 481728225288
+    m_Localized: 'ATTENTION!: A KICKBACK HAS OCCURRED DOWNWARDS. A GOOD GRIP ON THE
+      FRONT HANDLE (WITH THE THUMB UNDERNEATH IT) WOULD ACTIVATE THE FRONT BRAKE
+      WITH OUR WRIST.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Riesgos Tala de Arbol_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 579c64b0ac5981c4e9f5ad9e5b34b06c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38855860224
+    m_Localized: Coge la motosierra del suelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637440
+    m_Localized: Realiza un ARRANQUE EN CALIENTE (no es necesario el ESTRANGULADOR
+      POSICION ON)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637441
+    m_Localized: FORMA CORRECTA DE COGER LA MOTOSIERRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637442
+    m_Localized: "ATENCI\xD3N!. Coge la motosierra con el mando izquierdo de la empu\xF1adura
+      delantera (para ello, pulsa el trigger y grip de mando izquierdo y mantenlos
+      pulsados para coger la empu\xF1adura). FUNDAMENTAL PASAR EL PULGAR DE LA MANO
+      IZQUIERDA POR DEBAJO DE LA EMPU\xD1ADURA PARA CERRAR LA MANO IZQUIERDA POR
+      COMPLETO ALREDEDOR DE LA EMPU\xD1ADURA DELANTERA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637443
+    m_Localized: "ATENCI\xD3N!. Con el mando derecho, coge la empu\xF1adura trasera
+      (para ello, pulsa el grip del mando derecho y mantenlo, el trigger del mando
+      derecho lo utilizaremos como acelerador de la motosierra)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637444
+    m_Localized: PROHIBIDO COGER LA MOTOSIERRA SOLO CON UNA MANO.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637445
+    m_Localized: PROHIBIDO REALIZAR CORTES CON PERSONAS ALREDEDOR AL MENOS 2 METROS
+      EN CIRCULO A LA ZONA DE CORTE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637446
+    m_Localized: PROHIBIDO CORTAR CON UNA MOTOSIERRA A UNA ALTURA POR ENCIMA DE NUESTROS
+      HOMBROS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637447
+    m_Localized: "ATENCI\xD3N!: NO HACER MOVIMIENTOS DE SERRADO. SI LA M\xC1QUINA
+      SE PARA EN MEDIO DEL CORTE, SACAR LA MOTOSIERRA PARADA E INTENTARLO DE NUEVO.
+      NO ARRANCARLA EN MEDIO DEL CORTE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637448
+    m_Localized: "La planificaci\xF3n a la hora de realizar una tala es vital, deberemos
+      tener en cuenta aquellos factores y elementos que puedan ser un riesgo para
+      lograr derribar los \xE1rboles de una manera segura y controlada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637449
+    m_Localized: "Deberemos de observar la presencia cercana de tendidos el\xE9ctricos
+      en la zona donde queramos realizar la tala del \xE1rbol. Deber\xE1 existir
+      una distancia adecuada entre el derribo del \xE1rbol y el tendido. Consulta
+      la normativa de tu pa\xEDs al respecto para conocer m\xE1s detalles de distancias
+      de seguridad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637450
+    m_Localized: "Adem\xE1s, tendremos en cuenta otros elementos donde podr\xEDa
+      caer el \xE1rbol derribado, como son carreteras y edificaciones. En caso de
+      que estos elementos se encuentren dentro del \xE1rea de derribo del \xE1rbol,
+      tendremos que tomar medidas especiales para realizar el mismo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637451
+    m_Localized: "En situaciones normales, est\xE1 totalmente desaconsejado realizar
+      talas de \xE1rboles en condiciones meteorol\xF3gicas adversas, como pueden
+      ser fuertes nevadas, lluvias o tormentas con componente el\xE9ctrico, as\xED
+      como con neblinas densas. Especial consideraci\xF3n tendr\xE1 el viento, no
+      realizar talas de \xE1rboles con vientos superiores a 40 kil\xF3metros por
+      hora."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637452
+    m_Localized: "Para crear un per\xEDmetro de seguridad alrededor del \xE1rbol
+      a talar, necesitaremos saber la altura del \xE1rbol previamente. Existen varios
+      m\xE9todos para poder averiguar dicha altura, m\xE1s o menos complejos. Vamos
+      a explicarte un m\xE9todo muy sencillo y simple que te permitir\xE1 estimar
+      la altura del \xE1rbol."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831744
+    m_Localized: "Sujete un palo con el brazo extendido en l\xEDnea recta frente
+      a usted de forma que la longitud del palo sea igual a la distancia entre su
+      ojo y su mano. A continuaci\xF3n, coloque el palo en posici\xF3n vertical de
+      modo que se forme un tri\xE1ngulo rect\xE1ngulo entre el ojo, la mano y la
+      parte superior del palo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831745
+    m_Localized: "Apunte al \xE1rbol y col\xF3quese a una distancia a la que el \xE1rbol
+      parezca tan alto como la longitud del palo. Si el \xE1rbol est\xE1 inclinado,
+      obtendr\xE1 resultados m\xE1s precisos si realiza la medici\xF3n desde el lado,
+      de modo que el \xE1rbol no est\xE9 inclinado ni hacia usted ni hacia el lado
+      contrario."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831746
+    m_Localized: "La distancia entre el lugar donde se encuentra y el \xE1rbol ser\xE1
+      igual a la altura del mismo. Cuente los pasos o mida con una cinta m\xE9trica.
+      A\xF1ada siempre un margen de error amplio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831747
+    m_Localized: "Una vez ya conocemos la altura del \xE1rbol, vamos a crear un per\xEDmetro
+      de seguridad. Este per\xEDmetro de seguridad tendr\xEDa que tener un radio
+      desde el \xE1rbol, de al menos el doble de la altura del mismo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831748
+    m_Localized: "Apunta con el puntero a los \xE1rboles se\xF1alados para ir creando
+      el per\xEDmetro de seguridad con cinta de balizamiento. Mant\xE9n apretado
+      el bot\xF3n trigger entre un \xE1rbol y otro para ir creando el per\xEDmetro
+      con la cinta de balizamiento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831749
+    m_Localized: "Nos aseguraremos que el \xE1rbol est\xE1 en buenas condiciones
+      y no presenta s\xEDntomas de podredumbre en su base, ya que podr\xEDa provocar
+      que el \xE1rbol se desmorone sobre nosotros una vez iniciemos la tala, no cayendo
+      hacia un lado, sino sobre s\xED mismo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831750
+    m_Localized: "Tambi\xE9n tendremos en cuenta el estado de las ramas, con especial
+      precauci\xF3n con ramas que puedan estar rotas y que pudieran caer durante
+      el proceso de tala."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831751
+    m_Localized: "Todo \xE1rbol tiene una orientaci\xF3n natural de ca\xEDda, que
+      puede estar determinada por su inclinaci\xF3n, la forma y ubicaci\xF3n de sus
+      ramas, acumulaci\xF3n de nieve, etc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831752
+    m_Localized: "Siempre que sea posible, debemos talar el \xE1rbol de forma que
+      caiga hacia su orientaci\xF3n natural de ca\xEDda. En caso de que no fuera
+      viable, deberemos utilizar t\xE9cnicas especiales para poder apear el \xE1rbol
+      en una direcci\xF3n distinta a su inclinaci\xF3n natural."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831753
+    m_Localized: "Crear una zona de escape, eliminando los matorrales y obst\xE1culos
+      cercanos mediante el puntero del mando en un \xE1ngulo de unos 45 grados en
+      ambos lados situados detr\xE1s del \xE1rbol a derribar. Apunta con el puntero
+      al matorral que quieras eliminar y aprieta el bot\xF3n trigger para eliminarlo."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

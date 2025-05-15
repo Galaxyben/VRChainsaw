@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corte Basico_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: dc4a69a5d6334a34caffa8972b72c4a9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 19964715008
+    m_Localized: Prendi la motosega da terra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492224
+    m_Localized: "Esegui un AVVIO A CALDO (non \xE8 necessaria la POSIZIONE DELL'ARIA)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492225
+    m_Localized: MODO CORRETTO DI TENERE LA MOTOSEGA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492226
+    m_Localized: "ATTENZIONE!. Tieni la motosega con la maniglia sinistra dell'impugnatura
+      anteriore (per farlo, premi il grilletto e la maniglia sinistra e tienili premuti
+      per afferrare l'impugnatura). \xC8 FONDAMENTALE PASSARE IL POLLICE DELLA MANO
+      SINISTRA SOTTO L'IMPUGNATURA PER CHIUDERE COMPLETAMENTE LA MANO SINISTRA INTORNO
+      ALL'IMPUGNATURA ANTERIORE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492227
+    m_Localized: "ATTENZIONE!. Con l'impugnatura destra, afferra l'impugnatura posteriore
+      (per fare ci\xF2, premi il grip dell'impugnatura destra e tienilo premuto,
+      il grilletto dell'impugnatura destra verr\xE0 utilizzato come acceleratore
+      della motosega)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492228
+    m_Localized: VIETATO TENERE LA MOTOSEGA CON UNA SOLA MANO.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492229
+    m_Localized: VIETATO EFFETTUARE TAGLI CON PERSONE A MENO DI 2 METRI IN CERCHIO
+      DALL'AREA DI TAGLIO.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492230
+    m_Localized: VIETATO TAGLIARE CON UNA MOTOSEGA A UN'ALTEZZA SOPRA LE NOSTRE SPALLE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492231
+    m_Localized: Posizionati di fronte al tronco segnato per iniziare il taglio a
+      mezza altezza.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492232
+    m_Localized: 'ATTENZIONE!: Mantieni la schiena dritta, piega leggermente le ginocchia
+      e porta avanti la gamba sinistra. Posiziona la motosega vicino al tuo corpo
+      all''altezza del lato destro della tua vita.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686528
+    m_Localized: 'ATTENZIONE!: LA MOTOSEGA ACCESA DEVE SEMPRE ESSERE FUORI DALLA
+      TRAIETTORIA DI TAGLIO DEL NOSTRO CORPO.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686529
+    m_Localized: VIETATO POSIZIONARE LA MOTOSEGA ACCESA DAVANTI A NOI.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686530
+    m_Localized: "Ora, accelera la motosega con il grilletto del pulsante destro
+      e appoggia la base della lama sul tronco, usando il DENTE DI APPOGGIO. Il movimento
+      di taglio sar\xE0 dall'alto verso il basso usando i polsi e gli avambracci
+      con il DENTE DI APPOGGIO appoggiato sul tronco."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686531
+    m_Localized: "ATTENZIONE!: NON FARE MOVIMENTI DI SEGA. SE LA MACCHINA SI FERMA
+      A MET\xC0 TAGLIO, RIMUOVERE LA MOTOSEGA SPENTA E RIPROVARCI. NON ACCENDERLA
+      A MET\xC0 TAGLIO."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686532
+    m_Localized: Posizionati di fronte al tronco segnato per iniziare il taglio a
+      bassa altezza.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686533
+    m_Localized: 'ATTENZIONE!: Mantieni la schiena dritta, piega completamente le
+      ginocchia e porta avanti la gamba sinistra. Posiziona la motosega vicino al
+      tuo corpo all''altezza del lato destro della tua vita.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686534
+    m_Localized: 'ATTENZIONE: NON PIEGARE LA SCHIENA PER EFFETTUARE TAGLI A BASSA
+      ALTEZZA, POTREBBE CAUSARE LESIONI LOMBARI.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686535
+    m_Localized: "Ora, accelera la motosega con il grilletto del pulsante destro
+      e appoggia la base della lama sul tronco, usando il DENTE DI APPOGGIO. Il movimento
+      di taglio sar\xE0 dall'alto verso il basso usando i polsi e gli avambracci
+      con il DENTE DI APPOGGIO appoggiato sul tronco."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

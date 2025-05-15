@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Portuguese (pt)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Portuguese (pt)
+  m_GUID: d47599f9fe7c81c45bbf18c0b65e94b0
+  m_SerializeEntries:
+  - m_GUID: 153d9430f59636c4483ea379e1774a3d
+    m_Address: Arranque en frio_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ea181180de626b4cb8ae44fa48d0a02
+    m_Address: TEMP Aprendiendo a usar la maquina_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e2ecbbf0c416f649af6e4a118b3695a
+    m_Address: Corte Basico_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 556f65fde86bdd4459c3fd6b32c36bb2
+    m_Address: Conociendo la Maquina_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e9400f61f22d274b93d00f5f7526080
+    m_Address: Commons_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abb520f00f67ce74a99acb673950442e
+    m_Address: Riesgos Tala de Arbol_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d53ac0233ed0b914bb6319198774da89
+    m_Address: Revision de seguridad_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8bd8420c18611b49b4d6f63a048adb0
+    m_Address: Riesgo de retroceso_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd6f0b99509233c41a89d93c0b9c6e01
+    m_Address: Corte Derribo de Arbol_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 471f7e7c326f2684f9123aa6e76f82f3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 68f80a949062c8648976ac2f1bc8361a, type: 2}
+    - {fileID: 11400000, guid: 86974b4f208bba048b6e6b2eaf495621, type: 2}

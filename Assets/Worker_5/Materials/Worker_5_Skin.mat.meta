@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61fa0b65163d3d74fba9e387697f499e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 309620
+  packageName: Worker 5
+  packageVersion: 1.0
+  assetPath: Assets/Worker_5/Materials/Worker_5_Skin.mat
+  uploadId: 730804

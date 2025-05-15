@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Arranque en frio_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: a293abbca652725429353a685231c84c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1104737558528
+    m_Localized: "Tenez la tron\xE7onneuse avec la manette gauche (utilisez la poign\xE9e
+      de la manette gauche) et appuyez trois fois sur la g\xE2chette droite sur le
+      purgeur de la tron\xE7onneuse pour permettre au carburant d'entrer dans le
+      carburateur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947136
+    m_Localized: "Appuyez sur le starter avec la g\xE2chette droite et mettez-le
+      en position ON."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947137
+    m_Localized: "Placez la tron\xE7onneuse au sol."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947138
+    m_Localized: "Tenez fermement la tron\xE7onneuse au sol pendant que vous la d\xE9marrez.
+      Ins\xE9rez votre pied droit dans la poign\xE9e arri\xE8re et tenez fermement
+      la poign\xE9e avant avec votre main droite (maintenez le GRIP de la manette
+      droite enfonc\xE9)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947139
+    m_Localized: "La tron\xE7onneuse doit \xEAtre sur une surface plane, et la cha\xEEne
+      ne doit pas entrer en contact avec le sol ; sinon, en la d\xE9marrant, vous
+      risquez d'endommager la lame et de mettre inutilement votre s\xE9curit\xE9
+      en danger."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947140
+    m_Localized: "Maintenant, avec la manette gauche, prenez la POIGN\xC9E DE D\xC9MARRAGE
+      (maintenez la poign\xE9e de la manette gauche enfonc\xE9e) et tirez vers le
+      haut. R\xE9p\xE9tez l'op\xE9ration plusieurs fois jusqu'\xE0 ce que vous entendiez
+      le moteur tenter de d\xE9marrer, puis arr\xEAtez d'essayer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947141
+    m_Localized: "Maintenant, appuyez sur le starter avec la g\xE2chette droite et
+      mettez-le en position OFF."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947142
+    m_Localized: "R\xE9p\xE9tez l'op\xE9ration de d\xE9marrage de la tron\xE7onneuse
+      au sol jusqu'\xE0 ce qu'elle d\xE9marre avec succ\xE8s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947143
+    m_Localized: "Nous avons effectu\xE9 l'op\xE9ration appel\xE9e D\xC9MARRAGE \xC0
+      FROID, qui est utilis\xE9e pour d\xE9marrer la tron\xE7onneuse au d\xE9but
+      de la journ\xE9e. Si vous souhaitez la red\xE9marrer plus tard dans la m\xEAme
+      journ\xE9e, IL N'EST PAS N\xC9CESSAIRE D'UTILISER LE STARTER EN POSITION ON.
+      D\xE9marrez la tron\xE7onneuse avec le m\xEAme processus mais avec le STARTER
+      EN POSITION OFF."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Conociendo la Maquina_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: afb138397c98a9b43b6d2fba1835219d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: A chainsaw is an electric or gasoline-powered tool used for cutting
+      wood. It consists of a  chain with sharp teeth that rotates around a bar, allowing
+      for quick and efficient cuts in  logs and branches. It is commonly used in
+      tree felling, pruning, and construction.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Chainsaws typically weigh between 6 and 22 lbs (3 to 10 kg) and
+      have bars ranging  from 12 to 24 inches (30 to 60 cm) in length. Their general
+      dimensions are  approximately 12-16 inches (30-40 cm) wide and 10-12 inches
+      (25-30 cm) high,  although this may vary by model.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Now let's look at the fundamental parts of the chainsaw.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Safety trigger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: It is a safety element of the chainsaw, making it one of the most
+      important for its  operation. In fact, if it is not pressed, the throttle trigger
+      cannot be activated,  which prevents accidents.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Front guard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: 'This part serves two functions: on the one hand, it protects the
+      hand holding the  tool by the front handle, and at the same time, it acts as
+      a chain brake that reduces  the likelihood of injury from the machine''s kickback
+      when stopping.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: The start mechanism is one of the parts of a chainsaw that you will
+      handle the  most, so you should treat it carefully to avoid breakdowns and
+      extend its  durability. It is the pull cord that you use to start the tool
+      each time you use it by  pulling it repeatedly.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Front handle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: The front handle is the part of the chainsaw that is closest to
+      the blade. This  means it is the most likely to pose risks; the design of chainsaws
+      ensures that this  grip is intended for the left hand, which is used to guide
+      the orientation of the  tool.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Rear handle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Your right hand, on the other hand, will hold the rear handle of
+      the machine and  will be responsible for supporting its weight and providing
+      stability. On it are the  safety and throttle triggers, which must be pressed
+      at all times for the chainsaw to  function.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: Fuel tank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Another part of the chainsaw that requires the most care is the
+      fuel tank. It is  essential to consult the manufacturer's instructions to check
+      and always adhere to  the recommended proportions in the gasoline and oil mixture.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: Oil tank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: Although it is the most obvious explanation among all the parts
+      that make up the  chainsaw, it is worth emphasizing its importance and the
+      need to maintain proper  levels. Proper lubrication is essential for the operation
+      and safety of the chainsaw.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: Engine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: It is powered by a centrifugal clutch and a sprocket, which initiate
+      the start to  allow the chainsaw to operate through internal combustion. Generally,
+      the  cylinder volume ranges between 30 and 120 cubic centimeters, depending
+      on the  manufacturer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Bumper guard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: In addition to the aforementioned front guard, at the base of the
+      blade, there are  generally projections designed for protection to prevent
+      injuries from the  chainsaw's kickback when it stops.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Throttle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: The throttle, or throttle trigger, is located inside the upper part
+      of the rear handle.  It is designed so you can operate it while supporting
+      the tool's weight. Remember,  it will not function if you are not simultaneously
+      pressing the safety trigger.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: Chain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: Among the parts of the chainsaw, the cutting chain is the most related
+      to cutting. It  rotates around the guide bar and is made up of small, extremely
+      sharp metal teeth.  It can be very dangerous if not handled under safe conditions,
+      with the tool  completely turned off.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: Guide bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: The guide bar is the part of the chainsaw that gives it its distinctive
+      shape. It  serves to guide the cutting chain and is elongated to facilitate
+      cutting tasks such  as pruning, allowing you to reach more distant branches
+      due to its length.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28
+    m_Localized: Bumper spikes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: The bumper spike or "bark spike" is a component that guides the
+      guide bar's cut.  It embeds itself into the bark of large-diameter trees, providing
+      safety and acting  as a pivot between the engine and the guide bar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: Primer or purge bulb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: The primer or purge button on a chainsaw moves fuel from the tank
+      and  carburetor using suction. This suction provides enough gas in the carburetor
+      and  cylinder to start the engine.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: Choke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: "Its main function is to provide a richer mixture of air and fuel
+      to the engine  when it is cold, helping to ensure a smooth and trouble-free
+      start.  Sa fonction principale est de fournir un m\xE9lange plus riche d'air
+      et de carburant  au moteur lorsqu'il est froid, ce qui aide \xE0 assurer un
+      d\xE9marrage fluide et sans  probl\xE8me."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

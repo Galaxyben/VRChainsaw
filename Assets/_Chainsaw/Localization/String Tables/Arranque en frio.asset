@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Arranque en frio
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: a293abbca652725429353a685231c84c, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 7344a568e787c5843a43eeaef3b42251, type: 2}
+  - {fileID: 11400000, guid: 8dab186036122104987d196dc5779747, type: 2}
+  - {fileID: 11400000, guid: d360456179db50549b9b142f217e6259, type: 2}
+  - {fileID: 11400000, guid: eb0ef3dbe6fd6ae4c8407e209e92ea60, type: 2}
+  - {fileID: 11400000, guid: aa99f7880d3479d49919b3ec504da6c5, type: 2}
+  - {fileID: 11400000, guid: 7bf1428d0c38a274681618dd9ecb933a, type: 2}
+  - {fileID: 11400000, guid: 828062936b6e8fe41bed595f58df86ab, type: 2}
+  - {fileID: 11400000, guid: 153d9430f59636c4483ea379e1774a3d, type: 2}
+  - {fileID: 11400000, guid: 6e5d54ab088757241a3db6addffd52f6, type: 2}
+  - {fileID: 11400000, guid: 2112b9354b3041d419b12f58429423b1, type: 2}
+  - {fileID: 11400000, guid: 7cfea571618d7074683ce9da71d736da, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

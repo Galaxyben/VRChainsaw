@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Riesgos Tala de Arbol Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Riesgos Tala de Arbol
+  m_TableCollectionNameGuidString: 579c64b0ac5981c4e9f5ad9e5b34b06c
+  m_Entries:
+  - m_Id: 38855860224
+    m_Key: INSTRUCCION. TALA ARBOL. COMIENZO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637440
+    m_Key: INSTRUCCION. TALA ARBOL. ARRANQUE CALIENTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637441
+    m_Key: TITULO. TALA ARBOL. FORMA CORRECTA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637442
+    m_Key: INSTRUCCION. TALA ARBOL. COGER SIERRA MANO IZQ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637443
+    m_Key: INSTRUCCION. TALA ARBOL. COGER SIERRA MANO DER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637444
+    m_Key: ADVERTENCIA. TALA ARBOL. AGARRE DE MOTOSIERRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637445
+    m_Key: ADVERTENCIA. TALA ARBOL. PERSONAS CERCA DE ZONA DE CORTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637446
+    m_Key: ADVERTENCIA. TALA ARBOL. CORTE ARRIBA DE HOMBROS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637447
+    m_Key: ADVERTENCIA. TALA ARBOL. NO MOVIMIENTO SERRADO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637448
+    m_Key: TALA ARBOL. INTRODUCCION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637449
+    m_Key: TALA ARBOL. TENDIDOS ELECTRICOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637450
+    m_Key: TALA ARBOL. EDIFICACIONES Y CARRETERAS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637451
+    m_Key: TALA ARBOL. CONDICIONES METEOROLOGICAS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637452
+    m_Key: TALA ARBOL. ALTURA DE ARBOL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831744
+    m_Key: INSTRUCCION. TALA ARBOL. ALTURA DE ARBOL I
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831745
+    m_Key: INSTRUCCION. TALA ARBOL. ALTURA DE ARBOL II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831746
+    m_Key: INSTRUCCION. TALA ARBOL. ALTURA DE ARBOL III
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831747
+    m_Key: TALA ARBOL. PERIMETRO DE SEGURIDAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831748
+    m_Key: INSTRUCCION. TALA ARBOL. PERIMETRO DE SEGURIDAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831749
+    m_Key: TALA ARBOL. ESTADO DE ARBOL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831750
+    m_Key: TALA ARBOL. ESTADO DE ARBOL. RAMAS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831751
+    m_Key: TALA ARBOL. CAIDA DE ARBOL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831752
+    m_Key: TALA ARBOL. DIRECCION DE CAIDA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831753
+    m_Key: TALA ARBOL. ZONA DE ESCAPE
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8130523493870862419
+  references:
+    version: 2
+    RefIds:
+    - rid: 8130523493870862419
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1746140756794

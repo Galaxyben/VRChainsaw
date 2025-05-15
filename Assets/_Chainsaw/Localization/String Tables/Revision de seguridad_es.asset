@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Revision de seguridad_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 7e86d7cdd9c6efd40b3fb64245898586, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7304535273725952
+    m_Localized: "Ahora vamos a realizar el protocolo de trabajo seguro con la motosierra,
+      dir\xEDgete al c\xEDrculo verde enfrente de la mesa donde est\xE1n los equipos
+      de protecci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086080
+    m_Localized: Casco forestal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086081
+    m_Localized: "El casco forestal es un equipo de protecci\xF3n esencial para trabajar
+      en entornos forestales. Normalmente, incluye un casco resistente que protege
+      la cabeza contra impactos, una visera o pantalla met\xE1lica para proteger
+      el rostro de astillas y escombros, y orejeras que reducen el ruido de las herramientas
+      como motosierras."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086082
+    m_Localized: "Botas de protecci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086083
+    m_Localized: "Las botas de protecci\xF3n para motosierra son un equipo esencial
+      para quienes trabajan en entornos forestales o realizan tareas de jardiner\xEDa
+      y tala. Estas botas est\xE1n dise\xF1adas para ofrecer una alta resistencia
+      a cortes, gracias a su material especial que puede detener la cadena de la
+      motosierra en caso de accidente. Adem\xE1s, suelen ser impermeables y tener
+      suelas antideslizantes para mayor seguridad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086084
+    m_Localized: Ropa anticorte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280384
+    m_Localized: "La ropa anticorte para motosierras est\xE1 dise\xF1ada para proteger
+      al usuario de cortes accidentales. Se fabrica con materiales especiales como
+      fibras resistentes que detienen la cadena al contacto, evitando lesiones graves.
+      Es esencial para trabajos forestales o de jardiner\xEDa que impliquen el uso
+      de motosierras."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280385
+    m_Localized: "Ya tienes tu equipos de protecci\xF3n colocados, ahora despl\xE1zate
+      al c\xEDrculo verde donde est\xE1 la motosierra y los dem\xE1s utensilios para
+      empezar su puesta a punto antes de iniciar su arranque."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280386
+    m_Localized: "Coge el bid\xF3n de gasolina e introd\xFAcelo en el dep\xF3sito
+      para llenar la motosierra de combustible."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280387
+    m_Localized: "La mezcla ideal para una motosierra suele ser de gasolina sin plomo
+      y aceite de dos tiempos en una proporci\xF3n de 50:1 (50 partes de gasolina
+      por 1 de aceite). Es crucial usar aceite espec\xEDfico para motores de dos
+      tiempos y mezclar bien antes de llenar el dep\xF3sito. Esto asegura un rendimiento
+      \xF3ptimo y protege el motor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280388
+    m_Localized: "Se ha derramado combustible en la mesa y por encima de la motosierra.
+      Tenemos que tener cuidado, podr\xEDa provocar incendios una vez en marcha con
+      el calor del motor de la motosierra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280389
+    m_Localized: Coge el trapo y seca el derrame de combustible de la mesa y de la
+      motosierra.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280390
+    m_Localized: "Coge la motosierra y abre el dep\xF3sito de lubricante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280391
+    m_Localized: "La lubricaci\xF3n de la cadena es importante al usar una motosierra
+      para evitar que se caliente demasiado durante el corte y asegurarse de que
+      gira alrededor de la espada sin fricci\xF3n. Esto prolonga la vida \xFAtil
+      de la espada y la cadena."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280392
+    m_Localized: "Ya est\xE1. El dep\xF3sito de aceite lubricante se ha llenado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280393
+    m_Localized: "Ahora vamos a comprobar la tensi\xF3n de la cadena de la motosierra.
+      Coge la motosierra con una mano y con la otra coge la parte inferior de la
+      cadena y tira de ella hacia abajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474688
+    m_Localized: "La cadena se alarga con el uso. Una cadena sin la tensi\xF3n suficiente
+      puede soltarse y ocasionar accidentes graves, incluso mortales. Por lo tanto,
+      es importante ajustarla frecuentemente para compensar este cambio. El tensado
+      de la cadena debe controlarse cada vez que se reposte combustible. Las cadenas
+      nuevas requieren un periodo de rodaje durante el que debe controlarse el tensado
+      con mayor frecuencia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474689
+    m_Localized: "Con la llave combinada, afloja las tuercas de la espada que sujetan
+      la cubierta del embrague. Tensa la cadena con la punta de la espada hacia arriba.
+      Para ello, utiliza la llave combinada para apretar el tornillo tensor gir\xE1ndolo
+      hacia la derecha. Tensa la cadena hasta que deje de colgar en la parte inferior
+      de la espada. Comprueba que la cadena puede girarse a mano con facilidad y
+      que no cuelga por la parte inferior de la espada. Utiliza la llave combinada
+      para apretar de nuevo las tuercas de la espada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474690
+    m_Localized: "Hemos terminado la revisi\xF3n b\xE1sica antes de empezar a trabajar
+      con la motosierra. Adem\xE1s de esta revisi\xF3n, debes de realizar una revisi\xF3n
+      peri\xF3dica para la limpieza de filtros, afilado de la cadena y revisi\xF3n
+      de la buj\xEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474691
+    m_Localized: "Coge la funda de la espada de la motosierra y col\xF3cala en la
+      espada. Recuerda trasladarte siempre con la motosierra apagada y la funda de
+      la espada puesta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474692
+    m_Localized: "Despl\xE1zate hasta la zona de arranque de la motosierra con el
+      teletransporte."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

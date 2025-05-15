@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Arranque en frio_fi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi
+  m_SharedData: {fileID: 11400000, guid: a293abbca652725429353a685231c84c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1104737558528
+    m_Localized: "Pid\xE4 moottorisahaa vasemmalla ohjaimella (k\xE4yt\xE4 vasemman
+      ohjaimen otetta) ja paina oikeaa liipaisinta kolme kertaa moottorisahan rikastimessa,
+      jotta polttoaine p\xE4\xE4see kaasuttajaan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947136
+    m_Localized: Paina rikastinta oikealla liipaisimella ja aseta se ON-asentoon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947137
+    m_Localized: Aseta moottorisaha maahan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947138
+    m_Localized: "Pid\xE4 moottorisahaa tukevasti maassa k\xE4ynnistyksen aikana.
+      Aseta oikea jalkasi takakahvan l\xE4pi ja tartu etukahvaan tukevasti oikealla
+      k\xE4dell\xE4si (pid\xE4 oikean ohjaimen GRIP painettuna)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947139
+    m_Localized: "Moottorisahan on oltava tasaisella alustalla, eik\xE4 ketju saa
+      koskea maahan; muuten k\xE4ynnist\xE4ess\xE4 ter\xE4 voi vahingoittua ja turvallisuutesi
+      voi tarpeettomasti vaarantua."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947140
+    m_Localized: "Nyt vasemmalla ohjaimella, tartu K\xC4YNNISTYSKAHVAAN (pid\xE4
+      vasemman ohjaimen ote painettuna) ja ved\xE4 yl\xF6sp\xE4in. Toista toimenpide
+      useita kertoja, kunnes kuulet moottorin yritt\xE4v\xE4n k\xE4ynnisty\xE4, lopeta
+      sitten yritt\xE4minen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947141
+    m_Localized: Paina nyt rikastinta oikealla liipaisimella ja aseta se OFF-asentoon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947142
+    m_Localized: "Toista moottorisahan k\xE4ynnistys maan tasalla, kunnes se k\xE4ynnistyy
+      onnistuneesti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947143
+    m_Localized: "Olemme suorittaneet Kylm\xE4k\xE4ynnistykseksi kutsutun toiminnon,
+      jota k\xE4ytet\xE4\xE4n moottorisahan k\xE4ynnist\xE4miseen p\xE4iv\xE4n alussa.
+      Jos haluat k\xE4ynnist\xE4\xE4 sen uudelleen saman p\xE4iv\xE4n aikana, EI
+      OLE TARPEEN K\xC4YTT\xC4\xC4 KURISTINTA ON-ASENNOSSA. K\xE4ynnist\xE4 moottorisaha
+      samalla prosessilla, mutta KURISTIN OFF-ASENNOSSA."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Arranque en frio Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Arranque en frio
+  m_TableCollectionNameGuidString: a293abbca652725429353a685231c84c
+  m_Entries:
+  - m_Id: 1104737558528
+    m_Key: ARRANQUE FRIO. COMIENZO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947136
+    m_Key: ARRANQUE FRIO. CHOKE ON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947137
+    m_Key: ARRANQUE FRIO. SUELO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947138
+    m_Key: ARRANQUE FRIO. SUJETAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947139
+    m_Key: ARRANQUE FRIO. REGLAS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947140
+    m_Key: ARRANQUE FRIO. TIRADOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947141
+    m_Key: ARRANQUE FRIO. CHOKE OFF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947142
+    m_Key: ARRANQUE FRIO. REPETIR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947143
+    m_Key: ARRANQUE FRIO. FINAL
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8130523613907648599
+  references:
+    version: 2
+    RefIds:
+    - rid: 8130523613907648599
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1746613346514

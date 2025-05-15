@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corte Basico_sv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv
+  m_SharedData: {fileID: 11400000, guid: dc4a69a5d6334a34caffa8972b72c4a9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 19964715008
+    m_Localized: "Plocka upp motors\xE5gen fr\xE5n marken"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492224
+    m_Localized: "Utf\xF6r en VARMSTART (CHOKE POSITION ON \xE4r inte n\xF6dv\xE4ndig)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492225
+    m_Localized: "R\xC4TT S\xC4TT ATT H\xC5LLA MOTORS\xC5GEN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492226
+    m_Localized: "UPPM\xC4RKSAMHET!. H\xE5ll motors\xE5gen med det v\xE4nstra handtaget
+      p\xE5 det fr\xE4mre greppet (f\xF6r att g\xF6ra detta, tryck p\xE5 avtryckaren
+      och det v\xE4nstra handtaget och h\xE5ll dem nedtryckta f\xF6r att h\xE5lla
+      greppet). DET \xC4R VIKTIGT ATT PASSERA V\xC4NSTER HANDS TUMME UNDER GREPPET
+      F\xD6R ATT HELT ST\xC4NGA V\xC4NSTER HAND RUNT DET FR\xC4MRE GREPPET."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492227
+    m_Localized: "UPPM\xC4RKSAMHET!. Med det h\xF6gra handtaget, h\xE5ll det bakre
+      greppet (f\xF6r att g\xF6ra detta, tryck och h\xE5ll ned det h\xF6gra greppet,
+      det h\xF6gra handtagsutl\xF6saren anv\xE4nds som motors\xE5gens gas)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492228
+    m_Localized: "F\xD6RBJUDET ATT H\xC5LLA MOTORS\xC5GEN MED ENDAST EN HAND."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492229
+    m_Localized: "F\xD6RBJUDET ATT UTF\xD6RA SK\xC4RNINGAR MED PERSONER INOM MINST
+      2 METER I EN CIRKEL RUNT SK\xC4ROMR\xC5DET."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492230
+    m_Localized: "F\xD6RBJUDET ATT SK\xC4RA MED EN MOTORS\xC5G P\xC5 EN H\xD6JD \xD6VER
+      V\xC5RA AXLAR."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492231
+    m_Localized: "St\xE5 framf\xF6r den markerade stocken f\xF6r att b\xF6rja s\xE5ga
+      p\xE5 halvh\xF6jd."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492232
+    m_Localized: "UPPM\xC4RKSAMHET!: H\xE5ll ryggen rak, b\xF6j kn\xE4na l\xE4tt
+      och f\xF6r fram ditt v\xE4nstra ben. Placera motors\xE5gen n\xE4ra kroppen
+      i h\xF6jd med h\xF6gra sidan av midjan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686528
+    m_Localized: "UPPM\xC4RKSAMHET!: MOTORS\xC5GEN M\xC5STE ALLTID H\xC5LLAS UTANF\xD6R
+      SK\xC4RBANAN F\xD6R V\xC5R EGEN KROPP."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686529
+    m_Localized: "F\xD6RBJUDET ATT PLACERA MOTORS\xC5GEN SOM \xC4R P\xC5SLAGEN FRAMF\xD6R
+      OSS."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686530
+    m_Localized: "Nu, accelerera motors\xE5gen med den h\xF6gra knappens avtryckare
+      och vila bladets bas p\xE5 stocken, med hj\xE4lp av KLOSTOPPEN. Sk\xE4rr\xF6relsen
+      kommer att vara uppifr\xE5n och ner med hj\xE4lp av handleder och underarmar
+      med KLOSTOPPEN vilande p\xE5 stocken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686531
+    m_Localized: "UPPM\xC4RKSAMHET!: G\xD6R INTE S\xC5GR\xD6RELSER. OM MASKINEN STANNAR
+      MITT I SK\xC4RET, TA BORT DEN STILLAST\xC5ENDE MOTORS\xC5GEN OCH F\xD6RS\xD6K
+      IGEN. STARTA DEN INTE MITT I SK\xC4RET."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686532
+    m_Localized: "St\xE5 framf\xF6r den markerade stocken f\xF6r att b\xF6rja s\xE5ga
+      p\xE5 l\xE5g h\xF6jd."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686533
+    m_Localized: "UPPM\xC4RKSAMHET!: H\xE5ll ryggen rak, b\xF6j kn\xE4na helt och
+      f\xF6r fram ditt v\xE4nstra ben. Placera motors\xE5gen n\xE4ra kroppen i h\xF6jd
+      med h\xF6gra sidan av midjan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686534
+    m_Localized: "UPPM\xC4RKSAMHET: B\xD6J INTE RYGGEN F\xD6R ATT G\xD6RA SK\xC4RNINGAR
+      P\xC5 L\xC5G H\xD6JD, DET KAN ORSAKA L\xC4NDRYGGSSKADOR."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686535
+    m_Localized: "Nu, accelerera motors\xE5gen med den h\xF6gra knappens avtryckare
+      och vila bladets bas p\xE5 stocken, med hj\xE4lp av KLOSTOPPEN. Sk\xE4rr\xF6relsen
+      kommer att vara uppifr\xE5n och ner med hj\xE4lp av handleder och underarmar
+      med KLOSTOPPEN vilande p\xE5 stocken."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

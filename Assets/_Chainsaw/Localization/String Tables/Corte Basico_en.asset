@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corte Basico_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: dc4a69a5d6334a34caffa8972b72c4a9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 19964715008
+    m_Localized: Pick up the chainsaw from the ground
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492224
+    m_Localized: Perform a HOT START (the CHOKE POSITION ON is not necessary)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492225
+    m_Localized: CORRECT WAY TO HOLD THE CHAINSAW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492226
+    m_Localized: ATTENTION!. Hold the chainsaw with the left handle of the front
+      grip (to do this, press the trigger and left handle grip and keep them pressed
+      to hold the grip). IT IS ESSENTIAL TO PASS THE LEFT HAND THUMB UNDER THE GRIP
+      TO COMPLETELY CLOSE THE LEFT HAND AROUND THE FRONT GRIP.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492227
+    m_Localized: ATTENTION!. With the right handle, hold the rear grip (to do this,
+      press the right handle grip and hold it, the right handle trigger will be used
+      as the chainsaw accelerator).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492228
+    m_Localized: PROHIBITED TO HOLD THE CHAINSAW WITH ONLY ONE HAND.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492229
+    m_Localized: PROHIBITED TO MAKE CUTS WITH PEOPLE AROUND AT LEAST 2 METERS IN
+      A CIRCLE FROM THE CUTTING AREA.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492230
+    m_Localized: PROHIBITED TO CUT WITH A CHAINSAW AT A HEIGHT ABOVE OUR SHOULDERS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492231
+    m_Localized: Stand in front of the marked log to start the cut at mid-height.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492232
+    m_Localized: 'ATTENTION!: Keep your back straight, slightly bend your knees,
+      and move your left leg forward. Place the chainsaw close to your body at the
+      height of the right side of your waist.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686528
+    m_Localized: 'ATTENTION!: THE CHAINSAW MUST ALWAYS BE KEPT OUT OF THE CUTTING
+      PATH OF OUR OWN BODY.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686529
+    m_Localized: PROHIBITED TO PLACE THE CHAINSAW TURNED ON IN FRONT OF US.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686530
+    m_Localized: Now, accelerate the chainsaw with the right button trigger and rest
+      the base of the blade on the log, using the SPIKE BUMPER. The cutting motion
+      will be from top to bottom using the wrists and forearms with the SPIKE BUMPER
+      resting on the log.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686531
+    m_Localized: 'ATTENTION!: DO NOT MAKE SAWING MOVEMENTS. IF THE MACHINE STOPS
+      MID-CUT, REMOVE THE STOPPED CHAINSAW AND TRY AGAIN. DO NOT START IT IN THE
+      MIDDLE OF THE CUT.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686532
+    m_Localized: Stand in front of the marked log to start the cut at low height.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686533
+    m_Localized: 'ATTENTION!: Keep your back straight, fully bend your knees, and
+      move your left leg forward. Place the chainsaw close to your body at the height
+      of the right side of your waist.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686534
+    m_Localized: 'ATTENTION: DO NOT BEND YOUR BACK TO MAKE LOW-HEIGHT CUTS, AS IT
+      MAY CAUSE LUMBAR INJURIES.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686535
+    m_Localized: Now, accelerate the chainsaw with the right button trigger and rest
+      the base of the blade on the log, using the SPIKE BUMPER. The cutting motion
+      will be from top to bottom using the wrists and forearms with the SPIKE BUMPER
+      resting on the log.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

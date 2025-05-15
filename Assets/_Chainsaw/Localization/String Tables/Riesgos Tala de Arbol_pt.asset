@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Riesgos Tala de Arbol_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 579c64b0ac5981c4e9f5ad9e5b34b06c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38855860224
+    m_Localized: "Pegue a motosserra do ch\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637440
+    m_Localized: "Realize uma PARTIDA A QUENTE (n\xE3o \xE9 necess\xE1rio a POSI\xC7\xC3O
+      DO AFOGADOR)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637441
+    m_Localized: FORMA CORRETA DE SEGURAR A MOTOSSERRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637442
+    m_Localized: "ATEN\xC7\xC3O!. Segure a motosserra com o cabo esquerdo da empunhadura
+      dianteira (para isso, pressione o gatilho e o cabo esquerdo e mantenha-os pressionados
+      para segurar a empunhadura). \xC9 FUNDAMENTAL PASSAR O POLEGAR DA M\xC3O ESQUERDA
+      POR BAIXO DA EMPUNHADURA PARA FECHAR COMPLETAMENTE A M\xC3O ESQUERDA AO REDOR
+      DA EMPUNHADURA DIANTEIRA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637443
+    m_Localized: "ATEN\xC7\xC3O!. Com o cabo direito, segure a empunhadura traseira
+      (para isso, pressione o grip do cabo direito e mantenha-o pressionado, o gatilho
+      do cabo direito ser\xE1 usado como acelerador da motosserra)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637444
+    m_Localized: "PROIBIDO SEGURAR A MOTOSSERRA APENAS COM UMA M\xC3O."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637445
+    m_Localized: "PROIBIDO REALIZAR CORTES COM PESSOAS A MENOS DE 2 METROS EM C\xCDRCULO
+      DA \xC1REA DE CORTE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637446
+    m_Localized: PROIBIDO CORTAR COM UMA MOTOSSERRA A UMA ALTURA ACIMA DOS NOSSOS
+      OMBROS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637447
+    m_Localized: "ATEN\xC7\xC3O!: N\xC3O FAZER MOVIMENTOS DE SERRAR. SE A M\xC1QUINA
+      PARAR NO MEIO DO CORTE, RETIRE A MOTOSSERRA PARADA E TENTE NOVAMENTE. N\xC3O
+      LIGUE-A NO MEIO DO CORTE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637448
+    m_Localized: "O planejamento ao realizar um corte de \xE1rvores \xE9 vital; devemos
+      levar em conta os fatores e elementos que podem representar um risco para derrubar
+      as \xE1rvores de forma segura e controlada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637449
+    m_Localized: "Devemos observar a proximidade de linhas el\xE9tricas na \xE1rea
+      onde queremos derrubar a \xE1rvore. Deve existir uma dist\xE2ncia adequada
+      entre a derrubada da \xE1rvore e as linhas el\xE9tricas. Consulte a regulamenta\xE7\xE3o
+      do seu pa\xEDs para mais detalhes sobre dist\xE2ncias de seguran\xE7a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637450
+    m_Localized: "Al\xE9m disso, levaremos em conta outros elementos onde a \xE1rvore
+      derrubada pode cair, como estradas e edifica\xE7\xF5es. Caso esses elementos
+      estejam dentro da \xE1rea de derrubada, ser\xE1 necess\xE1rio tomar medidas
+      especiais."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637451
+    m_Localized: "Em situa\xE7\xF5es normais, \xE9 totalmente desaconselhado realizar
+      o corte de \xE1rvores em condi\xE7\xF5es meteorol\xF3gicas adversas, como fortes
+      nevadas, chuvas ou tempestades com componente el\xE9trica, bem como em neblinas
+      densas. Considera\xE7\xE3o especial deve ser dada ao vento\u2014n\xE3o realizar
+      cortes de \xE1rvores com ventos superiores a 40 quil\xF4metros por hora."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637452
+    m_Localized: "Para criar um per\xEDmetro de seguran\xE7a ao redor da \xE1rvore
+      a ser derrubada, precisamos primeiro saber sua altura. Existem v\xE1rios m\xE9todos
+      para medir isso, de mais simples a mais complexos. Vamos explicar um m\xE9todo
+      muito simples e f\xE1cil que permitir\xE1 estimar a altura da \xE1rvore."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831744
+    m_Localized: "Segure um bast\xE3o com o bra\xE7o estendido em linha reta \xE0
+      sua frente, de forma que o comprimento do bast\xE3o seja igual \xE0 dist\xE2ncia
+      entre seu olho e sua m\xE3o. Em seguida, coloque o bast\xE3o na posi\xE7\xE3o
+      vertical para que se forme um tri\xE2ngulo ret\xE2ngulo entre seu olho, sua
+      m\xE3o e a parte superior do bast\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831745
+    m_Localized: "Aponte para a \xE1rvore e posicione-se a uma dist\xE2ncia em que
+      a \xE1rvore pare\xE7a ter a mesma altura do bast\xE3o. Se a \xE1rvore estiver
+      inclinada, voc\xEA obter\xE1 resultados mais precisos se fizer a medi\xE7\xE3o
+      do lado, garantindo que a \xE1rvore n\xE3o esteja inclinada nem para voc\xEA
+      nem para o lado contr\xE1rio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831746
+    m_Localized: "A dist\xE2ncia entre o local onde voc\xEA est\xE1 e a \xE1rvore
+      ser\xE1 igual \xE0 altura dela. Conte os passos ou me\xE7a com uma fita m\xE9trica.
+      Sempre adicione uma ampla margem de erro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831747
+    m_Localized: "Uma vez que conhecemos a altura da \xE1rvore, vamos criar um per\xEDmetro
+      de seguran\xE7a. Este per\xEDmetro de seguran\xE7a deve ter um raio de pelo
+      menos o dobro da altura da \xE1rvore."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831748
+    m_Localized: "Aponte com o ponteiro para as \xE1rvores indicadas para criar o
+      per\xEDmetro de seguran\xE7a com fita de balizamento. Mantenha pressionado
+      o bot\xE3o de gatilho entre uma \xE1rvore e outra para criar o per\xEDmetro
+      com a fita de balizamento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831749
+    m_Localized: "Garantiremos que a \xE1rvore esteja em boas condi\xE7\xF5es e n\xE3o
+      apresente sinais de podrid\xE3o na base, pois isso poderia fazer com que a
+      \xE1rvore desmoronasse sobre n\xF3s uma vez iniciado o corte, n\xE3o caindo
+      para um lado, mas sobre si mesma."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831750
+    m_Localized: "Tamb\xE9m levaremos em considera\xE7\xE3o o estado dos galhos,
+      com especial precau\xE7\xE3o para aqueles que possam estar quebrados e que
+      possam cair durante o processo de corte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831751
+    m_Localized: "Toda \xE1rvore tem uma orienta\xE7\xE3o natural de queda, que pode
+      ser determinada por sua inclina\xE7\xE3o, a forma e localiza\xE7\xE3o de seus
+      galhos, a acumula\xE7\xE3o de neve, etc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831752
+    m_Localized: "Sempre que poss\xEDvel, devemos cortar a \xE1rvore de forma que
+      ela caia na sua dire\xE7\xE3o natural de queda. Caso isso n\xE3o seja vi\xE1vel,
+      deveremos utilizar t\xE9cnicas especiais para faz\xEA-la cair em uma dire\xE7\xE3o
+      diferente da sua inclina\xE7\xE3o natural."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831753
+    m_Localized: "Crie uma zona de escape eliminando os arbustos e obst\xE1culos
+      pr\xF3ximos usando o ponteiro do controle em um \xE2ngulo de cerca de 45 graus
+      em ambos os lados atr\xE1s da \xE1rvore a ser derrubada. Aponte o ponteiro
+      para o arbusto que deseja remover e pressione o bot\xE3o de gatilho para elimin\xE1-lo."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

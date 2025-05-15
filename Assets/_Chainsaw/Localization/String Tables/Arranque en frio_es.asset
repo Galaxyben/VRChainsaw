@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Arranque en frio_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: a293abbca652725429353a685231c84c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1104737558528
+    m_Localized: Coge la motosierra con el mando izquierdo (usar el grip del mando
+      izquierdo) y aprieta tres veces con el trigger derecho en el purgador o cebador
+      de la motosierra para que entre gasolina en el carburador.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947136
+    m_Localized: "Pulsa con el trigger derecho el estrangulador y ponlo en posici\xF3n
+      ON."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947137
+    m_Localized: Coloca la motosierra en el suelo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947138
+    m_Localized: "Sujeta firmemente la motosierra en el suelo mientras la arrancas.
+      Para ello mete tu pie derecho a trav\xE9s de la empu\xF1adura trasera y agarra
+      firmemente la empu\xF1adura delantera con tu mano derecha (mant\xE9n apretado
+      el GRIP mando derecho)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947139
+    m_Localized: "La motosierra debe estar sobre una superficie plana, y la cadena
+      no puede tener contacto con el suelo, ya que, de otra manera, al arrancarla
+      se da\xF1ar\xEDa el filo y se pondr\xEDa en peligro innecesariamente tu seguridad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947140
+    m_Localized: "Ahora con el mando izquierdo, coge el TIRADOR DE ARRANQUE (mant\xE9n
+      el grip del mando izquierdo apretado) y estira hacia arriba. Repite la operaci\xF3n
+      varias veces, hasta que escuches que el motor hace intento de arrancar, para
+      de intentarlo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947141
+    m_Localized: "Ahora pulsa con el trigger del mando derecho el estrangulador y
+      ponlo en posici\xF3n OFF."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947142
+    m_Localized: "Vuelve a repetir la operaci\xF3n de arranque de la motosierra en
+      el suelo hasta que arranque con \xE9xito."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947143
+    m_Localized: "Hemos realizado la operaci\xF3n denominada ARRANQUE EN FRIO, se
+      utiliza para realizar el encendido de la motosierra cuando se inicia la jornada.
+      En caso de querer arrancarla de nuevo durante el mismo d\xEDa, NO ES NECESARIO
+      UTILIZAR EL ESTRANGULADOR EN POSICION ON. Arranca la motosierra con el mismo
+      proceso con el ESTRANGULADOR EN POSICION OFF."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

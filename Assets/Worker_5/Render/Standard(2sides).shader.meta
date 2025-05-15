@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 62bac5d5dbf73934dba9a1b5fa62b6a7
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 309620
+  packageName: Worker 5
+  packageVersion: 1.0
+  assetPath: Assets/Worker_5/Render/Standard(2sides).shader
+  uploadId: 730804

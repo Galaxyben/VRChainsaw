@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Corte Derribo de Arbol Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Corte Derribo de Arbol
+  m_TableCollectionNameGuidString: 637ef3ff49c818c43941cb2c3426a8e7
+  m_Entries:
+  - m_Id: 20975542272
+    m_Key: DERRIBO ARBOL. COMIENZO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319488
+    m_Key: DERRIBO ARBOL. ARRANQUE CALIENTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319489
+    m_Key: DERRIBO ARBOL. TITULO. FORMA DE COGER MOTOSIERRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319490
+    m_Key: DERRIBO ARBOL. INSTRUCCION. COGER SIERRA MANO IZQ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319491
+    m_Key: DERRIBO ARBOL. INSTRUCCION. COGER SIERRA MANO DER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319492
+    m_Key: DERRIBO ARBOL. ADVERTENCIA. AGARRE DE MOTOSIERRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319493
+    m_Key: DERRIBO ARBOL. ADVERTENCIA. PERSONAS CERCA DE ZONA DE CORTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319494
+    m_Key: DERRIBO ARBOL. ADVERTENCIA. CORTE ARRIBA DE HOMBROS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319495
+    m_Key: DERRIBO ARBOL. ADVERTENCIA. NO MOVIMIENTO SERRADO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319496
+    m_Key: DERRIBO ARBOL. INTRODUCCION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319497
+    m_Key: DERRIBO ARBOL. CORTE DIRECCIONAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319498
+    m_Key: DERRIBO ARBOL. CORTE DIRECCIONAL ETAPAS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319499
+    m_Key: DERRIBO ARBOL. PRIMER CORTE 45GRADOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513792
+    m_Key: DERRIBO ARBOL. SEGUNDO CORTE DERECHO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513793
+    m_Key: DERRIBO ARBOL. CORTE CORECTO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513794
+    m_Key: DERRIBO ARBOL. CORTE DE TALA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513795
+    m_Key: DERRIBO ARBOL. TERCER CORTE CONTRARIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513796
+    m_Key: DERRIBO ARBOL. BISAGRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513797
+    m_Key: DERRIBO ARBOL. INFORMACION BISAGRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513798
+    m_Key: DERRIBO ARBOL. DIMENSIONES BISAGRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513799
+    m_Key: DERRIBO ARBOL. ANGULOS BISAGRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513800
+    m_Key: DERRIBO ARBOL. DIRECCION DE CAIDA
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8130523493870862418
+  references:
+    version: 2
+    RefIds:
+    - rid: 8130523493870862418
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1746140726601

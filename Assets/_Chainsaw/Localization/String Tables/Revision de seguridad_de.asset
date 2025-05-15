@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Revision de seguridad_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 7e86d7cdd9c6efd40b3fb64245898586, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7304535273725952
+    m_Localized: "Jetzt werden wir das Sicherheitsprotokoll f\xFCr die Arbeit mit
+      der Kettens\xE4ge durchf\xFChren. Begeben Sie sich zum gr\xFCnen Kreis vor
+      dem Tisch, wo die Schutzausr\xFCstung liegt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086080
+    m_Localized: Forsthelm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086081
+    m_Localized: "Der Forsthelm ist eine essentielle Schutzausr\xFCstung f\xFCr die
+      Arbeit in Waldgebieten. Er besteht normalerweise aus einem robusten Helm, der
+      den Kopf vor St\xF6\xDFen sch\xFCtzt, einem Visier oder Metallgitter, das das
+      Gesicht vor Splittern und Schmutz sch\xFCtzt, und Ohrensch\xFCtzern, die den
+      L\xE4rm von Werkzeugen wie Kettens\xE4gen reduzieren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086082
+    m_Localized: Schutzstiefel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086083
+    m_Localized: "Schutzstiefel f\xFCr Kettens\xE4gen sind eine essentielle Ausr\xFCstung
+      f\xFCr diejenigen, die in Waldgebieten arbeiten oder Garten- und Holzf\xE4llarbeiten
+      durchf\xFChren. Diese Stiefel sind so konzipiert, dass sie eine hohe Schnittfestigkeit
+      bieten, dank ihres speziellen Materials, das die Kettens\xE4ge im Falle eines
+      Unfalls stoppen kann. Au\xDFerdem sind sie in der Regel wasserdicht und haben
+      rutschfeste Sohlen f\xFCr zus\xE4tzliche Sicherheit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086084
+    m_Localized: Schnittschutzkleidung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280384
+    m_Localized: "Schnittschutzkleidung f\xFCr Kettens\xE4gen ist daf\xFCr ausgelegt,
+      den Benutzer vor versehentlichen Schnitten zu sch\xFCtzen. Sie wird aus speziellen
+      Materialien wie widerstandsf\xE4higen Fasern hergestellt, die die Kette bei
+      Kontakt stoppen und schwere Verletzungen verhindern. Sie ist unverzichtbar
+      f\xFCr Forst- oder Gartenarbeiten, bei denen Kettens\xE4gen verwendet werden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280385
+    m_Localized: "Sie haben Ihre Schutzausr\xFCstung bereits angelegt. Begeben Sie
+      sich jetzt zum gr\xFCnen Kreis, wo sich die Kettens\xE4ge und die anderen Werkzeuge
+      befinden, um sie vor dem Start einzurichten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280386
+    m_Localized: "Nehmen Sie den Benzinkanister und f\xFCllen Sie ihn in den Tank,
+      um die Kettens\xE4ge mit Kraftstoff zu bef\xFCllen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280387
+    m_Localized: "Das ideale Gemisch f\xFCr eine Kettens\xE4ge besteht normalerweise
+      aus bleifreiem Benzin und Zweitakt\xF6l im Verh\xE4ltnis 50:1 (50 Teile Benzin
+      zu 1 Teil \xD6l). Es ist wichtig, speziell f\xFCr Zweitaktmotoren entwickeltes
+      \xD6l zu verwenden und vor dem Bef\xFCllen des Tanks gut zu mischen. Dies gew\xE4hrleistet
+      eine optimale Leistung und sch\xFCtzt den Motor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280388
+    m_Localized: "Kraftstoff ist auf den Tisch und \xFCber die Kettens\xE4ge versch\xFCttet
+      worden. Wir m\xFCssen vorsichtig sein, da dies durch die Hitze des Motors der
+      Kettens\xE4ge Br\xE4nde verursachen k\xF6nnte, sobald sie l\xE4uft."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280389
+    m_Localized: "Nehmen Sie das Tuch und wischen Sie den Kraftstoff, der auf dem
+      Tisch und der Kettens\xE4ge versch\xFCttet wurde, ab."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280390
+    m_Localized: "Nehmen Sie die Kettens\xE4ge und \xF6ffnen Sie den Schmierstofftank."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280391
+    m_Localized: "Die Schmierung der Kette ist wichtig beim Einsatz einer Kettens\xE4ge,
+      um ein \xDCberhitzen w\xE4hrend des Schneidens zu verhindern und sicherzustellen,
+      dass sie sich ohne Reibung um die F\xFChrungsschiene dreht. Dies verl\xE4ngert
+      die Lebensdauer der F\xFChrungsschiene und der Kette."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280392
+    m_Localized: "Fertig. Der Schmier\xF6ltank ist voll."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280393
+    m_Localized: "Jetzt \xFCberpr\xFCfen wir die Spannung der Kettens\xE4gekette.
+      Halten Sie die Kettens\xE4ge mit einer Hand und greifen Sie mit der anderen
+      die Unterseite der Kette und ziehen Sie sie nach unten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474688
+    m_Localized: "Die Kette dehnt sich mit der Nutzung. Eine Kette mit unzureichender
+      Spannung kann sich l\xF6sen und schwere, sogar t\xF6dliche Unf\xE4lle verursachen.
+      Daher ist es wichtig, sie h\xE4ufig anzupassen, um diese Ver\xE4nderung auszugleichen.
+      Die Kettenspannung sollte jedes Mal \xFCberpr\xFCft werden, wenn Kraftstoff
+      nachgef\xFCllt wird. Neue Ketten ben\xF6tigen eine Einlaufphase, in der die
+      Spannung h\xE4ufiger kontrolliert werden sollte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474689
+    m_Localized: "Mit dem Kombischl\xFCssel die Muttern der F\xFChrungsschiene l\xF6sen,
+      die die Kupplungsabdeckung halten. Die Kette mit der Spitze der F\xFChrungsschiene
+      nach oben spannen. Dazu den Kombischl\xFCssel verwenden, um die Spannschraube
+      nach rechts zu drehen. Die Kette spannen, bis sie nicht mehr unterhalb der
+      F\xFChrungsschiene h\xE4ngt. Pr\xFCfen, ob sich die Kette leicht von Hand drehen
+      l\xE4sst und nicht unterhalb der F\xFChrungsschiene h\xE4ngt. Mit dem Kombischl\xFCssel
+      die Muttern der F\xFChrungsschiene wieder festziehen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474690
+    m_Localized: "Wir haben die grundlegende \xDCberpr\xFCfung abgeschlossen, bevor
+      wir mit der Kettens\xE4ge arbeiten. Zus\xE4tzlich zu dieser \xDCberpr\xFCfung
+      sollten Sie regelm\xE4\xDFige Wartungen durchf\xFChren, einschlie\xDFlich der
+      Reinigung der Filter, des Sch\xE4rfens der Kette und der \xDCberpr\xFCfung
+      der Z\xFCndkerze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474691
+    m_Localized: "Nehmen Sie die Schutzh\xFClle der Kettens\xE4genf\xFChrung und
+      setzen Sie sie auf die F\xFChrung. Denken Sie daran, die Kettens\xE4ge immer
+      ausgeschaltet und mit aufgesetzter Schutzh\xFClle zu transportieren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474692
+    m_Localized: "Teleportieren Sie sich zum Startbereich der Kettens\xE4ge."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

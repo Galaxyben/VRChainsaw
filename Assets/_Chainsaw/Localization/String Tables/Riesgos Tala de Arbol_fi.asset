@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Riesgos Tala de Arbol_fi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi
+  m_SharedData: {fileID: 11400000, guid: 579c64b0ac5981c4e9f5ad9e5b34b06c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38855860224
+    m_Localized: Nosta moottorisaha maasta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637440
+    m_Localized: "Suorita KUUMAK\xC4YNNISTYS (KURISTIMEN ASENTO P\xC4\xC4LL\xC4 ei
+      ole tarpeen)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637441
+    m_Localized: "OIKEA TAPA PIT\xC4\xC4 MOOTTORISAHAA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637442
+    m_Localized: "HUOMIO!. Pid\xE4 moottorisahaa etukahvan vasemmalla kahvalla (paina
+      t\xE4t\xE4 varten liipaisinta ja vasenta kahvaa ja pid\xE4 niit\xE4 painettuna
+      kahvan pit\xE4miseksi). ON V\xC4LTT\xC4M\xC4T\xD6NT\xC4 SIIRT\xC4\xC4 VASEMMAN
+      K\xC4DEN PEUKALO KAHVAN ALLE, JOTTA VASEN K\xC4SI SULKEUTUU T\xC4YSIN ETUKAHVAN
+      YMP\xC4RILLE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637443
+    m_Localized: "HUOMIO!. Oikealla kahvalla pid\xE4 takakahvasta kiinni (paina t\xE4t\xE4
+      varten oikean kahvan kahvaa ja pid\xE4 sit\xE4 painettuna, oikean kahvan liipaisinta
+      k\xE4ytet\xE4\xE4n moottorisahan kiihdyttimen\xE4)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637445
+    m_Localized: "KIELLETTY LEIKATA, JOS ALUEELLA ON IHMISI\xC4 V\xC4HINT\xC4\xC4N
+      2 METRIN ET\xC4ISYYDELL\xC4 LEIKKAUSALUEELTA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637446
+    m_Localized: "KIELLETTY LEIKATA MOOTTORISAHALLA KORKEUDELLA OLKAP\xC4IDEN YL\xC4PUOLELLA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637447
+    m_Localized: "HUOMIO!: \xC4L\xC4 TEE SAHAUSLIIKKEIT\xC4. JOS KONE PYS\xC4HTYY
+      KESKEN LEIKKAUKSEN, POISTA PYS\xC4HTYNYT MOOTTORISAHA JA YRIT\xC4 UUDELLEEN.
+      \xC4L\xC4 K\xC4YNNIST\xC4 SIT\xC4 KESKEN LEIKKAUKSEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637448
+    m_Localized: "Suunnittelu puun kaadon yhteydess\xE4 on elint\xE4rke\xE4\xE4;
+      meid\xE4n on otettava huomioon tekij\xE4t ja elementit, jotka voivat aiheuttaa
+      riskin puiden turvalliselle ja hallitulle kaatamiselle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637449
+    m_Localized: "Meid\xE4n on tarkkailtava s\xE4hk\xF6linjojen l\xE4heisyytt\xE4
+      alueella, jossa haluamme kaataa puun. Puiden kaadon ja s\xE4hk\xF6linjojen
+      v\xE4lill\xE4 tulee olla riitt\xE4v\xE4 et\xE4isyys. Tarkista maasi m\xE4\xE4r\xE4ykset
+      saadaksesi lis\xE4tietoja turvaet\xE4isyyksist\xE4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637450
+    m_Localized: "Lis\xE4ksi otamme huomioon muut tekij\xE4t, joihin kaadettu puu
+      voi pudota, kuten tiet ja rakennukset. Jos n\xE4m\xE4 tekij\xE4t ovat kaatoalueella,
+      on ryhdytt\xE4v\xE4 erityistoimenpiteisiin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637451
+    m_Localized: "Normaaleissa olosuhteissa on t\xE4ysin ep\xE4suositeltavaa suorittaa
+      puiden kaatamista ep\xE4suotuisissa s\xE4\xE4olosuhteissa, kuten voimakkaassa
+      lumisateessa, sateessa tai ukkosmyrskyiss\xE4, joissa on s\xE4hk\xF6komponentteja,
+      sek\xE4 tihe\xE4ss\xE4 sumussa. Erityist\xE4 huomiota tulisi kiinnitt\xE4\xE4
+      tuuleen\u2014\xE4l\xE4 kaada puita, jos tuulen nopeus ylitt\xE4\xE4 40 kilometri\xE4
+      tunnissa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637452
+    m_Localized: "Jotta voimme luoda turvallisuusalueen kaadettavan puun ymp\xE4rille,
+      meid\xE4n on ensin tiedett\xE4v\xE4 sen korkeus. Puun korkeuden mittaamiseen
+      on useita menetelmi\xE4, joista osa on yksinkertaisia ja osa monimutkaisempia.
+      Selit\xE4mme sinulle hyvin yksinkertaisen menetelm\xE4n, jonka avulla voit
+      arvioida puun korkeuden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831744
+    m_Localized: "Pid\xE4 keppi\xE4 ojennetulla k\xE4dell\xE4 suoraan edess\xE4si
+      siten, ett\xE4 kepin pituus on yht\xE4 suuri kuin silm\xE4n ja k\xE4den v\xE4linen
+      et\xE4isyys. Aseta sitten keppi pystyasentoon niin, ett\xE4 silm\xE4n, k\xE4den
+      ja kepin yl\xE4osan v\xE4liin muodostuu suorakulmainen kolmio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831745
+    m_Localized: "Suuntaa katseesi puuhun ja asetu et\xE4isyydelle, jolla puu n\xE4ytt\xE4\xE4
+      yht\xE4 korkealta kuin kepin pituus. Jos puu on kallistunut, saat tarkempia
+      tuloksia mittaamalla sen sivulta, jolloin puu ei ole kallistunut sinua kohti
+      eik\xE4 vastakkaiseen suuntaan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831746
+    m_Localized: "Et\xE4isyys sijaintisi ja puun v\xE4lill\xE4 on yht\xE4 suuri kuin
+      puun korkeus. Laske askeleet tai mittaa mittanauhalla. Lis\xE4\xE4 aina laaja
+      virhemarginaali."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831747
+    m_Localized: "Kun tied\xE4mme puun korkeuden, luomme turva-alueen. T\xE4m\xE4n
+      turva-alueen s\xE4teen tulisi olla v\xE4hint\xE4\xE4n kaksinkertainen puun
+      korkeuteen n\xE4hden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831748
+    m_Localized: "Osoita osoittimella merkittyihin puihin luodaksesi turvaperimetrin
+      merkkausteipill\xE4. Pid\xE4 liipaisinnappia painettuna puiden v\xE4lill\xE4,
+      jotta perimetri muodostuu merkkausteipill\xE4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831749
+    m_Localized: "Varmistamme, ett\xE4 puu on hyv\xE4ss\xE4 kunnossa eik\xE4 sen
+      juuressa ole merkkej\xE4 lahosta, koska se voisi aiheuttaa puun romahtamisen
+      p\xE4\xE4llemme kaadon alkaessa, ei kaatuen sivulle, vaan itseens\xE4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831750
+    m_Localized: "Otamme my\xF6s huomioon oksien kunnon ja kiinnit\xE4mme erityist\xE4
+      huomiota mahdollisesti katkenneisiin oksiin, jotka voivat pudota kaatoprosessin
+      aikana."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831751
+    m_Localized: "Jokaisella puulla on luonnollinen kaatosuunta, joka voi m\xE4\xE4r\xE4yty\xE4
+      sen kallistumisen, oksien muodon ja sijainnin, lumen kertymisen jne. perusteella."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831752
+    m_Localized: "Aina kun mahdollista, tulisi puu kaataa niin, ett\xE4 se kaatuu
+      luonnolliseen kaatosuuntaansa. Jos t\xE4m\xE4 ei ole mahdollista, on k\xE4ytett\xE4v\xE4
+      erityisi\xE4 tekniikoita, jotta puu kaatuu eri suuntaan kuin sen luonnollinen
+      kallistus."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831753
+    m_Localized: "Luo pakovy\xF6hyke poistamalla l\xE4hell\xE4 olevat pensaat ja
+      esteet ohjaimen osoittimella noin 45 asteen kulmassa molemmilla puolilla kaadettavan
+      puun takana. Osoita osoittimella pensasta, jonka haluat poistaa, ja paina liipaisinn\xE4pp\xE4int\xE4
+      sen poistamiseksi."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

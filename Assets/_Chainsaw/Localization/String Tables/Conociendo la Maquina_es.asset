@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Conociendo la Maquina_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: afb138397c98a9b43b6d2fba1835219d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: "Una motosierra es una herramienta el\xE9ctrica o de gasolina que
+      se utiliza para cortar  madera. Consiste en una cadena con dientes afilados
+      que gira alrededor de una barra, lo  que permite realizar cortes r\xE1pidos
+      y eficientes en troncos y ramas. Es com\xFAnmente  utilizada en la tala de
+      \xE1rboles, la poda y la construcci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: "Las motosierras suelen pesar entre 6 y 22 lbs (3 a 10 kg) y tienen
+      barras que var\xEDan  de 12 a 24 pulgadas (30 a 60 cm) de longitud. Sus dimensiones
+      generales son  aproximadamente de 12-16 pulgadas (30-40 cm) de ancho y 10-12
+      pulgadas (25-30  cm) de alto, aunque esto puede variar seg\xFAn el modelo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Ahora vamos a ver las partes fundamentales de la motosierra.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Gatillo de seguridad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: "Es un elemento de seguridad de la motosierra, por lo que es uno
+      de los m\xE1s  importantes en su funcionamiento. De hecho, si no est\xE1 presionado
+      no se podr\xE1  accionar el gatillo de aceleraci\xF3n, lo que evita accidentes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: "Protecci\xF3n delantera"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: "Esta parte cumple con dos funciones: por un lado protege la mano
+      que sujeta la  herramienta por el mango delantero y, al mismo tiempo, sirve
+      como freno de la  cadena que disminuye las probabilidades de lesi\xF3n por
+      el contragolpe de la  m\xE1quina al detenerse."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Arranque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: "El arranque es una de las partes de una motosierra que m\xE1s vas
+      a manipular, por  lo que deber\xE1s tratarlo con cuidado para evitar aver\xEDas
+      y prolongar su durabilidad.  Es el tirador por medio del cual pones en marcha
+      la herramienta cada vez que la  utilizas, tirando de \xE9l repetidas veces."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Mango delantero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: "El mango delantero es la sujeci\xF3n de la motosierra que queda
+      m\xE1s cerca de la  espada. Esto quiere decir que es la m\xE1s susceptible
+      de generar riesgos; el dise\xF1o  de las motosierras hace que este agarre est\xE9
+      destinado a la mano izquierda, que a  su vez se utiliza para dirigir la orientaci\xF3n
+      de la herramienta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Mango trasero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: "Tu mano derecha, por el contrario, sujetar\xE1 el mango trasero
+      de la m\xE1quina y ser\xE1  la encargada de mantener su peso y servir de apoyo.
+      En ella est\xE1n situados los  gatillos de seguridad y aceleraci\xF3n respectivamente,
+      los cuales deben estar  pulsados en todo momento para que la motosierra funcione."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: "Dep\xF3sito de combustible"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: "Otra de las partes de la motosierra que m\xE1s cuidados necesita
+      es el dep\xF3sito del  combustible. Resulta imprescindible que consultes las
+      instrucciones del  fabricante para comprobar y respetar siempre las proporciones
+      recomendadas en  la mezcla de gasolina y aceite."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: "Dep\xF3sito de aceite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: "Aunque es la explicaci\xF3n m\xE1s evidente entre todas las partes
+      que componen la  motosierra, conviene incidir en su importancia y en la necesidad
+      de mantener los  niveles adecuados. Una lubricaci\xF3n adecuada es fundamental
+      para el  funcionamiento y la seguridad de la motosierra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: Motor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: "Se acciona a trav\xE9s de un embrague centr\xEDfugo y un pi\xF1\xF3n,
+      que generan el  arranque para que la motosierra funcione a trav\xE9s de la
+      combusti\xF3n interna.  Generalmente, el volumen del cilindro oscila entre
+      los 30 y los 120 cent\xEDmetros  c\xFAbicos dependiendo del fabricante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: "Protecci\xF3n para el paragolpe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: "Adem\xE1s de la ya mencionada protecci\xF3n delantera, en la base
+      de la espada se  pueden encontrar, por norma general, unos salientes destinados
+      a la protecci\xF3n  para evitar lesiones por el contragolpe de la motosierra
+      cuando \xE9sta se para."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Acelerador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: "El acelerador, o gatillo de aceleraci\xF3n, se ubica en el interior
+      de la parte superior  del agarre trasero. Es decir, est\xE1 dise\xF1ado para
+      que puedas accionarlo al mismo  tiempo que sostienes el peso de la herramienta.
+      Recuerda que no servir\xE1 de nada  accionarlo si no est\xE1s pulsando al mismo
+      tiempo el gatillo de seguridad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: Cadena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: "Entre las partes de la motosierra, la cadena de aserrado es la
+      m\xE1s relacionada con  el corte. Gira alrededor de la espada de aserrado y
+      est\xE1 compuesta por peque\xF1os  dientes met\xE1licos extremadamente afilados.
+      Puede resultar muy peligrosa si no se  manipula en condiciones seguras, con
+      la herramienta totalmente apagada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: Espada de aserrado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: "La espada de aserrado es la parte de la motosierra que le confiere
+      esa forma tan  caracter\xEDstica. Sirve para dirigir la cadena de aserrado
+      y es alargada para facilitar  el corte en funciones como la poda, ya que permite
+      alcanzar ramas m\xE1s alejadas  gracias a su longitud."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28
+    m_Localized: Garras de tope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: "La garra de tope o de \u201Ccorteza\u201D es una pieza que se encarga
+      de guiar el corte de  la espada. Se incrusta en la corteza de \xE1rboles de
+      gran di\xE1metro brindando  seguridad y actuando como pivote entre el motor
+      y la espada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: Cebador o purgador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: "El bot\xF3n cebador o purga en una motosierra mueve combustible
+      del tanque y el  carburador usando la succi\xF3n. Esta succi\xF3n aporta suficiente
+      gas en el  carburador y el cilindro para arrancar el motor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: Estrangulador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: "Su funci\xF3n principal es proporcionar una mezcla m\xE1s rica
+      de aire y combustible  al motor cuando este est\xE1 fr\xEDo, lo que ayuda a
+      asegurar un arranque suave y sin  problemas."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

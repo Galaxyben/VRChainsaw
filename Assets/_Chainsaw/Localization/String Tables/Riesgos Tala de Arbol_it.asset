@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Riesgos Tala de Arbol_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 579c64b0ac5981c4e9f5ad9e5b34b06c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38855860224
+    m_Localized: Prendi la motosega da terra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637440
+    m_Localized: "Esegui un AVVIO A CALDO (non \xE8 necessaria la POSIZIONE DELL'ARIA)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637441
+    m_Localized: MODO CORRETTO DI TENERE LA MOTOSEGA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637442
+    m_Localized: "ATTENZIONE!. Tieni la motosega con la maniglia sinistra dell'impugnatura
+      anteriore (per farlo, premi il grilletto e la maniglia sinistra e tienili premuti
+      per afferrare l'impugnatura). \xC8 FONDAMENTALE PASSARE IL POLLICE DELLA MANO
+      SINISTRA SOTTO L'IMPUGNATURA PER CHIUDERE COMPLETAMENTE LA MANO SINISTRA INTORNO
+      ALL'IMPUGNATURA ANTERIORE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637443
+    m_Localized: "ATTENZIONE!. Con l'impugnatura destra, afferra l'impugnatura posteriore
+      (per fare ci\xF2, premi il grip dell'impugnatura destra e tienilo premuto,
+      il grilletto dell'impugnatura destra verr\xE0 utilizzato come acceleratore
+      della motosega)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637444
+    m_Localized: VIETATO TENERE LA MOTOSEGA CON UNA SOLA MANO.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637445
+    m_Localized: VIETATO EFFETTUARE TAGLI CON PERSONE A MENO DI 2 METRI IN CERCHIO
+      DALL'AREA DI TAGLIO.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637446
+    m_Localized: VIETATO TAGLIARE CON UNA MOTOSEGA A UN'ALTEZZA SOPRA LE NOSTRE SPALLE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637447
+    m_Localized: "ATTENZIONE!: NON FARE MOVIMENTI DI SEGA. SE LA MACCHINA SI FERMA
+      A MET\xC0 TAGLIO, RIMUOVERE LA MOTOSEGA SPENTA E RIPROVARCI. NON ACCENDERLA
+      A MET\xC0 TAGLIO."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637448
+    m_Localized: "La pianificazione al momento di eseguire un abbattimento \xE8 vitale;
+      dobbiamo considerare quei fattori ed elementi che possono costituire un rischio
+      per abbattere gli alberi in modo sicuro e controllato."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637449
+    m_Localized: Dobbiamo osservare la vicinanza di linee elettriche nella zona in
+      cui vogliamo abbattere l'albero. Deve esserci una distanza adeguata tra l'abbattimento
+      dell'albero e le linee elettriche. Consulta la normativa del tuo paese per
+      conoscere maggiori dettagli sulle distanze di sicurezza.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637450
+    m_Localized: "Inoltre, prenderemo in considerazione altri elementi su cui potrebbe
+      cadere l'albero abbattuto, come strade ed edifici. Se questi elementi si trovano
+      nell'area di abbattimento, sar\xE0 necessario adottare misure speciali."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637451
+    m_Localized: "In condizioni normali, \xE8 totalmente sconsigliato effettuare
+      l'abbattimento degli alberi in condizioni meteorologiche avverse, come forti
+      nevicate, piogge o temporali con componente elettrica, cos\xEC come in presenza
+      di nebbie dense. Particolare attenzione deve essere prestata al vento: non
+      effettuare abbattimenti con venti superiori a 40 chilometri orari."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38872637452
+    m_Localized: "Per creare un perimetro di sicurezza attorno all'albero da abbattere,
+      dobbiamo prima conoscere la sua altezza. Esistono diversi metodi per misurarla,
+      pi\xF9 o meno complessi. Ti spiegheremo un metodo molto semplice e facile che
+      ti permetter\xE0 di stimare l'altezza dell'albero."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831744
+    m_Localized: Tenete un bastone con il braccio esteso in linea retta davanti a
+      voi, in modo che la lunghezza del bastone sia uguale alla distanza tra il vostro
+      occhio e la vostra mano. Successivamente, posizionate il bastone in posizione
+      verticale in modo che si formi un triangolo rettangolo tra l'occhio, la mano
+      e la parte superiore del bastone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831745
+    m_Localized: "Puntate l'albero e posizionatevi a una distanza tale che l'albero
+      sembri alto quanto la lunghezza del bastone. Se l'albero \xE8 inclinato, otterrete
+      risultati pi\xF9 precisi misurandolo dal lato, in modo che l'albero non sia
+      inclinato n\xE9 verso di voi n\xE9 nella direzione opposta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831746
+    m_Localized: "La distanza tra il luogo in cui si trova e l'albero sar\xE0 uguale
+      alla sua altezza. Conti i passi o misuri con un metro a nastro. Aggiunga sempre
+      un ampio margine di errore."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831747
+    m_Localized: Una volta conosciuta l'altezza dell'albero, creeremo un perimetro
+      di sicurezza. Questo perimetro di sicurezza dovrebbe avere un raggio almeno
+      doppio rispetto all'altezza dell'albero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831748
+    m_Localized: Punta con il puntatore agli alberi segnalati per creare il perimetro
+      di sicurezza con nastro di segnalazione. Tieni premuto il pulsante di attivazione
+      tra un albero e l'altro per creare il perimetro con il nastro di segnalazione.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831749
+    m_Localized: "Ci assicureremo che l'albero sia in buone condizioni e non presenti
+      segni di marciume alla base, poich\xE9 ci\xF2 potrebbe provocare il suo crollo
+      su di noi una volta iniziato l\u2019abbattimento, non cadendo lateralmente,
+      ma su se stesso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831750
+    m_Localized: Terremo conto anche dello stato dei rami, con particolare attenzione
+      a quelli che potrebbero essere rotti e cadere durante il processo di abbattimento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831751
+    m_Localized: "Ogni albero ha una direzione naturale di caduta, che pu\xF2 essere
+      determinata dalla sua inclinazione, dalla forma e posizione dei suoi rami,
+      dall\u2019accumulo di neve, ecc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831752
+    m_Localized: "Quando possibile, dovremmo abbattere l'albero in modo che cada
+      nella sua direzione naturale di caduta. Se ci\xF2 non fosse fattibile, dovremmo
+      utilizzare tecniche speciali per abbattere l'albero in una direzione diversa
+      dalla sua inclinazione naturale."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38876831753
+    m_Localized: "Crea una zona di fuga eliminando i cespugli e gli ostacoli vicini
+      con il puntatore del controller a un angolo di circa 45 gradi su entrambi i
+      lati dietro l\u2019albero da abbattere. Punta il puntatore sul cespuglio che
+      vuoi rimuovere e premi il pulsante di attivazione per eliminarlo."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

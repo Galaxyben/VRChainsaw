@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corte Basico_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: dc4a69a5d6334a34caffa8972b72c4a9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 19964715008
+    m_Localized: "Heben Sie die Kettens\xE4ge vom Boden auf"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492224
+    m_Localized: "F\xFChren Sie einen HEISSSTART durch (die STARTERPOSITION ist nicht
+      erforderlich)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492225
+    m_Localized: "RICHTIGE ART, DIE KETTENS\xC4GE ZU HALTEN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492226
+    m_Localized: "ACHTUNG!. Halten Sie die Kettens\xE4ge mit dem linken Griff des
+      vorderen Griffs (dr\xFCcken Sie dazu den Abzug und den linken Griff und halten
+      Sie sie gedr\xFCckt, um den Griff zu halten). ES IST WICHTIG, DEN DAUMEN DER
+      LINKEN HAND UNTER DEN GRIFF ZU F\xDCHREN, UM DIE LINKE HAND VOLLST\xC4NDIG
+      UM DEN VORDEREN GRIFF ZU SCHLIESSEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492227
+    m_Localized: "ACHTUNG!. Mit dem rechten Griff die hintere Griffstange greifen
+      (dr\xFCcken Sie dazu den rechten Griff und halten Sie ihn, der Abzug des rechten
+      Griffs wird als Kettens\xE4gen-Gasgeber verwendet)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492228
+    m_Localized: "VERBOTEN, DIE KETTENS\xC4GE NUR MIT EINER HAND ZU HALTEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492229
+    m_Localized: VERBOTEN, SCHNITTE VORZUNEHMEN, WENN SICH MENSCHEN IM UMKREIS VON
+      MINDESTENS 2 METERN UM DIE SCHNITTZONE BEFINDEN.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492230
+    m_Localized: "VERBOTEN, MIT EINER KETTENS\xC4GE IN EINER H\xD6HE \xDCBER UNSEREN
+      SCHULTERN ZU SCHNEIDEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492231
+    m_Localized: "Stellen Sie sich vor den markierten Stamm, um den Schnitt auf halber
+      H\xF6he zu beginnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492232
+    m_Localized: "ACHTUNG!: Halten Sie den R\xFCcken gerade, beugen Sie leicht die
+      Knie und bewegen Sie Ihr linkes Bein nach vorne. Platzieren Sie die Kettens\xE4ge
+      nah an Ihrem K\xF6rper auf H\xF6he der rechten Seite Ihrer Taille."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686528
+    m_Localized: "ACHTUNG!: DIE EINGESCHALTETE KETTENS\xC4GE MUSS IMMER AUSSERHALB
+      DER SCHNITTBANDE UNSERES EIGENEN K\xD6RPERS BLEIBEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686529
+    m_Localized: "VERBOTEN, DIE EINGESCHALTETE KETTENS\xC4GE VOR UNS ZU PLATZIEREN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686530
+    m_Localized: "Beschleunigen Sie nun die Kettens\xE4ge mit dem rechten Knopftrigger
+      und legen Sie die Basis der Schwertstange auf den Stamm, wobei Sie den KRALLENANSCHLAG
+      verwenden. Die Schnittbewegung erfolgt von oben nach unten mit den Handgelenken
+      und Unterarmen, wobei der KRALLENANSCHLAG auf dem Stamm aufliegt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686531
+    m_Localized: "ACHTUNG!: KEINE S\xC4GEBEWEGUNGEN MACHEN. WENN DIE MASCHINE MITTEN
+      IM SCHNITT STOPPT, NEHMEN SIE DIE ANGEHALTENE KETTENS\xC4GE HERAUS UND VERSUCHEN
+      SIE ES ERNEUT. STARTEN SIE SIE NICHT MITTEN IM SCHNITT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686532
+    m_Localized: "Stellen Sie sich vor den markierten Stamm, um den Schnitt in geringer
+      H\xF6he zu beginnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686533
+    m_Localized: "ACHTUNG!: Halten Sie den R\xFCcken gerade, beugen Sie die Knie
+      vollst\xE4ndig und bewegen Sie Ihr linkes Bein nach vorne. Platzieren Sie die
+      Kettens\xE4ge nah an Ihrem K\xF6rper auf H\xF6he der rechten Seite Ihrer Taille."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686534
+    m_Localized: "ACHTUNG: BEUGEN SIE NICHT DEN R\xDCCKEN, UM SCHNITTE IN GERINGER
+      H\xD6HE AUSZUF\xDCHREN, DA DIES ZU LENDENVERLETZUNGEN F\xDCHREN KANN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686535
+    m_Localized: "Beschleunigen Sie nun die Kettens\xE4ge mit dem rechten Knopftrigger
+      und legen Sie die Basis der Schwertstange auf den Stamm, wobei Sie den KRALLENANSCHLAG
+      verwenden. Die Schnittbewegung erfolgt von oben nach unten mit den Handgelenken
+      und Unterarmen, wobei der KRALLENANSCHLAG auf dem Stamm aufliegt."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

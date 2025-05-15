@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Arranque en frio_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: a293abbca652725429353a685231c84c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1104737558528
+    m_Localized: "Pegue a motosserra com o controle esquerdo (use o grip do controle
+      esquerdo) e aperte tr\xEAs vezes o gatilho direito no purgador da motosserra
+      para que o combust\xEDvel entre no carburador."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947136
+    m_Localized: "Pressione o afogador com o gatilho direito e coloque-o na posi\xE7\xE3o
+      ON."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947137
+    m_Localized: "Coloque a motosserra no ch\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947138
+    m_Localized: "Segure firmemente a motosserra no ch\xE3o enquanto a liga. Coloque
+      o p\xE9 direito atrav\xE9s da empunhadura traseira e segure firmemente a empunhadura
+      dianteira com a m\xE3o direita (mantenha pressionado o GRIP do controle direito)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947139
+    m_Localized: "A motosserra deve estar sobre uma superf\xEDcie plana e a corrente
+      n\xE3o pode tocar o ch\xE3o; caso contr\xE1rio, ao lig\xE1-la, poderia danificar
+      o fio e colocar desnecessariamente sua seguran\xE7a em risco."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947140
+    m_Localized: "Agora com o controle esquerdo, pegue a ALAVANCA DE ARRANQUE (mantenha
+      o grip do controle esquerdo pressionado) e puxe para cima. Repita a opera\xE7\xE3o
+      v\xE1rias vezes, at\xE9 ouvir o motor tentando ligar, ent\xE3o pare de tentar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947141
+    m_Localized: "Agora pressione o afogador com o gatilho direito e coloque-o na
+      posi\xE7\xE3o OFF."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947142
+    m_Localized: "Repita a opera\xE7\xE3o de partida da motosserra no ch\xE3o at\xE9
+      que ela ligue com sucesso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947143
+    m_Localized: "Realizamos a opera\xE7\xE3o denominada PARTIDA A FRIO, que \xE9
+      usada para ligar a motosserra no in\xEDcio do dia. Caso deseje lig\xE1-la novamente
+      no mesmo dia, N\xC3O \xC9 NECESS\xC1RIO USAR O AFOGADOR NA POSI\xC7\xC3O ON.
+      Ligue a motosserra com o mesmo processo, mas com o AFOGADOR NA POSI\xC7\xC3O
+      OFF."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

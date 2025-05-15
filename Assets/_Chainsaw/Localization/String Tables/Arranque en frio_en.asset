@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Arranque en frio_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a293abbca652725429353a685231c84c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1104737558528
+    m_Localized: Hold the chainsaw with the left controller (use the grip on the
+      left controller) and press the right trigger three times on the primer of the
+      chainsaw to allow fuel to enter the carburetor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947136
+    m_Localized: Press the choke with the right trigger and set it to the ON position.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947137
+    m_Localized: Place the chainsaw on the ground.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947138
+    m_Localized: Hold the chainsaw firmly on the ground while starting it. Insert
+      your right foot through the rear handle and firmly grip the front handle with
+      your right hand (keep the right controller GRIP pressed).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947139
+    m_Localized: The chainsaw must be on a flat surface, and the chain must not touch
+      the ground; otherwise, starting it could damage the blade and unnecessarily
+      jeopardize your safety.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947140
+    m_Localized: Now with the left controller, grab the STARTER HANDLE (keep the
+      left controller grip pressed) and pull it upward. Repeat the process several
+      times until you hear the engine attempting to start, then stop trying.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947141
+    m_Localized: Now press the choke with the right controller trigger and set it
+      to the OFF position.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947142
+    m_Localized: Repeat the chainsaw starting operation on the ground until it successfully
+      starts.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947143
+    m_Localized: We have performed the operation known as COLD START, which is used
+      to start the chainsaw at the beginning of the day. If you wish to restart it
+      later the same day, IT IS NOT NECESSARY TO USE THE CHOKE IN THE ON POSITION.
+      Start the chainsaw with the same process but with the CHOKE IN THE OFF POSITION.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Revision de seguridad_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 7e86d7cdd9c6efd40b3fb64245898586, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7304535273725952
+    m_Localized: "Maintenant, nous allons r\xE9aliser le protocole de travail s\xE9curis\xE9
+      avec la tron\xE7onneuse, dirigez-vous vers le cercle vert en face de la table
+      o\xF9 se trouvent les \xE9quipements de protection."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086080
+    m_Localized: Casque forestier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086081
+    m_Localized: "Le casque forestier est un \xE9quipement de protection essentiel
+      pour travailler dans des environnements forestiers. Il comprend g\xE9n\xE9ralement
+      un casque r\xE9sistant qui prot\xE8ge la t\xEAte contre les impacts, une visi\xE8re
+      ou un \xE9cran m\xE9tallique pour prot\xE9ger le visage des \xE9clats et des
+      d\xE9bris, et des cache-oreilles qui r\xE9duisent le bruit des outils comme
+      les tron\xE7onneuses."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086082
+    m_Localized: Bottes de protection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086083
+    m_Localized: "Les bottes de protection pour tron\xE7onneuse sont un \xE9quipement
+      essentiel pour ceux qui travaillent dans des environnements forestiers ou effectuent
+      des t\xE2ches de jardinage et d'abattage. Ces bottes sont con\xE7ues pour offrir
+      une haute r\xE9sistance aux coupures, gr\xE2ce \xE0 leur mat\xE9riau sp\xE9cial
+      capable d'arr\xEAter la cha\xEEne de la tron\xE7onneuse en cas d'accident.
+      De plus, elles sont g\xE9n\xE9ralement imperm\xE9ables et dot\xE9es de semelles
+      antid\xE9rapantes pour une s\xE9curit\xE9 accrue."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535303086084
+    m_Localized: "V\xEAtements anti-coupures"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280384
+    m_Localized: "Les v\xEAtements anti-coupures pour tron\xE7onneuses sont con\xE7us
+      pour prot\xE9ger l'utilisateur des coupures accidentelles. Ils sont fabriqu\xE9s
+      avec des mat\xE9riaux sp\xE9ciaux, comme des fibres r\xE9sistantes, qui arr\xEAtent
+      la cha\xEEne au contact, \xE9vitant ainsi les blessures graves. Ils sont essentiels
+      pour les travaux forestiers ou de jardinage impliquant l'utilisation de tron\xE7onneuses."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280385
+    m_Localized: "Vous avez d\xE9j\xE0 mis vos \xE9quipements de protection, rendez-vous
+      maintenant au cercle vert o\xF9 se trouvent la tron\xE7onneuse et les autres
+      outils pour commencer sa mise au point avant de la d\xE9marrer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280386
+    m_Localized: "Prenez le bidon d'essence et versez-le dans le r\xE9servoir pour
+      remplir la tron\xE7onneuse de carburant."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280387
+    m_Localized: "Le m\xE9lange id\xE9al pour une tron\xE7onneuse est g\xE9n\xE9ralement
+      compos\xE9 d'essence sans plomb et d'huile pour moteur deux-temps dans une
+      proportion de 50:1 (50 parties d'essence pour 1 d'huile). Il est crucial d'utiliser
+      une huile sp\xE9cifique pour moteurs deux-temps et de bien m\xE9langer avant
+      de remplir le r\xE9servoir. Cela garantit des performances optimales et prot\xE8ge
+      le moteur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280388
+    m_Localized: "Du carburant s'est renvers\xE9 sur la table et sur la tron\xE7onneuse.
+      Nous devons \xEAtre prudents, cela pourrait provoquer des incendies une fois
+      la tron\xE7onneuse en marche \xE0 cause de la chaleur du moteur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280389
+    m_Localized: "Prenez le chiffon et essuyez le d\xE9versement de carburant sur
+      la table et la tron\xE7onneuse."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280390
+    m_Localized: "Prenez la tron\xE7onneuse et ouvrez le r\xE9servoir de lubrifiant."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280391
+    m_Localized: "La lubrification de la cha\xEEne est importante lors de l'utilisation
+      d'une tron\xE7onneuse pour \xE9viter qu'elle ne surchauffe pendant la coupe
+      et pour garantir qu'elle tourne autour du guide sans friction. Cela prolonge
+      la dur\xE9e de vie du guide et de la cha\xEEne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280392
+    m_Localized: "C'est fait. Le r\xE9servoir d'huile lubrifiante est rempli."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535307280393
+    m_Localized: "Maintenant, v\xE9rifions la tension de la cha\xEEne de la tron\xE7onneuse.
+      Tenez la tron\xE7onneuse d'une main et, de l'autre, attrapez le bas de la cha\xEEne
+      et tirez-la vers le bas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474688
+    m_Localized: "La cha\xEEne s'allonge avec l'utilisation. Une cha\xEEne insuffisamment
+      tendue peut se d\xE9tacher et provoquer des accidents graves, voire mortels.
+      Par cons\xE9quent, il est important de l'ajuster fr\xE9quemment pour compenser
+      ce changement. La tension de la cha\xEEne doit \xEAtre v\xE9rifi\xE9e \xE0
+      chaque fois que l'on refait le plein de carburant. Les cha\xEEnes neuves n\xE9cessitent
+      une p\xE9riode de rodage pendant laquelle la tension doit \xEAtre contr\xF4l\xE9e
+      plus fr\xE9quemment."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474689
+    m_Localized: "\xC0 l'aide de la cl\xE9 combin\xE9e, desserrez les \xE9crous du
+      guide qui maintiennent le couvercle de l'embrayage. Tendez la cha\xEEne avec
+      la pointe du guide vers le haut. Pour ce faire, utilisez la cl\xE9 combin\xE9e
+      pour serrer la vis de tension en la tournant vers la droite. Tendez la cha\xEEne
+      jusqu'\xE0 ce qu'elle ne pende plus sous le guide. V\xE9rifiez que la cha\xEEne
+      peut \xEAtre facilement tourn\xE9e \xE0 la main et qu'elle ne pend pas sous
+      le guide. Utilisez la cl\xE9 combin\xE9e pour resserrer les \xE9crous du guide."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474690
+    m_Localized: "Nous avons termin\xE9 la v\xE9rification de base avant de commencer
+      \xE0 travailler avec la tron\xE7onneuse. En plus de cette v\xE9rification,
+      vous devez effectuer un entretien p\xE9riodique comprenant le nettoyage des
+      filtres, l'aff\xFBtage de la cha\xEEne et la v\xE9rification de la bougie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474691
+    m_Localized: "Prenez le prot\xE8ge-guide de la tron\xE7onneuse et placez-le sur
+      le guide. Rappelez-vous de toujours transporter la tron\xE7onneuse \xE9teinte
+      et avec le prot\xE8ge-guide en place."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304535311474692
+    m_Localized: "T\xE9l\xE9portez-vous \xE0 la zone de d\xE9marrage de la tron\xE7onneuse."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

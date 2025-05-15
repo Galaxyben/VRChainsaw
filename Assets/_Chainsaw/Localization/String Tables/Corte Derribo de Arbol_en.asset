@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corte Derribo de Arbol_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 637ef3ff49c818c43941cb2c3426a8e7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20975542272
+    m_Localized: Pick up the chainsaw from the ground
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319488
+    m_Localized: Perform a HOT START (the CHOKE POSITION ON is not necessary)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319489
+    m_Localized: CORRECT WAY TO HOLD THE CHAINSAW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319490
+    m_Localized: ATTENTION!. Hold the chainsaw with the left handle of the front
+      grip (to do this, press the trigger and left handle grip and keep them pressed
+      to hold the grip). IT IS ESSENTIAL TO PASS THE LEFT HAND THUMB UNDER THE GRIP
+      TO COMPLETELY CLOSE THE LEFT HAND AROUND THE FRONT GRIP.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319491
+    m_Localized: ATTENTION!. With the right handle, hold the rear grip (to do this,
+      press the right handle grip and hold it, the right handle trigger will be used
+      as the chainsaw accelerator).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319492
+    m_Localized: PROHIBITED TO HOLD THE CHAINSAW WITH ONLY ONE HAND.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319493
+    m_Localized: PROHIBITED TO MAKE CUTS WITH PEOPLE AROUND AT LEAST 2 METERS IN
+      A CIRCLE FROM THE CUTTING AREA.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319494
+    m_Localized: PROHIBITED TO CUT WITH A CHAINSAW AT A HEIGHT ABOVE OUR SHOULDERS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319495
+    m_Localized: 'ATTENTION!: DO NOT MAKE SAWING MOVEMENTS. IF THE MACHINE STOPS
+      MID-CUT, REMOVE THE STOPPED CHAINSAW AND TRY AGAIN. DO NOT START IT IN THE
+      MIDDLE OF THE CUT.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319496
+    m_Localized: 'When we want to fell a tree, we must make two basic cuts: the directional
+      cut and the felling cut. Between them, we must leave an intact strip of wood
+      called the hinge.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319497
+    m_Localized: The most common directional cut is the angled opening cut. It is
+      the most recommended because it can be used in most cases.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319498
+    m_Localized: 'The directional cut has two stages: an upper angled cut and a lower
+      straight cut.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319499
+    m_Localized: Position yourself supported on your knee and make the first cut
+      in the marked area using the lower part of the blade at a 45-degree attack
+      angle. The cut should be between 15 and 20% of the trunk's diameter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513792
+    m_Localized: Now, while keeping your knee on the ground, we will make the lower
+      cut using the bottom part of the blade in a straight manner. The cut is completed
+      when it meets the angled cut, forming a wooden wedge.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513793
+    m_Localized: For the directional cut to be correct, it must be made as close
+      as possible to the base of the tree to provide stability and control in the
+      felling process.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513794
+    m_Localized: The felling cut is made once the directional cut has been completed,
+      and it is performed exactly on the opposite side of where the directional cut
+      was made.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513795
+    m_Localized: Now, position yourself on the opposite side and, while keeping your
+      knee on the ground, we will make the cut using the lower part of the blade
+      in a straight manner in the marked area. This cut is performed at the same
+      level or slightly above the directional cut.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513796
+    m_Localized: It is very important to stop the felling cut before reaching the
+      directional cut to form what is known as a hinge.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513797
+    m_Localized: The hinge is a key element in ensuring a safe and clean tree felling.
+      The intact wood between the two cuts serves as support and guides the tree
+      as it falls.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513798
+    m_Localized: "The hinge must have a uniform length and thickness. Its length
+      should be at least 80%, and its thickness at least 10% of the tree\u2019s diameter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513799
+    m_Localized: The angle of the directional cut will determine how long the hinge
+      remains intact. Angles below 45 degrees will accelerate the tree felling process.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513800
+    m_Localized: Once both cuts have been made, the tree will fall in the direction
+      where the directional cut was made.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

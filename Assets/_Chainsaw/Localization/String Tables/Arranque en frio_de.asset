@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Arranque en frio_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: a293abbca652725429353a685231c84c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1104737558528
+    m_Localized: "Halten Sie die Kettens\xE4ge mit dem linken Steuerger\xE4t (verwenden
+      Sie den Griff des linken Steuerger\xE4ts) und dr\xFCcken Sie dreimal den rechten
+      Trigger am Primer der Kettens\xE4ge, damit Kraftstoff in den Vergaser gelangt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947136
+    m_Localized: "Dr\xFCcken Sie mit dem rechten Trigger den Choke und stellen Sie
+      ihn auf ON."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947137
+    m_Localized: "Legen Sie die Kettens\xE4ge auf den Boden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947138
+    m_Localized: "Halten Sie die Kettens\xE4ge fest auf dem Boden, w\xE4hrend Sie
+      sie starten. Stecken Sie Ihren rechten Fu\xDF durch den hinteren Griff und
+      greifen Sie den vorderen Griff fest mit Ihrer rechten Hand (halten Sie den
+      GRIP des rechten Steuerger\xE4ts gedr\xFCckt)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947139
+    m_Localized: "Die Kettens\xE4ge muss auf einer ebenen Fl\xE4che stehen, und die
+      Kette darf keinen Kontakt mit dem Boden haben. Andernfalls k\xF6nnte beim Starten
+      die Klinge besch\xE4digt werden, und Ihre Sicherheit w\xE4re unn\xF6tig gef\xE4hrdet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947140
+    m_Localized: "Jetzt mit dem linken Steuerger\xE4t den STARTERGRIFF greifen (den
+      Griff des linken Steuerger\xE4ts gedr\xFCckt halten) und nach oben ziehen.
+      Wiederholen Sie den Vorgang mehrmals, bis Sie h\xF6ren, dass der Motor versucht
+      zu starten, und h\xF6ren Sie dann auf."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947141
+    m_Localized: "Dr\xFCcken Sie jetzt mit dem rechten Trigger den Choke und stellen
+      Sie ihn auf OFF."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947142
+    m_Localized: "Wiederholen Sie den Startvorgang der Kettens\xE4ge auf dem Boden,
+      bis sie erfolgreich startet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947143
+    m_Localized: "Wir haben die als KALTSTART bezeichnete Operation durchgef\xFChrt,
+      die verwendet wird, um die Kettens\xE4ge zu Beginn des Tages zu starten. Wenn
+      Sie sie sp\xE4ter am selben Tag erneut starten m\xF6chten, IST ES NICHT NOTWENDIG,
+      DEN CHOKE AUF ON ZU STELLEN. Starten Sie die Kettens\xE4ge mit demselben Verfahren,
+      aber mit dem CHOKE AUF OFF."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

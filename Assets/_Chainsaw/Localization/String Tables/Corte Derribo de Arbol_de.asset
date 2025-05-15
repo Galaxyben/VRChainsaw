@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corte Derribo de Arbol_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 637ef3ff49c818c43941cb2c3426a8e7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20975542272
+    m_Localized: "Heben Sie die Kettens\xE4ge vom Boden auf"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319488
+    m_Localized: "F\xFChren Sie einen HEISSSTART durch (die STARTERPOSITION ist nicht
+      erforderlich)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319489
+    m_Localized: "RICHTIGE ART, DIE KETTENS\xC4GE ZU HALTEN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319490
+    m_Localized: "ACHTUNG!. Halten Sie die Kettens\xE4ge mit dem linken Griff des
+      vorderen Griffs (dr\xFCcken Sie dazu den Abzug und den linken Griff und halten
+      Sie sie gedr\xFCckt, um den Griff zu halten). ES IST WICHTIG, DEN DAUMEN DER
+      LINKEN HAND UNTER DEN GRIFF ZU F\xDCHREN, UM DIE LINKE HAND VOLLST\xC4NDIG
+      UM DEN VORDEREN GRIFF ZU SCHLIESSEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319491
+    m_Localized: "ACHTUNG!. Mit dem rechten Griff die hintere Griffstange greifen
+      (dr\xFCcken Sie dazu den rechten Griff und halten Sie ihn, der Abzug des rechten
+      Griffs wird als Kettens\xE4gen-Gasgeber verwendet)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319492
+    m_Localized: "VERBOTEN, DIE KETTENS\xC4GE NUR MIT EINER HAND ZU HALTEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319493
+    m_Localized: VERBOTEN, SCHNITTE VORZUNEHMEN, WENN SICH MENSCHEN IM UMKREIS VON
+      MINDESTENS 2 METERN UM DIE SCHNITTZONE BEFINDEN.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319494
+    m_Localized: "VERBOTEN, MIT EINER KETTENS\xC4GE IN EINER H\xD6HE \xDCBER UNSEREN
+      SCHULTERN ZU SCHNEIDEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319495
+    m_Localized: "ACHTUNG!: KEINE S\xC4GEBEWEGUNGEN MACHEN. WENN DIE MASCHINE MITTEN
+      IM SCHNITT STOPPT, NEHMEN SIE DIE ANGEHALTENE KETTENS\xC4GE HERAUS UND VERSUCHEN
+      SIE ES ERNEUT. STARTEN SIE SIE NICHT MITTEN IM SCHNITT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319496
+    m_Localized: "Wenn wir einen Baum f\xE4llen wollen, m\xFCssen wir zwei grundlegende
+      Schnitte machen: den Richtungsschnitt und den F\xE4llschnitt. Zwischen diesen
+      Schnitten muss ein unversehrter Holzstreifen bleiben, den wir Scharnier nennen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319497
+    m_Localized: "Der h\xE4ufigste Richtungsschnitt ist der Winkelschnitt. Er wird
+      am meisten empfohlen, da er in den meisten F\xE4llen verwendet werden kann."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319498
+    m_Localized: 'Der Richtungsschnitt hat zwei Phasen: einen oberen Schnitt im Winkel
+      und einen unteren geraden Schnitt.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319499
+    m_Localized: "Positionieren Sie sich auf Ihrem Knie abgest\xFCtzt und f\xFChren
+      Sie den ersten Schnitt in der markierten Zone mit dem unteren Teil des Schwertes
+      und einem Angriffswinkel von 45 Grad aus. Der Schnitt sollte zwischen 15 und
+      20% des Stammdurchmessers betragen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513792
+    m_Localized: "Jetzt, w\xE4hrend du dein Knie am Boden h\xE4ltst, f\xFChren wir
+      den unteren Schnitt mit dem unteren Teil des Schwertes gerade aus. Der Schnitt
+      ist abgeschlossen, wenn er mit dem Winkelschnitt zusammentrifft und einen Holzkeil
+      bildet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513793
+    m_Localized: "Damit der Richtungsschnitt korrekt ist, muss er so nah wie m\xF6glich
+      an der Basis des Baumes erfolgen, um Stabilit\xE4t und Kontrolle beim F\xE4llen
+      zu gew\xE4hrleisten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513794
+    m_Localized: "Der F\xE4llschnitt wird durchgef\xFChrt, nachdem der Richtungsschnitt
+      abgeschlossen ist, und er erfolgt genau auf der gegen\xFCberliegenden Seite
+      des Richtungsschnitts."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513795
+    m_Localized: "Jetzt positioniere dich auf der gegen\xFCberliegenden Seite und,
+      w\xE4hrend du dein Knie auf dem Boden h\xE4ltst, f\xFChren wir den Schnitt
+      mit dem unteren Teil des Schwertes gerade in der markierten Zone aus. Dieser
+      Schnitt erfolgt auf gleicher H\xF6he oder etwas \xFCber dem Richtungsschnitt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513796
+    m_Localized: "Es ist sehr wichtig, den F\xE4llschnitt zu stoppen, bevor er den
+      Richtungsschnitt erreicht, um das sogenannte Scharnier zu bilden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513797
+    m_Localized: "Das Scharnier ist ein Schl\xFCsselelement f\xFCr eine sichere und
+      saubere Baumf\xE4llung. Das unversehrte Holz zwischen den beiden Schnitten
+      dient als Unterst\xFCtzung und lenkt den Baum beim Fallen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513798
+    m_Localized: "Das Scharnier muss eine gleichm\xE4\xDFige L\xE4nge und Dicke haben.
+      Seine L\xE4nge sollte mindestens 80 % und seine Dicke mindestens 10 % des Baumdurchmessers
+      betragen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513799
+    m_Localized: "Der Winkel des Richtungsschnitts bestimmt, wie lange das Scharnier
+      intakt bleibt. Winkel unter 45 Grad beschleunigen das F\xE4llen des Baumes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513800
+    m_Localized: "Sobald beide Schnitte durchgef\xFChrt wurden, f\xE4llt der Baum
+      in die Richtung, in der der Richtungsschnitt gemacht wurde."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

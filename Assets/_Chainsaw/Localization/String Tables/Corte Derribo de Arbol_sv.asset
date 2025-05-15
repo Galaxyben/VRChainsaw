@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corte Derribo de Arbol_sv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv
+  m_SharedData: {fileID: 11400000, guid: 637ef3ff49c818c43941cb2c3426a8e7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20975542272
+    m_Localized: "Plocka upp motors\xE5gen fr\xE5n marken"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319488
+    m_Localized: "Utf\xF6r en VARMSTART (CHOKE POSITION ON \xE4r inte n\xF6dv\xE4ndig)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319489
+    m_Localized: "R\xC4TT S\xC4TT ATT H\xC5LLA MOTORS\xC5GEN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319490
+    m_Localized: "UPPM\xC4RKSAMHET!. H\xE5ll motors\xE5gen med det v\xE4nstra handtaget
+      p\xE5 det fr\xE4mre greppet (f\xF6r att g\xF6ra detta, tryck p\xE5 avtryckaren
+      och det v\xE4nstra handtaget och h\xE5ll dem nedtryckta f\xF6r att h\xE5lla
+      greppet). DET \xC4R VIKTIGT ATT PASSERA V\xC4NSTER HANDS TUMME UNDER GREPPET
+      F\xD6R ATT HELT ST\xC4NGA V\xC4NSTER HAND RUNT DET FR\xC4MRE GREPPET."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319491
+    m_Localized: "UPPM\xC4RKSAMHET!. Med det h\xF6gra handtaget, h\xE5ll det bakre
+      greppet (f\xF6r att g\xF6ra detta, tryck och h\xE5ll ned det h\xF6gra greppet,
+      det h\xF6gra handtagsutl\xF6saren anv\xE4nds som motors\xE5gens gas)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319492
+    m_Localized: "F\xD6RBJUDET ATT H\xC5LLA MOTORS\xC5GEN MED ENDAST EN HAND."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319493
+    m_Localized: "F\xD6RBJUDET ATT UTF\xD6RA SK\xC4RNINGAR MED PERSONER INOM MINST
+      2 METER I EN CIRKEL RUNT SK\xC4ROMR\xC5DET."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319494
+    m_Localized: "F\xD6RBJUDET ATT SK\xC4RA MED EN MOTORS\xC5G P\xC5 EN H\xD6JD \xD6VER
+      V\xC5RA AXLAR."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319495
+    m_Localized: "UPPM\xC4RKSAMHET!: G\xD6R INTE S\xC5GR\xD6RELSER. OM MASKINEN STANNAR
+      MITT I SK\xC4RET, TA BORT DEN STILLAST\xC5ENDE MOTORS\xC5GEN OCH F\xD6RS\xD6K
+      IGEN. STARTA DEN INTE MITT I SK\xC4RET."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319496
+    m_Localized: "N\xE4r vi vill f\xE4lla ett tr\xE4d m\xE5ste vi g\xF6ra tv\xE5
+      grundl\xE4ggande snitt: riktningssnittet och f\xE4llningssnittet. Mellan dem
+      m\xE5ste vi l\xE4mna ett intakt tr\xE4stycke som kallas g\xE5ngj\xE4rn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319497
+    m_Localized: "Den vanligaste riktade sk\xE4rningen \xE4r vinkelsk\xE4rningen.
+      Den rekommenderas mest eftersom den kan anv\xE4ndas i de flesta fall."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319498
+    m_Localized: "Den riktade sk\xE4rningen har tv\xE5 steg: en \xF6vre snedsk\xE4rning
+      och en nedre rak sk\xE4rning."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319499
+    m_Localized: "Placera dig st\xF6dd p\xE5 ditt kn\xE4 och g\xF6r det f\xF6rsta
+      snittet i det markerade omr\xE5det med den nedre delen av sv\xE4rdet i en anfallsvinkel
+      p\xE5 45 grader. Snittet b\xF6r vara mellan 15 och 20% av stammens diameter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513792
+    m_Localized: "Nu, medan du h\xE5ller kn\xE4t mot marken, g\xF6r vi den nedre
+      sk\xE4rningen med den nedre delen av sv\xE4rdet i en rak linje. Sk\xE4rningen
+      \xE4r klar n\xE4r den m\xF6ter den vinklade sk\xE4rningen och bildar en tr\xE4kil."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513793
+    m_Localized: "F\xF6r att den riktade sk\xE4rningen ska vara korrekt m\xE5ste
+      den g\xF6ras s\xE5 n\xE4ra tr\xE4dets bas som m\xF6jligt f\xF6r att ge stabilitet
+      och kontroll vid f\xE4llningen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513794
+    m_Localized: "F\xE4llningssnittet g\xF6rs efter att det riktade snittet har utf\xF6rts,
+      och det genomf\xF6rs exakt p\xE5 motsatt sida av d\xE4r det riktade snittet
+      gjordes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513795
+    m_Localized: "Nu, placera dig p\xE5 motsatt sida och, medan du h\xE5ller kn\xE4t
+      mot marken, g\xF6r vi snittet med den nedre delen av sv\xE4rdet i en rak linje
+      i det markerade omr\xE5det. Detta snitt utf\xF6rs p\xE5 samma niv\xE5 eller
+      n\xE5got ovanf\xF6r det riktade snittet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513796
+    m_Localized: "Det \xE4r mycket viktigt att stoppa f\xE4llningssnittet innan det
+      n\xE5r det riktade snittet f\xF6r att skapa det som kallas g\xE5ngj\xE4rn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513797
+    m_Localized: "G\xE5ngj\xE4rnet \xE4r en nyckelkomponent f\xF6r att s\xE4kerst\xE4lla
+      en s\xE4ker och ren tr\xE4df\xE4llning. Det intakta tr\xE4et mellan de tv\xE5
+      snitten fungerar som st\xF6d och styr tr\xE4det n\xE4r det faller."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513798
+    m_Localized: "G\xE5ngj\xE4rnet m\xE5ste ha en enhetlig l\xE4ngd och tjocklek.
+      Dess l\xE4ngd b\xF6r vara minst 80 % och dess tjocklek minst 10 % av tr\xE4dets
+      diameter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513799
+    m_Localized: "Vinkeln p\xE5 det riktade snittet avg\xF6r hur l\xE4nge g\xE5ngj\xE4rnet
+      f\xF6rblir intakt. Vinklar under 45 grader p\xE5skyndar tr\xE4df\xE4llningsprocessen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513800
+    m_Localized: "N\xE4r b\xE5da snitten har gjorts kommer tr\xE4det att falla i
+      den riktning d\xE4r det riktade snittet gjordes."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

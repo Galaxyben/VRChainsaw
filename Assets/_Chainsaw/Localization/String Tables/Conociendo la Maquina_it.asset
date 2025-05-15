@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Conociendo la Maquina_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: afb138397c98a9b43b6d2fba1835219d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: "Una motosega \xE8 uno strumento elettrico o a benzina utilizzato
+      per tagliare legna. \xC8  composta da una catena con denti affilati che ruota
+      attorno a una barra, permettendo  tagli rapidi ed efficienti su tronchi e rami.
+      Viene comunemente utilizzata per  l'abbattimento di alberi, la potatura e la
+      costruzione."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: "Le motoseghe di solito pesano tra 6 e 22 libbre (3 a 10 kg) e hanno
+      barre che variano  da 12 a 24 pollici (30 a 60 cm) di lunghezza. Le loro dimensioni
+      generali sono  approssimativamente di 12-16 pollici (30-40 cm) di larghezza
+      e 10-12 pollici (25-30  cm) di altezza, anche se questo pu\xF2 variare a seconda
+      del modello."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Ora vediamo le parti fondamentali della motosega.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Grilletto di sicurezza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: "\xC8 un elemento di sicurezza della motosega, quindi \xE8 uno dei
+      pi\xF9 importanti per il  suo funzionamento. Infatti, se non viene premuto,
+      non sar\xE0 possibile azionare il  grilletto dell'acceleratore, evitando cos\xEC
+      incidenti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Protezione anteriore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: "Questa parte ha due funzioni: da un lato protegge la mano che tiene
+      l'utensile per  l'impugnatura anteriore e, allo stesso tempo, funge da freno
+      a catena che riduce la  probabilit\xE0 di lesioni causate dal contraccolpo
+      della macchina durante l'arresto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Avviamento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: "L'avviamento \xE8 una delle parti di una motosega che utilizzerai
+      di pi\xF9, quindi  dovresti trattarlo con cura per evitare guasti e prolungarne
+      la durata. \xC8 la corda  che utilizzi per avviare l'attrezzo ogni volta che
+      lo usi, tirandola ripetutamente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Impugnatura anteriore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: "L'impugnatura anteriore \xE8 la parte della motosega pi\xF9 vicina
+      alla barra. Questo  significa che \xE8 la pi\xF9 suscettibile a generare rischi;
+      il design delle motoseghe  prevede che questa presa sia destinata alla mano
+      sinistra, che viene utilizzata per  guidare l'orientamento dello strumento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Impugnatura posteriore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: "La tua mano destra, invece, afferrer\xE0 l'impugnatura posteriore
+      della macchina e  sar\xE0 incaricata di mantenerne il peso e fornire supporto.
+      Su di essa sono situati i  grilletti di sicurezza e di accelerazione, che devono
+      essere premuti in ogni  momento affinch\xE9 la motosega funzioni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: Serbatoio del carburante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: "Un'altra parte della motosega che richiede maggiore cura \xE8 il
+      serbatoio del  carburante. \xC8 fondamentale consultare le istruzioni del produttore
+      per verificare  e rispettare sempre le proporzioni raccomandate nella miscela
+      di benzina e olio.  Outra parte da motosserra que requer mais cuidados \xE9
+      o tanque de combust\xEDvel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: Serbatoio dell'olio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: "Sebbene sia la spiegazione pi\xF9 evidente tra tutte le parti che
+      compongono la  motosega, \xE8 opportuno sottolinearne l'importanza e la necessit\xE0
+      di mantenere  livelli adeguati. Una lubrificazione adeguata \xE8 fondamentale
+      per il funzionamento  e la sicurezza della motosega."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: Motore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: "\xC8 azionata da una frizione centrifuga e un pignone, che generano
+      l'avviamento  per far funzionare la motosega tramite combustione interna. Generalmente,
+      il  volume del cilindro varia tra i 30 e i 120 centimetri cubici, a seconda
+      del  produttore."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Protezione paraurti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: "Oltre alla gi\xE0 menzionata protezione anteriore, alla base della
+      barra si trovano  generalmente sporgenze destinate alla protezione per evitare
+      lesioni causate dal  contraccolpo della motosega quando si ferma."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Acceleratore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: "L'acceleratore, o grilletto di accelerazione, si trova all'interno
+      della parte superiore  dell'impugnatura posteriore. \xC8 progettato per essere
+      azionato mentre si sostiene il  peso dell'attrezzo. Ricorda che non funzioner\xE0
+      se non si preme  contemporaneamente il grilletto di sicurezza."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: Catena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: "Tra le parti della motosega, la catena di taglio \xE8 la pi\xF9
+      legata al taglio. Ruota  attorno alla barra guida ed \xE8 composta da piccoli
+      denti metallici estremamente  affilati. Pu\xF2 risultare molto pericolosa se
+      non maneggiata in condizioni di  sicurezza, con l'attrezzo completamente spento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: Barra di guida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: "La barra di guida \xE8 la parte della motosega che le conferisce
+      la sua forma cos\xEC  caratteristica. Serve a guidare la catena di taglio ed
+      \xE8 allungata per facilitare il  taglio in operazioni come la potatura, permettendo
+      di raggiungere rami pi\xF9  distanti grazie alla sua lunghezza."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28
+    m_Localized: Artigli di arresto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: "L'artiglio di arresto o \"artiglio di corteccia\" \xE8 un componente
+      che guida il taglio  della barra. Si inserisce nella corteccia di alberi di
+      grande diametro, offrendo  sicurezza e fungendo da perno tra il motore e la
+      barra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: Adescatore o spurgo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: Il pulsante di adescamento o spurgo su una motosega sposta il carburante
+      dal  serbatoio e dal carburatore utilizzando l'aspirazione. Questa aspirazione
+      fornisce  abbastanza carburante nel carburatore e nel cilindro per avviare
+      il motore.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: Starter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: "La sua funzione principale \xE8 fornire una miscela pi\xF9 ricca
+      di aria e carburante  al motore quando \xE8 freddo, aiutando a garantire un
+      avviamento fluido e senza  problemi."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

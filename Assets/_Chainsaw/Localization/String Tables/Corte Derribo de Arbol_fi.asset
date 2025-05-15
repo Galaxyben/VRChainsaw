@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corte Derribo de Arbol_fi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi
+  m_SharedData: {fileID: 11400000, guid: 637ef3ff49c818c43941cb2c3426a8e7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20975542272
+    m_Localized: Nosta moottorisaha maasta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319488
+    m_Localized: "Suorita KUUMAK\xC4YNNISTYS (KURISTIMEN ASENTO P\xC4\xC4LL\xC4 ei
+      ole tarpeen)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319489
+    m_Localized: "OIKEA TAPA PIT\xC4\xC4 MOOTTORISAHAA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319490
+    m_Localized: "HUOMIO!. Pid\xE4 moottorisahaa etukahvan vasemmalla kahvalla (paina
+      t\xE4t\xE4 varten liipaisinta ja vasenta kahvaa ja pid\xE4 niit\xE4 painettuna
+      kahvan pit\xE4miseksi). ON V\xC4LTT\xC4M\xC4T\xD6NT\xC4 SIIRT\xC4\xC4 VASEMMAN
+      K\xC4DEN PEUKALO KAHVAN ALLE, JOTTA VASEN K\xC4SI SULKEUTUU T\xC4YSIN ETUKAHVAN
+      YMP\xC4RILLE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319491
+    m_Localized: "HUOMIO!. Oikealla kahvalla pid\xE4 takakahvasta kiinni (paina t\xE4t\xE4
+      varten oikean kahvan kahvaa ja pid\xE4 sit\xE4 painettuna, oikean kahvan liipaisinta
+      k\xE4ytet\xE4\xE4n moottorisahan kiihdyttimen\xE4)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319493
+    m_Localized: "KIELLETTY LEIKATA, JOS ALUEELLA ON IHMISI\xC4 V\xC4HINT\xC4\xC4N
+      2 METRIN ET\xC4ISYYDELL\xC4 LEIKKAUSALUEELTA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319494
+    m_Localized: "KIELLETTY LEIKATA MOOTTORISAHALLA KORKEUDELLA OLKAP\xC4IDEN YL\xC4PUOLELLA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319495
+    m_Localized: "HUOMIO!: \xC4L\xC4 TEE SAHAUSLIIKKEIT\xC4. JOS KONE PYS\xC4HTYY
+      KESKEN LEIKKAUKSEN, POISTA PYS\xC4HTYNYT MOOTTORISAHA JA YRIT\xC4 UUDELLEEN.
+      \xC4L\xC4 K\xC4YNNIST\xC4 SIT\xC4 KESKEN LEIKKAUKSEN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319496
+    m_Localized: "Kun haluamme kaataa puun, meid\xE4n t\xE4ytyy tehd\xE4 kaksi perustyyppi\xE4
+      leikkauksia: suuntaava leikkaus ja kaatoleikkaus. N\xE4iden v\xE4liin t\xE4ytyy
+      j\xE4tt\xE4\xE4 ehj\xE4 puualue, jota kutsumme saranaksi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319497
+    m_Localized: "Yleisin suuntaava leikkaus on kulma-aukkoleikkaus. Se on suositelluin,
+      koska sit\xE4 voidaan k\xE4ytt\xE4\xE4 useimmissa tapauksissa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319498
+    m_Localized: "Suuntaava leikkaus sis\xE4lt\xE4\xE4 kaksi vaihetta: yl\xE4viistoleikkaus
+      ja alempi suora leikkaus."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20992319499
+    m_Localized: "Asetu polvellasi tukien ja tee ensimm\xE4inen leikkuu merkittyyn
+      alueeseen miekan alaosalla 45 asteen hy\xF6kk\xE4yskulmassa. Leikkaus tulee
+      olla 15-20% rungon halkaisijasta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513792
+    m_Localized: "Nyt, kun pid\xE4t polvea maassa, teemme alemmasta leikkauksesta
+      suoraviivaisen miekans\xE4rm\xE4n alaosalla. Leikkaus valmistuu, kun se kohtaa
+      kulmaleikkauksen, jolloin syntyy puinen kiila."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513793
+    m_Localized: "Jotta suuntaava leikkaus olisi oikea, se tulee tehd\xE4 mahdollisimman
+      l\xE4hell\xE4 puun tyve\xE4, jotta kaatoon saadaan vakautta ja hallittavuutta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513794
+    m_Localized: "Kaatoleikkaus tehd\xE4\xE4n sen j\xE4lkeen, kun suuntaava leikkaus
+      on suoritettu, ja se tehd\xE4\xE4n t\xE4sm\xE4lleen vastakkaiselle puolelle,
+      miss\xE4 suuntaava leikkaus tehtiin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513795
+    m_Localized: "Nyt, asetu vastakkaiselle puolelle ja, pit\xE4en polveasi maassa,
+      suoritetaan leikkuu miekan alaosalla suoraan merkittyyn alueeseen. T\xE4m\xE4
+      leikkuu suoritetaan samalla tasolla tai hieman suuntaavan leikkuun yl\xE4puolella."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513796
+    m_Localized: "On eritt\xE4in t\xE4rke\xE4\xE4 pys\xE4ytt\xE4\xE4 kaatoleikkaus
+      ennen kuin se saavuttaa suuntaavan leikkauksen, jotta muodostuu niin kutsuttu
+      sarana."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513797
+    m_Localized: "Sarana on keskeinen elementti puun turvallisen ja siistin kaatamisen
+      varmistamiseksi. Kahden leikkuun v\xE4liin j\xE4\xE4v\xE4 ehj\xE4 puu toimii
+      tukena ja ohjaa puun kaatumista."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513798
+    m_Localized: "Saranan tulee olla yhten\xE4isen pituinen ja paksuinen. Sen pituuden
+      tulee olla v\xE4hint\xE4\xE4n 80 % ja paksuuden v\xE4hint\xE4\xE4n 10 % puun
+      halkaisijasta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513799
+    m_Localized: "Suuntaavan leikkauksen kulma m\xE4\xE4ritt\xE4\xE4, kuinka kauan
+      sarana pysyy ehj\xE4n\xE4. Alle 45 asteen kulmat nopeuttavat puun kaatumista."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20996513800
+    m_Localized: Kun molemmat leikkaukset on tehty, puu kaatuu siihen suuntaan, johon
+      suuntaava leikkaus tehtiin.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Arranque en frio_sv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv
+  m_SharedData: {fileID: 11400000, guid: a293abbca652725429353a685231c84c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1104737558528
+    m_Localized: "H\xE5ll motors\xE5gen med den v\xE4nstra kontrollen (anv\xE4nd
+      greppet p\xE5 den v\xE4nstra kontrollen) och tryck tre g\xE5nger p\xE5 den
+      h\xF6gra avtryckaren p\xE5 motors\xE5gens primer f\xF6r att f\xE5 in br\xE4nsle
+      i f\xF6rgasaren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947136
+    m_Localized: "Tryck p\xE5 chokern med den h\xF6gra avtryckaren och s\xE4tt den
+      i ON-l\xE4ge."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947137
+    m_Localized: "Placera motors\xE5gen p\xE5 marken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947138
+    m_Localized: "H\xE5ll motors\xE5gen stadigt p\xE5 marken n\xE4r du startar den.
+      S\xE4tt din h\xF6gra fot genom det bakre handtaget och greppa det fr\xE4mre
+      handtaget stadigt med din h\xF6gra hand (h\xE5ll GRIP p\xE5 den h\xF6gra kontrollen
+      nedtryckt)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947139
+    m_Localized: "Motors\xE5gen m\xE5ste st\xE5 p\xE5 en plan yta och kedjan f\xE5r
+      inte ha kontakt med marken; annars kan bladet skadas vid start och din s\xE4kerhet
+      \xE4ventyras i on\xF6dan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947140
+    m_Localized: "Nu med den v\xE4nstra kontrollen, ta STARTHANDTAGET (h\xE5ll greppet
+      p\xE5 den v\xE4nstra kontrollen nedtryckt) och dra upp\xE5t. Upprepa proceduren
+      flera g\xE5nger tills du h\xF6r att motorn f\xF6rs\xF6ker starta, sluta sedan
+      f\xF6rs\xF6ka."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947141
+    m_Localized: "Tryck nu p\xE5 chokern med den h\xF6gra avtryckaren och s\xE4tt
+      den i OFF-l\xE4ge."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947142
+    m_Localized: "Upprepa startproceduren f\xF6r motors\xE5gen p\xE5 marken tills
+      den startar framg\xE5ngsrikt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104745947143
+    m_Localized: "Vi har genomf\xF6rt operationen kallad KALLSTART, som anv\xE4nds
+      f\xF6r att starta motors\xE5gen i b\xF6rjan av dagen. Om du vill starta den
+      igen senare samma dag, \xC4R DET INTE N\xD6DV\xC4NDIGT ATT ANV\xC4NDA CHOKEN
+      I ON-L\xC4GE. Starta motors\xE5gen med samma process men med CHOKEN I OFF-L\xC4GE."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

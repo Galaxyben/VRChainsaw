@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Corte Basico Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Corte Basico
+  m_TableCollectionNameGuidString: dc4a69a5d6334a34caffa8972b72c4a9
+  m_Entries:
+  - m_Id: 19964715008
+    m_Key: INSTRUCCION. COGER MOTOSIERRA DEL SUELO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492224
+    m_Key: INSTRUCCION. ARRANQUE EN CALIENTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492225
+    m_Key: TITULO. FORMA DE COGER MOTOSIERRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492226
+    m_Key: INSTRUCCION. COGER SIERRA MANO IZQ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492227
+    m_Key: INSTRUCCION. COGER SIERRA MANO DER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492228
+    m_Key: ADVERTENCIA. AGARRE DE MOTOSIERRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492229
+    m_Key: ADVERTENCIA. PERSONAS CERCA DE ZONA DE CORTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492230
+    m_Key: ADVERTENCIA. CORTE ARRIBA DE HOMBROS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492231
+    m_Key: INSTRUCCION. CORTE MEDIA ALTURA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19981492232
+    m_Key: INSTRUCCION. CORTE MEDIA ALTURA. POSTURA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686528
+    m_Key: ADVERTENCIA. TRAYECTORIA DE CORTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686529
+    m_Key: ADVERTENCIA. NO COLOCAR SIERRA FRENTE CUERPO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686530
+    m_Key: INSTRUCCION. CORTE MEDIA ALTURA. CORTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686531
+    m_Key: ADVERTENCIA. NO MOVIMIENTO SERRADO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686532
+    m_Key: INSTRUCCION. CORTE BAJA ALTURA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686533
+    m_Key: INSTRUCCION. CORTE BAJA ALTURA. POSTURA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686534
+    m_Key: ADVERTENCIA. NO ENCORVAR ESPALDA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19985686535
+    m_Key: INSTRUCCION. CORTE BAJA ALTURA. CORTE
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8130523493870862417
+  references:
+    version: 2
+    RefIds:
+    - rid: 8130523493870862417
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1746140688331

@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Conociendo la Maquina_fi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi
+  m_SharedData: {fileID: 11400000, guid: afb138397c98a9b43b6d2fba1835219d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: "Moottorisaha on s\xE4hk\xF6- tai bensiinik\xE4ytt\xF6inen ty\xF6kalu,
+      jota k\xE4ytet\xE4\xE4n puun sahaamiseen.  Siin\xE4 on ter\xE4v\xE4ketju, joka
+      py\xF6rii ter\xE4laipan ymp\xE4ri, mahdollistaen nopean ja tehokkaan  leikkaamisen
+      puunrungoissa ja oksissa. Sit\xE4 k\xE4ytet\xE4\xE4n yleisesti puiden kaadossa, 
+      karsinnassa ja rakennust\xF6iss\xE4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: "Moottorisahat painavat yleens\xE4 6\u201322 paunaa (3\u201310 kg)
+      ja niiden ter\xE4laipat vaihtelevat  12\u201324 tuuman (30\u201360 cm) v\xE4lill\xE4.
+      Yleiset mitat ovat noin 12\u201316 tuumaa (30\u201340 cm)  leveit\xE4 ja 10\u201312
+      tuumaa (25\u201330 cm) korkeita, vaikka t\xE4m\xE4 voi vaihdella mallista 
+      riippuen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: "Katsotaan nyt moottorisahan t\xE4rkeimm\xE4t osat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Turvaliipaisin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: "Se on moottorisahan turvaelementti, joten se on yksi t\xE4rkeimmist\xE4
+      sen  toiminnassa. Jos sit\xE4 ei paineta, kaasuliipasinta ei voi aktivoida,
+      mik\xE4 est\xE4\xE4  onnettomuuksia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Etusuoja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: "T\xE4m\xE4 osa t\xE4ytt\xE4\xE4 kaksi teht\xE4v\xE4\xE4: se suojaa
+      etukahvasta ty\xF6kalua pitelev\xE4\xE4 k\xE4tt\xE4 ja  toimii samalla ketjujarruna,
+      joka v\xE4hent\xE4\xE4 koneen takapotkun aiheuttaman  loukkaantumisriskin pys\xE4hdyksess\xE4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: "K\xE4ynnistys"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: "K\xE4ynnistys on yksi moottorisahan osista, joita k\xE4yt\xE4t
+      eniten, joten sit\xE4 on  k\xE4sitelt\xE4v\xE4 huolellisesti, jotta v\xE4ltet\xE4\xE4n
+      viat ja pidennet\xE4\xE4n sen k\xE4ytt\xF6ik\xE4\xE4. Se on  vetokahva, jolla
+      k\xE4ynnist\xE4t laitteen vet\xE4m\xE4ll\xE4 sit\xE4 toistuvasti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Etukahva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: "Etukahva on moottorisahan osa, joka on l\xE4himp\xE4n\xE4 ter\xE4laippaa.
+      T\xE4m\xE4 tarkoittaa,  ett\xE4 se on alttiimpi riskeille; moottorisahojen
+      suunnittelu varmistaa, ett\xE4 t\xE4m\xE4 ote  on tarkoitettu vasemmalle k\xE4delle,
+      jota k\xE4ytet\xE4\xE4n ty\xF6kalun suuntaamiseen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Takakahva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: "Oikea k\xE4tesi puolestaan tarttuu koneen takakahvaan ja vastaa
+      sen painon  tukemisesta ja tukevuudesta. Siin\xE4 sijaitsevat turva- ja kaasuponninsalpaimet, 
+      jotka on pidett\xE4v\xE4 painettuina koko ajan, jotta moottorisaha toimii."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: "Polttoaines\xE4ili\xF6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: "Toinen moottorisahan osa, joka vaatii erityist\xE4 huolellisuutta,
+      on polttoaines\xE4ili\xF6.  On t\xE4rke\xE4\xE4 tarkistaa valmistajan ohjeet
+      ja aina noudattaa suositeltuja bensiinin ja  \xF6ljyn seossuhteita."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: "\xD6ljys\xE4ili\xF6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: "Vaikka t\xE4m\xE4 on kaikista moottorisahan osista ilmeisin selitys,
+      on t\xE4rke\xE4\xE4 korostaa  sen merkityst\xE4 ja tarvetta yll\xE4pit\xE4\xE4
+      oikeat tasot. Asianmukainen voitelu on  v\xE4ltt\xE4m\xE4t\xF6nt\xE4 moottorisahan
+      toiminnan ja turvallisuuden kannalta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: Moottori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: "Se toimii keskipakokytkimen ja hammaspy\xF6r\xE4n avulla, jotka
+      mahdollistavat  moottorisahan k\xE4ynnistymisen sis\xE4isen polton kautta.
+      Sylinterin tilavuus on  yleens\xE4 30\u2013120 kuutiosenttimetri\xE4 valmistajasta
+      riippuen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Puskurisuoja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: "Edell\xE4 mainitun etusuojan lis\xE4ksi ter\xE4n pohjassa on yleens\xE4
+      ulkonemia, jotka on  tarkoitettu suojaamaan moottorisahan takapotkuilta sen
+      pys\xE4htyess\xE4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Kaasuvipu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: "Kaasuvipu, tai kaasun laukaisin, sijaitsee takakahvan yl\xE4osan
+      sis\xE4ll\xE4. Se on  suunniteltu siten, ett\xE4 voit k\xE4ytt\xE4\xE4 sit\xE4
+      samalla kun kannattelet ty\xF6kalun painoa.  Muista, ett\xE4 se ei toimi, ellei
+      turvaliipaisinta paineta samanaikaisesti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: Ketju
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: "Moottorisahan osista sahausketju liittyy eniten leikkaamiseen.
+      Se py\xF6rii  ohjauslevyn ymp\xE4ri ja koostuu pienist\xE4, eritt\xE4in ter\xE4vist\xE4
+      metallihampaista. Se voi  olla eritt\xE4in vaarallinen, jos sit\xE4 ei k\xE4sitell\xE4
+      turvallisissa olosuhteissa ja t\xE4ysin  sammutetulla ty\xF6kalulla."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: "Sahauster\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: "Sahauster\xE4 on se moottorisahan osa, joka antaa sille sen tunnusomaisen 
+      muodon. Se ohjaa sahausketjua ja on pidennetty, jotta leikkaaminen, kuten 
+      oksien karsinta, olisi helpompaa, sill\xE4 sen pituus mahdollistaa p\xE4\xE4syn 
+      kaukaisempiin oksiin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28
+    m_Localized: "Pys\xE4ytystapit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: "Pys\xE4ytyskynsi tai \"kaarnakynsi\" on osa, joka ohjaa ter\xE4n
+      leikkausta. Se  upotetaan suurihalkaisijaisten puiden kaarnaan, tarjoten turvallisuutta
+      ja toimien  saranana moottorin ja ter\xE4n v\xE4lill\xE4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: Aluke tai ilmausventtiili
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: "Moottorisahan aluke- tai ilmausventtiili liikuttaa polttoainetta
+      s\xE4ili\xF6st\xE4 ja  kaasuttimesta imuvoiman avulla. T\xE4m\xE4 imu tuo tarpeeksi
+      polttoainetta  kaasuttimeen ja sylinteriin moottorin k\xE4ynnist\xE4miseksi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: Kuristin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: "Sen p\xE4\xE4teht\xE4v\xE4 on tarjota moottorille, kun se on kylm\xE4,
+      rikkaampi seos ilmaa ja  polttoainetta, mik\xE4 auttaa varmistamaan sujuvan
+      ja ongelmattoman  k\xE4ynnistyksen."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
